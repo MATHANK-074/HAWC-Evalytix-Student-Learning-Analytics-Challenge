@@ -1,0 +1,2001 @@
+Student_ID,Student_Name,Class,Board,Target_Exam,Medium,Admission_Date,Study_Mode
+STU0001,Madhavi Agrawal,Class 9,CBSE,Foundation,Tamil,2026-03-24,Online
+STU0002,Hitesh Karan,Class 10,CBSE,Foundation,English,2025-03-26,Hybrid
+STU0003,Robert Banik,Class 9,State Board,NEET,English,2025-07-22,Online
+STU0004,Yashica Shanker,Class 9,CBSE,JEE,Hindi,2026-06-05,Hybrid
+STU0005,Hiral Karnik,Class 9,State Board,JEE,Hindi,2025-11-26,Hybrid
+STU0006,Zarna Nayak,Class 12,CBSE,NEET,Hindi,2026-02-20,Offline
+STU0007,Baghyawati Khanna,Class 9,CBSE,Foundation,Tamil,2026-07-07,Offline
+STU0008,Rudra Vohra,Class 11,CBSE,JEE,Tamil,2024-10-10,Online
+STU0009,Dhruv Ganesh,Class 9,ICSE,JEE,Tamil,2025-06-21,Offline
+STU0010,Libni Dey,Class 11,CBSE,Foundation,Tamil,2025-12-11,Hybrid
+STU0011,Ethan Vaidya,Class 9,ICSE,JEE,Hindi,2026-05-20,Offline
+STU0012,Akshay Ratta,Class 11,State Board,JEE,Hindi,2026-03-12,Online
+STU0013,Patrick Nigam,Class 9,State Board,JEE,Tamil,2026-05-17,Online
+STU0014,Upkaar Sengupta,Class 10,CBSE,NEET,Tamil,2025-06-04,Offline
+STU0015,Sai Mistry,Class 11,CBSE,NEET,Tamil,2024-11-15,Online
+STU0016,Warda Narayan,Class 11,State Board,Foundation,Hindi,2025-09-10,Online
+STU0017,Tanay Mander,Class 10,State Board,Foundation,English,2025-06-20,Online
+STU0018,Ijaya Jayaraman,Class 12,ICSE,NEET,Hindi,2025-04-30,Hybrid
+STU0019,Bishakha Mand,Class 10,State Board,NEET,English,2025-06-18,Online
+STU0020,Tristan Ahuja,Class 9,ICSE,NEET,Tamil,2024-12-19,Online
+STU0021,Tamanna Naik,Class 10,State Board,Foundation,Tamil,2025-06-11,Online
+STU0022,Victor Sundaram,Class 12,ICSE,Foundation,Tamil,2025-01-23,Online
+STU0023,Megha Sehgal,Class 11,CBSE,JEE,Hindi,2025-09-05,Hybrid
+STU0024,Aradhana Bath,Class 11,State Board,Foundation,Tamil,2026-06-10,Hybrid
+STU0025,Zilmil Agate,Class 12,ICSE,JEE,English,2025-01-31,Hybrid
+STU0026,Amaira Bhargava,Class 12,CBSE,JEE,English,2025-03-31,Online
+STU0027,Fariq Sastry,Class 10,State Board,NEET,Hindi,2025-01-12,Online
+STU0028,Pallavi Raghavan,Class 12,ICSE,Foundation,Tamil,2025-07-17,Hybrid
+STU0029,Indira Balay,Class 11,State Board,JEE,Hindi,2024-08-06,Hybrid
+STU0030,Ansh Kant,Class 9,State Board,Foundation,Tamil,2026-07-10,Hybrid
+STU0031,Ucchal Sandhu,Class 11,CBSE,NEET,Tamil,2024-10-25,Online
+STU0032,Ekanta Bail,Class 12,CBSE,Foundation,Hindi,2026-04-13,Offline
+STU0033,Tanveer Dhar,Class 10,State Board,JEE,Hindi,2026-04-09,Offline
+STU0034,Gavin Chakrabarti,Class 10,CBSE,NEET,English,2026-04-16,Hybrid
+STU0035,Arjun Sachar,Class 9,State Board,NEET,Tamil,2025-06-17,Online
+STU0036,Maanav Mody,Class 9,ICSE,NEET,English,2025-05-14,Online
+STU0037,Victor Kunda,Class 10,State Board,JEE,English,2026-05-28,Hybrid
+STU0038,Pallavi Varughese,Class 12,CBSE,Foundation,English,2025-02-07,Online
+STU0039,Jhalak Sachdeva,Class 12,State Board,JEE,Tamil,2024-09-07,Hybrid
+STU0040,Aadi Dugar,Class 12,CBSE,Foundation,Hindi,2026-01-02,Hybrid
+STU0041,Gautam Chahal,Class 10,State Board,NEET,Tamil,2025-11-01,Hybrid
+STU0042,Pahal Goda,Class 11,ICSE,Foundation,Tamil,2025-11-24,Online
+STU0043,Yuvraj Wadhwa,Class 10,CBSE,JEE,Tamil,2025-05-04,Online
+STU0044,Upasna Dhawan,Class 10,State Board,JEE,English,2025-10-21,Online
+STU0045,Avni Narasimhan,Class 9,CBSE,JEE,English,2024-08-18,Offline
+STU0046,Yashasvi Edwin,Class 9,State Board,JEE,Tamil,2026-04-13,Hybrid
+STU0047,Manthan Thaman,Class 12,CBSE,Foundation,English,2025-04-19,Hybrid
+STU0048,Chanchal Edwin,Class 12,CBSE,NEET,Tamil,2026-03-26,Online
+STU0049,Bina Srivastava,Class 9,CBSE,Foundation,Tamil,2025-04-08,Offline
+STU0050,Kamala Nadig,Class 12,ICSE,NEET,Hindi,2025-07-06,Online
+STU0051,Gunbir Palan,Class 9,CBSE,NEET,Hindi,2025-03-24,Offline
+STU0052,Upkaar Swaminathan,Class 9,CBSE,JEE,English,2026-05-07,Hybrid
+STU0053,Kavya Badami,Class 12,CBSE,NEET,English,2025-01-31,Offline
+STU0054,Anirudh Madan,Class 12,CBSE,JEE,Tamil,2024-11-20,Hybrid
+STU0055,Priya Saran,Class 9,CBSE,Foundation,Hindi,2025-09-13,Online
+STU0056,Radhika Ben,Class 9,CBSE,JEE,Tamil,2026-01-20,Offline
+STU0057,Aryan Chakrabarti,Class 12,CBSE,NEET,English,2026-05-12,Online
+STU0058,Unni Majumdar,Class 12,CBSE,NEET,Tamil,2025-12-15,Offline
+STU0059,Samuel Sheth,Class 11,ICSE,Foundation,Hindi,2025-05-23,Hybrid
+STU0060,Aditya Pradhan,Class 12,CBSE,JEE,Tamil,2024-11-27,Online
+STU0061,Edhitha Oza,Class 9,State Board,Foundation,Hindi,2024-11-28,Online
+STU0062,Dhriti Lad,Class 11,CBSE,JEE,Hindi,2024-08-17,Offline
+STU0063,Turvi Pradhan,Class 10,CBSE,Foundation,English,2025-10-05,Online
+STU0064,Aradhana Dar,Class 9,State Board,JEE,Hindi,2026-03-20,Online
+STU0065,Quincy Pandit,Class 12,CBSE,Foundation,English,2025-05-07,Hybrid
+STU0066,Upkaar Iyer,Class 9,State Board,JEE,Tamil,2024-11-01,Hybrid
+STU0067,Ranbir Sinha,Class 11,ICSE,JEE,Hindi,2026-07-22,Hybrid
+STU0068,Teerth Bava,Class 11,CBSE,NEET,Tamil,2026-07-07,Online
+STU0069,Gaurangi Venkataraman,Class 11,ICSE,NEET,English,2026-03-03,Online
+STU0070,Bhavini Zachariah,Class 12,State Board,Foundation,English,2025-10-21,Online
+STU0071,Aarush Basu,Class 10,State Board,NEET,English,2026-06-16,Offline
+STU0072,David Goda,Class 9,CBSE,NEET,Tamil,2025-01-18,Online
+STU0073,Nitesh Gola,Class 12,State Board,Foundation,Tamil,2024-12-17,Hybrid
+STU0074,Dhruv Kala,Class 9,State Board,Foundation,Tamil,2025-05-21,Hybrid
+STU0075,Jeet Bal,Class 9,CBSE,NEET,English,2026-03-06,Online
+STU0076,Sudiksha Ray,Class 10,ICSE,NEET,Hindi,2025-03-20,Online
+STU0077,Anjali Brar,Class 11,CBSE,Foundation,Hindi,2026-02-17,Offline
+STU0078,Jagrati Buch,Class 12,ICSE,JEE,English,2025-03-21,Hybrid
+STU0079,Jagrati Mangat,Class 12,ICSE,JEE,English,2026-04-18,Offline
+STU0080,Zaid Nath,Class 10,State Board,NEET,English,2025-10-25,Hybrid
+STU0081,Lakshmi Sangha,Class 12,State Board,Foundation,Tamil,2026-02-10,Hybrid
+STU0082,Faras Parmer,Class 9,CBSE,JEE,Hindi,2025-02-24,Online
+STU0083,Maya Bhargava,Class 9,ICSE,Foundation,Hindi,2025-02-26,Online
+STU0084,Benjamin Parekh,Class 12,CBSE,JEE,Tamil,2026-01-08,Offline
+STU0085,Kashvi Toor,Class 9,ICSE,JEE,Hindi,2025-10-03,Online
+STU0086,Jonathan Dey,Class 9,ICSE,Foundation,Tamil,2026-07-23,Hybrid
+STU0087,Vansha Kala,Class 10,CBSE,JEE,English,2025-05-21,Offline
+STU0088,Indali Deep,Class 9,CBSE,Foundation,Tamil,2026-03-16,Offline
+STU0089,Manya Chaudry,Class 10,ICSE,JEE,Hindi,2024-09-14,Online
+STU0090,Sai Pandit,Class 12,CBSE,NEET,English,2025-01-07,Online
+STU0091,Utkarsh Ramanathan,Class 12,ICSE,NEET,English,2025-04-14,Online
+STU0092,Kala Minhas,Class 9,State Board,JEE,Tamil,2025-06-06,Offline
+STU0093,Pushti Rout,Class 11,CBSE,NEET,Tamil,2026-04-18,Hybrid
+STU0094,Anika Mann,Class 12,State Board,Foundation,Tamil,2026-04-13,Online
+STU0095,Arunima Randhawa,Class 9,ICSE,JEE,Hindi,2024-09-08,Offline
+STU0096,Varsha Rau,Class 9,CBSE,Foundation,Tamil,2025-06-07,Offline
+STU0097,Rohan Mukherjee,Class 11,ICSE,Foundation,Hindi,2025-11-01,Online
+STU0098,Oscar Divan,Class 12,State Board,JEE,Tamil,2025-12-04,Online
+STU0099,Ishani Mitra,Class 12,CBSE,Foundation,Hindi,2024-09-24,Hybrid
+STU0100,Devansh Balan,Class 10,ICSE,NEET,English,2025-10-09,Hybrid
+STU0101,Hritik Pathak,Class 11,State Board,NEET,Hindi,2024-09-29,Online
+STU0102,Samar Modi,Class 11,State Board,NEET,Hindi,2024-08-13,Offline
+STU0103,Chasmum Ramachandran,Class 11,ICSE,Foundation,Tamil,2025-02-15,Hybrid
+STU0104,Siddharth Sehgal,Class 10,CBSE,NEET,Hindi,2024-11-30,Offline
+STU0105,Yagnesh Chadha,Class 10,State Board,Foundation,Tamil,2025-02-08,Offline
+STU0106,Kamala Mahal,Class 9,ICSE,NEET,English,2026-05-20,Offline
+STU0107,Lohit Krish,Class 11,ICSE,NEET,Tamil,2024-09-13,Hybrid
+STU0108,Tanveer Rout,Class 10,State Board,NEET,Hindi,2025-09-08,Online
+STU0109,Chatura Srinivasan,Class 9,ICSE,Foundation,Hindi,2024-08-22,Hybrid
+STU0110,Girik Swaminathan,Class 11,CBSE,JEE,Hindi,2025-05-23,Offline
+STU0111,Omkaar Chacko,Class 10,CBSE,JEE,English,2026-04-15,Online
+STU0112,Watika Dhar,Class 10,ICSE,Foundation,English,2025-06-06,Offline
+STU0113,Pranit Chandra,Class 12,State Board,Foundation,English,2025-11-17,Hybrid
+STU0114,Pallavi Pillay,Class 12,ICSE,NEET,English,2025-07-13,Online
+STU0115,Mahika Tailor,Class 9,CBSE,NEET,English,2025-12-28,Online
+STU0116,Kashish Biswas,Class 12,CBSE,Foundation,English,2025-09-06,Online
+STU0117,Zayyan Bhardwaj,Class 12,CBSE,NEET,Hindi,2025-03-23,Hybrid
+STU0118,Matthew Bose,Class 11,ICSE,Foundation,Hindi,2025-02-19,Hybrid
+STU0119,Chavvi Nadkarni,Class 12,State Board,NEET,English,2025-11-23,Hybrid
+STU0120,Gautami Gulati,Class 12,ICSE,NEET,English,2026-03-26,Hybrid
+STU0121,Warinder Grover,Class 11,State Board,NEET,Hindi,2024-11-05,Online
+STU0122,Pallavi Subramanian,Class 11,ICSE,JEE,Hindi,2026-01-11,Offline
+STU0123,Yagnesh Sandhu,Class 10,ICSE,NEET,Tamil,2025-05-23,Hybrid
+STU0124,Madhavi Wason,Class 9,CBSE,JEE,English,2024-12-06,Offline
+STU0125,Aarini Deshpande,Class 10,State Board,JEE,English,2025-10-12,Offline
+STU0126,Waida Natarajan,Class 12,ICSE,Foundation,Tamil,2025-06-18,Offline
+STU0127,Sanya Jayaraman,Class 9,CBSE,NEET,Tamil,2025-10-31,Hybrid
+STU0128,Finn Bora,Class 9,State Board,NEET,Tamil,2025-12-05,Online
+STU0129,Vidhi Viswanathan,Class 11,ICSE,NEET,Tamil,2025-08-06,Hybrid
+STU0130,Jhalak Ramakrishnan,Class 10,ICSE,JEE,Tamil,2024-12-26,Offline
+STU0131,Benjamin Mahal,Class 12,CBSE,NEET,Tamil,2025-02-12,Hybrid
+STU0132,Dipta Dada,Class 12,State Board,JEE,Tamil,2025-11-27,Online
+STU0133,Gopal Dube,Class 9,ICSE,Foundation,Hindi,2026-05-16,Hybrid
+STU0134,Geetika Chaudhuri,Class 9,CBSE,Foundation,Tamil,2025-12-10,Online
+STU0135,Bahadurjit Sandhu,Class 12,CBSE,JEE,Tamil,2025-08-28,Offline
+STU0136,Pooja Wadhwa,Class 11,CBSE,NEET,Tamil,2024-10-09,Offline
+STU0137,Ishaan Hayer,Class 12,ICSE,NEET,Tamil,2025-06-26,Online
+STU0138,Vihaan Dass,Class 12,CBSE,Foundation,Hindi,2026-04-03,Online
+STU0139,Avni Bera,Class 11,CBSE,Foundation,English,2025-04-26,Hybrid
+STU0140,Quincy Bassi,Class 9,CBSE,JEE,English,2025-01-24,Online
+STU0141,Ethan Dara,Class 10,CBSE,JEE,Tamil,2026-04-15,Hybrid
+STU0142,Garima Sharma,Class 9,State Board,JEE,Tamil,2025-07-25,Hybrid
+STU0143,Ishaan D’Alia,Class 11,ICSE,JEE,Hindi,2026-07-20,Hybrid
+STU0144,Umang Oak,Class 9,CBSE,NEET,English,2026-05-02,Hybrid
+STU0145,Mitesh Raghavan,Class 9,ICSE,Foundation,Hindi,2025-04-25,Offline
+STU0146,Naksh Randhawa,Class 12,State Board,JEE,English,2024-10-20,Hybrid
+STU0147,Eta Varghese,Class 10,CBSE,Foundation,Tamil,2026-04-22,Hybrid
+STU0148,Qadim Singhal,Class 9,State Board,JEE,Tamil,2025-09-25,Hybrid
+STU0149,Gagan Nigam,Class 12,State Board,NEET,English,2026-01-26,Hybrid
+STU0150,Krishna Rajagopalan,Class 11,CBSE,NEET,Tamil,2026-04-12,Online
+STU0151,Saksham Kashyap,Class 12,ICSE,Foundation,Tamil,2025-11-04,Hybrid
+STU0152,Gunbir Krishnan,Class 10,ICSE,JEE,Hindi,2026-06-29,Hybrid
+STU0153,Yamini Lalla,Class 11,State Board,Foundation,Tamil,2025-12-03,Offline
+STU0154,Baghyawati Viswanathan,Class 12,State Board,Foundation,Tamil,2025-04-20,Offline
+STU0155,Rayaan Dugal,Class 10,CBSE,NEET,Tamil,2025-04-12,Online
+STU0156,Yamini Narain,Class 12,State Board,Foundation,Hindi,2024-10-23,Offline
+STU0157,Ranveer Dass,Class 11,CBSE,NEET,Tamil,2026-07-20,Online
+STU0158,Xiti Lanka,Class 12,CBSE,NEET,Tamil,2025-11-16,Offline
+STU0159,Aryan Mohanty,Class 11,State Board,Foundation,Tamil,2025-11-02,Hybrid
+STU0160,Dayita Bir,Class 9,State Board,JEE,English,2026-06-06,Online
+STU0161,Brinda Viswanathan,Class 12,ICSE,Foundation,English,2025-05-11,Hybrid
+STU0162,Zaitra Setty,Class 12,State Board,Foundation,Tamil,2026-07-21,Offline
+STU0163,Gaurika Nath,Class 9,CBSE,NEET,English,2025-11-25,Offline
+STU0164,Gaurangi Aurora,Class 10,ICSE,Foundation,Hindi,2024-09-18,Offline
+STU0165,Geetika Prasad,Class 12,State Board,Foundation,Tamil,2025-01-02,Offline
+STU0166,Ekantika Nanda,Class 11,ICSE,Foundation,Tamil,2026-05-31,Offline
+STU0167,Omya Hayre,Class 11,ICSE,JEE,English,2024-10-11,Hybrid
+STU0168,Lavanya Mandal,Class 10,ICSE,JEE,Hindi,2024-11-03,Hybrid
+STU0169,Girish Suresh,Class 10,CBSE,JEE,Hindi,2026-05-15,Offline
+STU0170,Abhiram Palla,Class 11,State Board,Foundation,Hindi,2025-07-13,Hybrid
+STU0171,Patrick Dani,Class 11,CBSE,JEE,Tamil,2025-12-03,Online
+STU0172,Gauri Khanna,Class 11,CBSE,NEET,English,2024-10-02,Hybrid
+STU0173,Gautam Dutta,Class 10,ICSE,JEE,English,2024-09-06,Hybrid
+STU0174,Yashasvi Nagar,Class 11,State Board,JEE,Hindi,2026-07-12,Offline
+STU0175,Xalak Pradhan,Class 9,CBSE,Foundation,Tamil,2024-09-16,Offline
+STU0176,Ikshita Cherian,Class 12,ICSE,NEET,English,2024-12-03,Online
+STU0177,Pahal Swamy,Class 11,ICSE,JEE,English,2024-09-27,Offline
+STU0178,Diya Ahuja,Class 12,CBSE,Foundation,Hindi,2025-01-10,Hybrid
+STU0179,Urishilla Thakkar,Class 9,CBSE,JEE,Hindi,2025-03-02,Offline
+STU0180,Yuvraj Krish,Class 9,CBSE,JEE,Hindi,2025-09-22,Offline
+STU0181,Gopal Chadha,Class 10,State Board,NEET,Tamil,2024-10-07,Offline
+STU0182,Radhika Mitter,Class 11,State Board,NEET,Tamil,2024-08-18,Hybrid
+STU0183,Turvi Bawa,Class 9,State Board,Foundation,English,2025-07-14,Online
+STU0184,Nilima Swaminathan,Class 10,ICSE,Foundation,English,2025-02-08,Online
+STU0185,Hiral Mahajan,Class 10,CBSE,Foundation,English,2025-02-19,Online
+STU0186,Suhani Handa,Class 9,ICSE,NEET,Hindi,2025-06-24,Hybrid
+STU0187,Wyatt Mohanty,Class 12,ICSE,JEE,English,2026-07-13,Offline
+STU0188,Chameli Menon,Class 11,State Board,NEET,English,2024-08-18,Hybrid
+STU0189,Leela Kale,Class 10,ICSE,Foundation,Hindi,2025-03-01,Hybrid
+STU0190,Varsha Butala,Class 10,ICSE,JEE,Hindi,2024-08-15,Online
+STU0191,Adya Wagle,Class 10,ICSE,JEE,English,2026-05-10,Online
+STU0192,Rayaan Shankar,Class 10,ICSE,Foundation,Hindi,2026-05-18,Hybrid
+STU0193,Nilima Krish,Class 11,ICSE,JEE,Tamil,2025-08-05,Hybrid
+STU0194,Bhavika Sastry,Class 11,State Board,NEET,Tamil,2026-04-18,Hybrid
+STU0195,Balveer Grover,Class 12,ICSE,JEE,Hindi,2025-10-27,Online
+STU0196,Zayan Bir,Class 12,State Board,NEET,Hindi,2026-01-09,Offline
+STU0197,Vanya Pau,Class 9,CBSE,JEE,Hindi,2025-06-17,Hybrid
+STU0198,Faris Bali,Class 9,State Board,NEET,Hindi,2025-12-24,Online
+STU0199,Amaira Mander,Class 10,ICSE,Foundation,Hindi,2025-04-26,Offline
+STU0200,Sanaya Kuruvilla,Class 11,CBSE,Foundation,Tamil,2025-05-09,Hybrid
+STU0201,Laban Chaudry,Class 12,CBSE,NEET,Tamil,2026-04-06,Offline
+STU0202,Indrajit Krish,Class 11,ICSE,Foundation,English,2025-04-05,Online
+STU0203,Mugdha Bhalla,Class 11,ICSE,Foundation,Tamil,2026-04-05,Offline
+STU0204,Jai Prakash,Class 12,State Board,JEE,Tamil,2024-12-15,Online
+STU0205,Ria Ganguly,Class 11,ICSE,NEET,English,2025-05-18,Offline
+STU0206,Jackson Chakraborty,Class 9,State Board,Foundation,Tamil,2025-08-17,Offline
+STU0207,Mitesh Buch,Class 9,CBSE,Foundation,Tamil,2025-02-26,Hybrid
+STU0208,Thomas Raman,Class 12,State Board,NEET,English,2026-06-29,Online
+STU0209,Raksha Sachar,Class 11,State Board,JEE,Tamil,2025-07-15,Offline
+STU0210,Sathvik Sem,Class 12,CBSE,JEE,Hindi,2025-12-20,Hybrid
+STU0211,Dalaja Viswanathan,Class 10,State Board,JEE,Tamil,2025-09-25,Hybrid
+STU0212,Thomas Sachdev,Class 9,State Board,NEET,English,2025-02-09,Online
+STU0213,Omkaar Yohannan,Class 9,ICSE,JEE,Hindi,2024-09-05,Online
+STU0214,Raghav Shankar,Class 12,State Board,NEET,Hindi,2025-10-18,Hybrid
+STU0215,Yatan Karpe,Class 11,ICSE,NEET,Tamil,2024-12-17,Online
+STU0216,Sara Dar,Class 12,State Board,JEE,Tamil,2025-09-07,Online
+STU0217,Orinder Barad,Class 10,CBSE,NEET,Tamil,2026-04-07,Offline
+STU0218,Laban Nadig,Class 11,CBSE,NEET,Hindi,2026-04-27,Offline
+STU0219,Netra D’Alia,Class 12,CBSE,NEET,Hindi,2026-04-28,Offline
+STU0220,Radha Divan,Class 11,ICSE,Foundation,Hindi,2025-12-10,Offline
+STU0221,Sudiksha Sangha,Class 12,ICSE,JEE,Hindi,2024-09-03,Online
+STU0222,Geetika Shah,Class 12,CBSE,NEET,English,2026-03-27,Offline
+STU0223,Nitesh Bumb,Class 12,State Board,NEET,Tamil,2025-12-10,Hybrid
+STU0224,Nidra Rajagopal,Class 10,ICSE,JEE,English,2026-05-11,Hybrid
+STU0225,Ryan Nair,Class 11,CBSE,NEET,English,2025-08-08,Hybrid
+STU0226,Pooja Deshpande,Class 12,CBSE,Foundation,English,2024-10-19,Offline
+STU0227,Hritik Kari,Class 10,CBSE,NEET,Tamil,2025-09-24,Offline
+STU0228,Sai Raman,Class 12,State Board,JEE,Tamil,2025-02-22,Hybrid
+STU0229,Yuvraj Setty,Class 12,ICSE,Foundation,Hindi,2024-12-23,Offline
+STU0230,Arjun Sinha,Class 9,State Board,JEE,English,2025-02-11,Hybrid
+STU0231,Hemang Goel,Class 11,CBSE,Foundation,English,2025-04-28,Offline
+STU0232,Upkaar Nazareth,Class 9,State Board,Foundation,English,2025-05-18,Offline
+STU0233,Chandani Dutt,Class 10,State Board,NEET,English,2024-12-16,Online
+STU0234,Lakshit Mahal,Class 11,CBSE,NEET,Tamil,2025-10-19,Offline
+STU0235,Urvashi Magar,Class 12,CBSE,JEE,Hindi,2024-11-07,Offline
+STU0236,Gabriel Dua,Class 10,CBSE,JEE,English,2025-04-13,Hybrid
+STU0237,Irya Dugar,Class 12,State Board,Foundation,English,2024-12-24,Offline
+STU0238,Kabir Borra,Class 10,CBSE,NEET,Hindi,2025-07-27,Offline
+STU0239,Pratyush Kadakia,Class 12,ICSE,Foundation,English,2026-05-14,Offline
+STU0240,Jonathan Bansal,Class 11,State Board,Foundation,English,2025-03-10,Online
+STU0241,Ojas Deshpande,Class 12,ICSE,Foundation,Tamil,2024-08-11,Hybrid
+STU0242,Naveen Chakraborty,Class 12,State Board,NEET,Tamil,2024-12-29,Offline
+STU0243,Mason Varma,Class 10,ICSE,NEET,English,2025-07-05,Online
+STU0244,Abhiram De,Class 12,State Board,NEET,Hindi,2024-11-19,Offline
+STU0245,Mitali Sarin,Class 11,CBSE,Foundation,Tamil,2025-07-05,Offline
+STU0246,Peter Hans,Class 9,State Board,Foundation,Hindi,2025-12-08,Online
+STU0247,Jatin Bajaj,Class 12,ICSE,JEE,Hindi,2025-10-09,Offline
+STU0248,Udarsh Viswanathan,Class 10,State Board,JEE,Hindi,2025-02-17,Offline
+STU0249,Qabil Walla,Class 10,State Board,JEE,Hindi,2026-07-21,Hybrid
+STU0250,Caleb Pathak,Class 9,ICSE,NEET,English,2026-02-07,Hybrid
+STU0251,Yash Shankar,Class 11,State Board,JEE,English,2026-04-26,Offline
+STU0252,Jatin Gole,Class 11,State Board,NEET,English,2025-09-09,Online
+STU0253,Idika Kapoor,Class 10,State Board,NEET,Hindi,2025-06-05,Hybrid
+STU0254,Oviya Naik,Class 11,CBSE,NEET,Tamil,2024-09-02,Offline
+STU0255,Yashawini Randhawa,Class 11,CBSE,NEET,English,2025-06-23,Online
+STU0256,Yoshita Bains,Class 10,State Board,Foundation,Hindi,2024-08-09,Offline
+STU0257,Lakshmi Varghese,Class 11,CBSE,NEET,English,2024-08-08,Offline
+STU0258,Upadhriti Lala,Class 9,ICSE,NEET,Hindi,2025-08-10,Hybrid
+STU0259,Balveer Baral,Class 11,State Board,NEET,Hindi,2024-10-10,Offline
+STU0260,Hemang Parekh,Class 9,State Board,JEE,Tamil,2026-01-29,Online
+STU0261,Yashasvi Din,Class 11,State Board,JEE,Hindi,2026-02-03,Online
+STU0262,Farhan Chanda,Class 12,State Board,NEET,Hindi,2025-12-24,Offline
+STU0263,Ekaja Rana,Class 9,CBSE,JEE,English,2025-10-09,Offline
+STU0264,Isaiah Jani,Class 12,CBSE,JEE,English,2025-10-20,Hybrid
+STU0265,Yash Chad,Class 10,ICSE,NEET,Tamil,2025-12-21,Hybrid
+STU0266,Nilima Subramanian,Class 12,State Board,Foundation,Hindi,2025-08-28,Online
+STU0267,Rachit Dixit,Class 12,State Board,JEE,Tamil,2026-07-02,Hybrid
+STU0268,Qushi Mohan,Class 12,ICSE,JEE,Hindi,2025-12-11,Offline
+STU0269,Max Savant,Class 10,ICSE,NEET,English,2026-04-25,Offline
+STU0270,Neel Raja,Class 9,State Board,NEET,Hindi,2025-01-05,Hybrid
+STU0271,Leela Kohli,Class 11,CBSE,NEET,Tamil,2025-08-05,Online
+STU0272,Zaitra Rajan,Class 9,ICSE,JEE,Hindi,2026-04-01,Online
+STU0273,Tarak Pandey,Class 9,CBSE,NEET,English,2024-12-16,Online
+STU0274,Lila Ramanathan,Class 10,CBSE,Foundation,English,2024-07-29,Hybrid
+STU0275,Kamala Deshmukh,Class 10,CBSE,NEET,English,2024-09-18,Hybrid
+STU0276,Nihal Sarin,Class 9,ICSE,JEE,English,2026-05-19,Hybrid
+STU0277,Ronith Bansal,Class 11,CBSE,JEE,Hindi,2026-06-30,Online
+STU0278,Daniel Kanda,Class 10,CBSE,NEET,English,2025-07-29,Hybrid
+STU0279,Kevin Johal,Class 11,CBSE,JEE,Tamil,2025-08-02,Online
+STU0280,Aishani Saxena,Class 10,State Board,NEET,Hindi,2025-06-26,Online
+STU0281,Sarthak Mittal,Class 9,ICSE,NEET,Tamil,2025-07-31,Hybrid
+STU0282,Charvi Rajagopal,Class 9,ICSE,Foundation,English,2025-05-31,Hybrid
+STU0283,Udant Choudhry,Class 9,State Board,Foundation,Hindi,2025-04-26,Offline
+STU0284,Girindra Dhaliwal,Class 12,State Board,JEE,English,2025-12-10,Offline
+STU0285,Kavya Ravi,Class 12,ICSE,Foundation,English,2025-12-18,Offline
+STU0286,Agastya Varkey,Class 12,CBSE,JEE,Tamil,2026-03-26,Hybrid
+STU0287,Wishi Shenoy,Class 10,CBSE,JEE,Tamil,2025-02-16,Hybrid
+STU0288,Ubika Munshi,Class 11,ICSE,Foundation,Hindi,2025-11-11,Offline
+STU0289,Logan Tank,Class 12,State Board,Foundation,Tamil,2025-05-21,Online
+STU0290,Nitara Vala,Class 9,State Board,Foundation,Hindi,2024-11-04,Hybrid
+STU0291,Darsh Chaudhry,Class 10,ICSE,NEET,English,2024-07-25,Offline
+STU0292,Hredhaan Ben,Class 11,ICSE,NEET,Tamil,2026-05-30,Hybrid
+STU0293,Ekansh Kulkarni,Class 9,ICSE,NEET,Tamil,2026-05-17,Hybrid
+STU0294,Januja Biswas,Class 11,ICSE,JEE,Hindi,2025-06-17,Offline
+STU0295,Krishna Oommen,Class 9,CBSE,JEE,English,2025-04-25,Offline
+STU0296,Madhavi Behl,Class 9,State Board,Foundation,Tamil,2024-07-31,Online
+STU0297,Ekani Acharya,Class 9,State Board,Foundation,Hindi,2025-03-03,Offline
+STU0298,Rajeshri Sura,Class 9,ICSE,NEET,Hindi,2025-10-13,Offline
+STU0299,Avni Ganguly,Class 9,ICSE,Foundation,Tamil,2024-12-24,Offline
+STU0300,Zayan Sane,Class 9,State Board,Foundation,English,2025-11-23,Online
+STU0301,Yashawini Soman,Class 12,CBSE,JEE,Tamil,2026-07-02,Hybrid
+STU0302,Veda Mand,Class 11,CBSE,NEET,Hindi,2025-08-07,Online
+STU0303,Kamala Sahni,Class 12,State Board,Foundation,Hindi,2025-03-27,Hybrid
+STU0304,Kalpit Narula,Class 9,State Board,Foundation,Hindi,2025-07-03,Offline
+STU0305,Neha Behl,Class 9,CBSE,NEET,Hindi,2026-05-02,Offline
+STU0306,Advay Modi,Class 11,ICSE,JEE,English,2024-10-11,Online
+STU0307,Libni Sarkar,Class 12,CBSE,JEE,Hindi,2024-11-25,Hybrid
+STU0308,Priya Malhotra,Class 9,CBSE,Foundation,Hindi,2024-08-27,Online
+STU0309,Bachittar Natarajan,Class 12,ICSE,NEET,Tamil,2026-07-17,Online
+STU0310,Ishani Comar,Class 11,ICSE,Foundation,Tamil,2024-12-18,Hybrid
+STU0311,Ekaja Srinivasan,Class 9,CBSE,JEE,English,2024-10-16,Hybrid
+STU0312,Mahika Dyal,Class 9,State Board,JEE,Tamil,2024-10-05,Offline
+STU0313,Aahana Bal,Class 12,ICSE,Foundation,Tamil,2025-04-27,Offline
+STU0314,Kritika Yadav,Class 11,CBSE,Foundation,English,2026-03-04,Offline
+STU0315,Gayathri Kumar,Class 12,CBSE,NEET,Hindi,2026-05-31,Hybrid
+STU0316,Kalpit Pingle,Class 12,State Board,Foundation,Tamil,2026-05-02,Online
+STU0317,Ethan Ganguly,Class 10,ICSE,Foundation,English,2024-08-27,Online
+STU0318,Ishanvi Atwal,Class 10,ICSE,JEE,English,2025-09-23,Offline
+STU0319,Bachittar Gaba,Class 11,ICSE,JEE,English,2026-05-12,Offline
+STU0320,Naveen Merchant,Class 12,CBSE,JEE,Tamil,2025-12-06,Hybrid
+STU0321,Yatan Pandey,Class 10,State Board,Foundation,Hindi,2026-02-17,Offline
+STU0322,Vedika Nair,Class 9,ICSE,Foundation,English,2026-03-17,Offline
+STU0323,Aayush Bhatia,Class 9,ICSE,JEE,Tamil,2024-09-07,Hybrid
+STU0324,Bahadurjit Pall,Class 12,State Board,NEET,Hindi,2024-11-04,Hybrid
+STU0325,Osha Bahl,Class 12,ICSE,JEE,Tamil,2026-07-10,Online
+STU0326,Yagnesh Sharma,Class 11,CBSE,Foundation,Tamil,2025-12-13,Hybrid
+STU0327,Amaira Krish,Class 11,CBSE,NEET,English,2024-12-17,Online
+STU0328,Lajita Som,Class 12,State Board,NEET,Hindi,2025-11-07,Online
+STU0329,Caleb Doshi,Class 12,ICSE,Foundation,Tamil,2025-03-11,Online
+STU0330,Qabil Char,Class 11,CBSE,JEE,Hindi,2025-12-12,Hybrid
+STU0331,Yug Menon,Class 9,State Board,Foundation,English,2025-01-17,Offline
+STU0332,Peter Murthy,Class 11,State Board,Foundation,English,2025-03-01,Online
+STU0333,Balendra Nori,Class 9,CBSE,NEET,English,2025-03-08,Online
+STU0334,Yamini Kannan,Class 10,State Board,JEE,English,2025-05-04,Hybrid
+STU0335,Yochana Venkataraman,Class 12,ICSE,Foundation,Hindi,2026-07-02,Offline
+STU0336,Yashodhara Chacko,Class 11,State Board,NEET,English,2025-12-13,Offline
+STU0337,Riya Bhardwaj,Class 9,ICSE,NEET,Hindi,2025-03-08,Offline
+STU0338,Aarna Sant,Class 11,State Board,JEE,Tamil,2024-10-18,Hybrid
+STU0339,Qasim Sibal,Class 9,ICSE,NEET,Tamil,2024-10-29,Online
+STU0340,Atharv Dhaliwal,Class 9,ICSE,NEET,English,2025-12-15,Hybrid
+STU0341,Jonathan Koshy,Class 9,State Board,Foundation,Hindi,2024-12-08,Offline
+STU0342,Ishanvi Wali,Class 12,State Board,Foundation,Hindi,2025-08-13,Online
+STU0343,Quincy Mutti,Class 12,State Board,Foundation,English,2025-01-09,Offline
+STU0344,Pratyush Rajagopal,Class 12,State Board,JEE,English,2024-07-24,Offline
+STU0345,Zehaan Kalita,Class 9,ICSE,Foundation,English,2024-07-31,Hybrid
+STU0346,Jagvi Natt,Class 10,CBSE,JEE,Hindi,2026-03-02,Offline
+STU0347,Mahika Nigam,Class 12,State Board,Foundation,Hindi,2026-01-04,Online
+STU0348,Falak Deep,Class 11,ICSE,NEET,Tamil,2026-03-21,Offline
+STU0349,Ekansh Bal,Class 11,State Board,Foundation,English,2026-05-29,Hybrid
+STU0350,Avi Thakur,Class 11,CBSE,NEET,English,2026-05-08,Hybrid
+STU0351,Ladli Kalla,Class 12,ICSE,NEET,Hindi,2024-12-10,Hybrid
+STU0352,Dipta Bhasin,Class 10,ICSE,JEE,Hindi,2024-09-16,Hybrid
+STU0353,Brijesh Venkataraman,Class 10,ICSE,NEET,Hindi,2025-06-02,Hybrid
+STU0354,Dipta Kulkarni,Class 12,CBSE,Foundation,Hindi,2025-10-20,Online
+STU0355,Sai Bakshi,Class 11,State Board,NEET,Hindi,2025-08-04,Offline
+STU0356,Om Badami,Class 10,State Board,Foundation,Hindi,2025-05-18,Hybrid
+STU0357,Zehaan Singhal,Class 9,State Board,Foundation,Tamil,2026-06-27,Hybrid
+STU0358,Kamala Bala,Class 11,CBSE,NEET,Tamil,2026-03-01,Online
+STU0359,Isha Bedi,Class 10,ICSE,NEET,English,2025-02-11,Online
+STU0360,Chandran Upadhyay,Class 10,CBSE,JEE,Tamil,2025-02-06,Online
+STU0361,Vedant Ravi,Class 9,State Board,NEET,Hindi,2026-02-20,Online
+STU0362,Fiyaz Pal,Class 12,CBSE,JEE,English,2025-01-20,Hybrid
+STU0363,Vinaya Bhattacharyya,Class 10,State Board,NEET,English,2025-07-21,Offline
+STU0364,Kashvi Dhar,Class 11,State Board,Foundation,English,2025-06-24,Offline
+STU0365,Vedant Golla,Class 11,State Board,NEET,English,2026-02-18,Hybrid
+STU0366,Abha Thakur,Class 10,ICSE,NEET,English,2025-02-24,Offline
+STU0367,Ranbir Sibal,Class 12,ICSE,NEET,Tamil,2026-07-11,Hybrid
+STU0368,Zaitra Joshi,Class 12,CBSE,JEE,Hindi,2024-09-18,Online
+STU0369,Manya Patla,Class 11,CBSE,Foundation,Tamil,2025-04-29,Offline
+STU0370,Kalpit Basak,Class 9,State Board,Foundation,English,2025-12-05,Offline
+STU0371,Bhavani Dey,Class 9,CBSE,NEET,Tamil,2025-04-16,Hybrid
+STU0372,Champak Sarna,Class 10,ICSE,JEE,English,2026-03-13,Offline
+STU0373,Hemangini Puri,Class 11,CBSE,NEET,English,2024-10-30,Offline
+STU0374,Michael Tank,Class 11,CBSE,NEET,English,2026-03-27,Offline
+STU0375,Hardik Chacko,Class 10,CBSE,NEET,English,2024-10-12,Hybrid
+STU0376,Qushi Tiwari,Class 11,CBSE,JEE,English,2024-12-21,Offline
+STU0377,Leena Rana,Class 12,State Board,JEE,Hindi,2025-01-09,Offline
+STU0378,Divya Chopra,Class 12,State Board,JEE,English,2024-12-09,Online
+STU0379,Dev Mistry,Class 11,CBSE,JEE,Hindi,2026-04-26,Hybrid
+STU0380,Baljiwan Goyal,Class 12,CBSE,NEET,English,2025-05-09,Offline
+STU0381,Lajita Naidu,Class 9,CBSE,JEE,Tamil,2025-08-04,Hybrid
+STU0382,Baljiwan Gala,Class 12,CBSE,JEE,Tamil,2024-11-26,Hybrid
+STU0383,Tristan Talwar,Class 9,State Board,Foundation,Hindi,2025-04-07,Online
+STU0384,Keya Saini,Class 10,ICSE,NEET,English,2025-01-16,Hybrid
+STU0385,Veer Munshi,Class 11,CBSE,Foundation,Tamil,2025-12-24,Online
+STU0386,Zashil Devan,Class 9,State Board,NEET,English,2024-07-30,Hybrid
+STU0387,Barkha Rattan,Class 9,ICSE,NEET,English,2025-09-05,Hybrid
+STU0388,Harita Savant,Class 12,ICSE,NEET,Hindi,2025-07-08,Online
+STU0389,Vansha Shenoy,Class 11,CBSE,NEET,English,2025-02-18,Hybrid
+STU0390,Osha Vala,Class 9,State Board,Foundation,Tamil,2024-10-20,Online
+STU0391,Aarna Bajwa,Class 9,ICSE,Foundation,Tamil,2025-06-23,Hybrid
+STU0392,Bhavna Mall,Class 10,State Board,NEET,Hindi,2026-07-04,Offline
+STU0393,Udant Pant,Class 10,CBSE,JEE,Hindi,2025-05-24,Offline
+STU0394,Pavani Mukherjee,Class 9,ICSE,JEE,English,2025-04-20,Online
+STU0395,Daksh Lall,Class 9,ICSE,NEET,Hindi,2025-08-15,Offline
+STU0396,Zehaan Chadha,Class 12,ICSE,JEE,Hindi,2025-03-21,Online
+STU0397,Riya Gulati,Class 11,ICSE,JEE,Hindi,2025-04-17,Offline
+STU0398,Krishna Palan,Class 11,CBSE,NEET,Tamil,2026-02-24,Offline
+STU0399,Vrishti Wagle,Class 12,ICSE,NEET,English,2026-02-02,Offline
+STU0400,Anmol Badal,Class 12,ICSE,Foundation,Tamil,2026-05-11,Online
+STU0401,Kalpit Choudhury,Class 12,CBSE,NEET,Hindi,2024-08-09,Online
+STU0402,Zayyan Kar,Class 11,ICSE,JEE,English,2025-09-09,Offline
+STU0403,Upkaar Pal,Class 11,ICSE,NEET,Hindi,2025-05-06,Hybrid
+STU0404,Lavanya Kapadia,Class 12,CBSE,Foundation,Tamil,2025-05-04,Offline
+STU0405,Anvi Soni,Class 12,CBSE,Foundation,Tamil,2025-08-23,Hybrid
+STU0406,Urvi Sharma,Class 12,ICSE,Foundation,English,2025-06-19,Online
+STU0407,Girik Sankar,Class 12,ICSE,Foundation,Hindi,2025-12-08,Hybrid
+STU0408,Aditya Patla,Class 10,CBSE,JEE,Hindi,2025-03-21,Hybrid
+STU0409,Rajata Boase,Class 12,CBSE,JEE,English,2024-11-07,Online
+STU0410,Eta Deshpande,Class 11,ICSE,NEET,Hindi,2025-05-24,Online
+STU0411,Oeshi Subramanian,Class 10,State Board,NEET,Tamil,2025-06-28,Offline
+STU0412,Unnati Choudhary,Class 12,CBSE,Foundation,English,2025-02-06,Hybrid
+STU0413,Ojas Sen,Class 11,ICSE,NEET,Hindi,2025-07-04,Offline
+STU0414,Lopa Badal,Class 10,CBSE,JEE,Hindi,2024-08-29,Online
+STU0415,Bahadurjit Borde,Class 12,State Board,NEET,Hindi,2025-01-30,Online
+STU0416,Ekantika Apte,Class 11,ICSE,Foundation,Tamil,2026-01-17,Online
+STU0417,Odika Vala,Class 11,State Board,NEET,English,2025-08-30,Online
+STU0418,Inaya Chahal,Class 10,CBSE,NEET,English,2026-01-02,Hybrid
+STU0419,Krish Gill,Class 12,CBSE,Foundation,Tamil,2025-06-26,Hybrid
+STU0420,Isaac Ratta,Class 11,State Board,JEE,Hindi,2024-12-18,Hybrid
+STU0421,Keya Behl,Class 11,ICSE,JEE,Hindi,2026-02-04,Hybrid
+STU0422,Ethan Vaidya,Class 10,ICSE,Foundation,English,2024-12-09,Online
+STU0423,Triya Ramachandran,Class 10,CBSE,JEE,Tamil,2025-12-22,Online
+STU0424,Ayaan Chakraborty,Class 11,State Board,Foundation,Tamil,2026-04-04,Offline
+STU0425,Elijah Basak,Class 10,State Board,JEE,English,2025-01-05,Offline
+STU0426,Maya Prabhu,Class 12,State Board,Foundation,Tamil,2025-12-19,Hybrid
+STU0427,Mason Bahri,Class 12,ICSE,Foundation,English,2025-09-03,Online
+STU0428,Azaan Pillay,Class 11,State Board,JEE,Tamil,2025-06-25,Offline
+STU0429,Meghana Sathe,Class 11,CBSE,Foundation,Hindi,2026-02-08,Hybrid
+STU0430,Ekalinga Thakkar,Class 10,CBSE,NEET,Hindi,2026-01-30,Online
+STU0431,Anirudh Rao,Class 9,State Board,JEE,Tamil,2025-11-17,Online
+STU0432,Gautam Pall,Class 10,ICSE,Foundation,English,2025-06-25,Offline
+STU0433,Tamanna Dara,Class 11,CBSE,NEET,English,2025-05-01,Hybrid
+STU0434,Ayush Gill,Class 11,CBSE,Foundation,Tamil,2025-09-29,Hybrid
+STU0435,Urmi Bhakta,Class 9,State Board,Foundation,English,2025-06-25,Hybrid
+STU0436,Harini Bhattacharyya,Class 10,CBSE,Foundation,Hindi,2024-09-26,Hybrid
+STU0437,Ekbal Rajagopal,Class 11,State Board,JEE,English,2025-03-25,Online
+STU0438,Indrajit Sami,Class 9,State Board,Foundation,Tamil,2026-01-24,Hybrid
+STU0439,Ranbir Yohannan,Class 10,State Board,NEET,Hindi,2025-09-07,Hybrid
+STU0440,Urvi Pandit,Class 9,ICSE,Foundation,Hindi,2025-02-06,Offline
+STU0441,Yatin Narasimhan,Class 11,ICSE,JEE,Hindi,2024-11-23,Offline
+STU0442,Lajita Chakraborty,Class 11,ICSE,JEE,Hindi,2025-04-02,Online
+STU0443,Nathan Khatri,Class 10,ICSE,NEET,Tamil,2025-03-15,Offline
+STU0444,Azad Garde,Class 10,ICSE,Foundation,English,2026-02-03,Offline
+STU0445,Harshil Buch,Class 11,State Board,NEET,Tamil,2025-09-02,Online
+STU0446,Inaya Mittal,Class 11,State Board,Foundation,English,2025-01-01,Offline
+STU0447,Robert Natarajan,Class 10,ICSE,JEE,Tamil,2025-08-17,Offline
+STU0448,Ekansh Varty,Class 10,CBSE,JEE,English,2025-05-30,Offline
+STU0449,Vyanjana Kothari,Class 12,State Board,NEET,English,2026-07-10,Online
+STU0450,Samuel Choudhry,Class 11,State Board,Foundation,Tamil,2024-11-03,Online
+STU0451,Oscar Ganguly,Class 10,ICSE,Foundation,Tamil,2025-06-05,Offline
+STU0452,Fariq Gaba,Class 11,ICSE,JEE,English,2024-11-02,Offline
+STU0453,Isaac Dara,Class 12,CBSE,JEE,Hindi,2026-04-19,Offline
+STU0454,George Issac,Class 9,CBSE,NEET,Tamil,2025-11-25,Hybrid
+STU0455,Oscar Lalla,Class 12,ICSE,Foundation,English,2024-09-23,Online
+STU0456,Sara Naik,Class 12,CBSE,NEET,Hindi,2026-04-29,Offline
+STU0457,Lajita Mohanty,Class 12,ICSE,JEE,Tamil,2025-01-05,Online
+STU0458,Jonathan Kulkarni,Class 10,ICSE,Foundation,Tamil,2026-06-10,Online
+STU0459,Viraj Chandran,Class 12,State Board,NEET,Hindi,2025-08-22,Offline
+STU0460,Avni Dubey,Class 9,CBSE,JEE,Tamil,2025-06-11,Offline
+STU0461,Falak Dash,Class 11,State Board,NEET,English,2026-02-11,Online
+STU0462,Prisha Vohra,Class 12,State Board,JEE,English,2025-06-02,Online
+STU0463,Amara Bandi,Class 10,State Board,NEET,Tamil,2026-03-12,Hybrid
+STU0464,Indira Vala,Class 12,CBSE,Foundation,Hindi,2025-09-18,Online
+STU0465,Bakhshi Morar,Class 11,State Board,NEET,English,2025-12-10,Offline
+STU0466,Pratyush Khare,Class 11,State Board,NEET,Hindi,2024-09-06,Hybrid
+STU0467,Baghyawati Yohannan,Class 12,State Board,Foundation,Tamil,2026-01-29,Offline
+STU0468,Banjeet Sandal,Class 9,ICSE,NEET,Hindi,2025-11-24,Online
+STU0469,Shivani Varty,Class 12,State Board,NEET,Hindi,2026-07-14,Hybrid
+STU0470,Rehaan Nanda,Class 9,State Board,NEET,Tamil,2025-05-15,Hybrid
+STU0471,Triveni Pillay,Class 10,State Board,JEE,Hindi,2026-07-02,Offline
+STU0472,Charan Chaudry,Class 10,State Board,Foundation,Hindi,2025-09-06,Hybrid
+STU0473,Siya Shah,Class 12,CBSE,Foundation,English,2024-11-21,Online
+STU0474,Chakrika Randhawa,Class 9,CBSE,JEE,Tamil,2025-08-30,Offline
+STU0475,Pratyush Dewan,Class 12,CBSE,NEET,Hindi,2024-10-04,Online
+STU0476,Nikita Oommen,Class 12,State Board,Foundation,Tamil,2024-11-22,Hybrid
+STU0477,Hiral Khanna,Class 9,State Board,JEE,Hindi,2025-09-26,Online
+STU0478,Advay Mitra,Class 11,State Board,NEET,Hindi,2024-08-18,Offline
+STU0479,Dipta Oak,Class 11,CBSE,NEET,Hindi,2024-07-24,Offline
+STU0480,Victor Atwal,Class 11,State Board,Foundation,Hindi,2024-12-28,Hybrid
+STU0481,Chatresh Balakrishnan,Class 11,State Board,NEET,English,2026-02-15,Online
+STU0482,Aditya Mane,Class 11,State Board,NEET,English,2026-05-01,Offline
+STU0483,Aarini Ramaswamy,Class 11,State Board,JEE,Hindi,2026-02-09,Hybrid
+STU0484,Nakul Sur,Class 12,ICSE,NEET,Tamil,2025-06-04,Hybrid
+STU0485,Bhavna Andra,Class 11,ICSE,JEE,Hindi,2025-09-24,Hybrid
+STU0486,Gaurang Nath,Class 12,ICSE,NEET,English,2026-02-01,Offline
+STU0487,Xiti Sankaran,Class 9,ICSE,Foundation,English,2024-11-11,Offline
+STU0488,Yahvi Bala,Class 12,State Board,NEET,Hindi,2026-06-11,Offline
+STU0489,Gagan Raja,Class 10,CBSE,Foundation,Tamil,2025-10-07,Hybrid
+STU0490,Jagdish Hayer,Class 11,CBSE,JEE,Hindi,2026-05-28,Hybrid
+STU0491,Rayaan Mani,Class 10,CBSE,JEE,Hindi,2025-02-25,Hybrid
+STU0492,Gaurang Sen,Class 10,State Board,JEE,English,2025-06-05,Online
+STU0493,Nirja Borah,Class 12,ICSE,Foundation,Tamil,2025-10-31,Online
+STU0494,Tamanna Sama,Class 10,CBSE,Foundation,English,2026-05-24,Offline
+STU0495,Amara Prakash,Class 12,ICSE,Foundation,English,2024-12-04,Offline
+STU0496,Lekha Dasgupta,Class 11,ICSE,Foundation,English,2025-03-15,Online
+STU0497,Ekaraj Borra,Class 10,State Board,Foundation,Hindi,2024-09-07,Online
+STU0498,Nicholas Sathe,Class 10,ICSE,JEE,English,2026-03-28,Offline
+STU0499,Rachit Majumdar,Class 12,CBSE,Foundation,Tamil,2025-05-20,Online
+STU0500,Teerth Choudhury,Class 9,ICSE,Foundation,Hindi,2025-02-27,Online
+STU0501,Vrishti Pandya,Class 11,ICSE,NEET,Hindi,2025-12-20,Hybrid
+STU0502,Hemani Saraf,Class 12,CBSE,Foundation,Tamil,2025-12-18,Offline
+STU0503,Aradhana Nadig,Class 10,CBSE,NEET,English,2025-09-29,Hybrid
+STU0504,Ekapad Misra,Class 12,State Board,NEET,Hindi,2025-10-22,Online
+STU0505,Owen Krishna,Class 9,State Board,NEET,Tamil,2026-01-22,Hybrid
+STU0506,Kala Prakash,Class 10,CBSE,Foundation,Hindi,2025-02-23,Offline
+STU0507,Qushi Toor,Class 12,State Board,NEET,English,2024-12-07,Offline
+STU0508,Maya Tara,Class 9,CBSE,JEE,Tamil,2024-12-29,Offline
+STU0509,Aashi Bahri,Class 10,CBSE,NEET,Tamil,2026-07-11,Online
+STU0510,Ekaraj Panchal,Class 12,ICSE,NEET,Tamil,2025-07-25,Hybrid
+STU0511,Owen Savant,Class 9,ICSE,Foundation,Tamil,2025-04-05,Hybrid
+STU0512,Shivansh Krishnamurthy,Class 10,CBSE,Foundation,English,2024-12-18,Offline
+STU0513,Chandani Bhardwaj,Class 11,CBSE,NEET,Hindi,2025-10-26,Hybrid
+STU0514,Vedant Tata,Class 11,State Board,JEE,Hindi,2025-02-16,Offline
+STU0515,Kavya Pillay,Class 11,State Board,JEE,English,2024-09-19,Online
+STU0516,Fiyaz Deshpande,Class 12,CBSE,NEET,Hindi,2024-12-14,Hybrid
+STU0517,Banjeet Gole,Class 11,ICSE,Foundation,Hindi,2024-11-23,Offline
+STU0518,Amaira Sant,Class 10,CBSE,Foundation,Hindi,2025-02-27,Online
+STU0519,Charita Subramaniam,Class 12,State Board,Foundation,Tamil,2024-10-11,Online
+STU0520,Baljiwan Pillay,Class 9,CBSE,Foundation,Hindi,2026-03-29,Online
+STU0521,Champak Chopra,Class 10,CBSE,NEET,Hindi,2026-06-06,Offline
+STU0522,Hemani Pall,Class 9,State Board,JEE,Hindi,2025-06-05,Hybrid
+STU0523,Omaja Sibal,Class 12,CBSE,Foundation,Tamil,2026-03-17,Online
+STU0524,Samaksh Majumdar,Class 12,CBSE,Foundation,Tamil,2025-08-25,Offline
+STU0525,Ekiya Dani,Class 9,State Board,NEET,Hindi,2025-10-03,Offline
+STU0526,Dhruv Bhatia,Class 9,ICSE,NEET,English,2025-05-17,Hybrid
+STU0527,Aradhana Sen,Class 10,State Board,JEE,English,2025-03-30,Offline
+STU0528,Agastya Uppal,Class 11,State Board,JEE,Hindi,2025-02-12,Online
+STU0529,Nidra Shenoy,Class 9,ICSE,JEE,Tamil,2024-08-13,Offline
+STU0530,Kai Patil,Class 10,CBSE,Foundation,Hindi,2025-10-08,Hybrid
+STU0531,Ekbal Saha,Class 12,ICSE,NEET,Tamil,2024-12-13,Offline
+STU0532,Gauri Chawla,Class 12,CBSE,Foundation,Hindi,2025-03-05,Hybrid
+STU0533,Ekiya Dara,Class 10,State Board,NEET,English,2024-09-18,Online
+STU0534,Tarak Sarma,Class 12,State Board,JEE,Hindi,2025-03-06,Online
+STU0535,Forum Kale,Class 9,CBSE,NEET,Tamil,2026-02-21,Hybrid
+STU0536,Aayush Kala,Class 12,State Board,NEET,English,2025-04-28,Online
+STU0537,Raagini Shankar,Class 12,ICSE,JEE,Tamil,2025-02-23,Online
+STU0538,Januja Mahajan,Class 9,CBSE,Foundation,Tamil,2026-07-05,Hybrid
+STU0539,Oliver Dani,Class 9,CBSE,JEE,English,2025-05-03,Online
+STU0540,Aarna Ramachandran,Class 9,ICSE,Foundation,Hindi,2026-03-19,Hybrid
+STU0541,Wahab Goel,Class 9,CBSE,Foundation,English,2025-07-17,Offline
+STU0542,Kavya Wason,Class 12,CBSE,Foundation,English,2025-02-07,Online
+STU0543,Amruta Gopal,Class 10,State Board,NEET,English,2026-04-14,Hybrid
+STU0544,Ladli Rai,Class 11,State Board,Foundation,Hindi,2024-09-16,Offline
+STU0545,Ijaya Johal,Class 10,ICSE,JEE,Hindi,2025-06-23,Hybrid
+STU0546,Sanya Panchal,Class 10,ICSE,NEET,Tamil,2026-06-06,Online
+STU0547,Alka Saran,Class 10,State Board,Foundation,Tamil,2025-12-29,Hybrid
+STU0548,Sara Varghese,Class 12,CBSE,NEET,Hindi,2026-03-25,Hybrid
+STU0549,Eshana Chhabra,Class 12,State Board,NEET,Hindi,2024-10-16,Offline
+STU0550,Aishani Shanker,Class 12,CBSE,NEET,Tamil,2026-07-14,Online
+STU0551,Harish Sastry,Class 12,CBSE,JEE,Tamil,2026-04-25,Hybrid
+STU0552,Rachana Sibal,Class 10,ICSE,JEE,Hindi,2026-03-01,Offline
+STU0553,Onkar Sarna,Class 12,State Board,Foundation,English,2025-04-02,Offline
+STU0554,Nachiket Ranganathan,Class 10,ICSE,JEE,Tamil,2024-08-07,Hybrid
+STU0555,Samaksh Aurora,Class 9,ICSE,NEET,English,2025-10-15,Hybrid
+STU0556,Pahal Behl,Class 10,CBSE,NEET,Tamil,2025-08-11,Hybrid
+STU0557,Praneel Kade,Class 9,CBSE,JEE,Hindi,2025-03-12,Hybrid
+STU0558,Vincent Datta,Class 10,ICSE,JEE,Tamil,2024-09-02,Offline
+STU0559,Suhani Goel,Class 9,CBSE,JEE,Hindi,2025-12-19,Online
+STU0560,Jackson Mannan,Class 12,CBSE,Foundation,Hindi,2026-06-10,Hybrid
+STU0561,Rushil Prashad,Class 10,ICSE,JEE,Hindi,2025-01-03,Offline
+STU0562,Harsh Shetty,Class 11,ICSE,NEET,Hindi,2025-07-08,Hybrid
+STU0563,Leena Ramakrishnan,Class 11,ICSE,NEET,Tamil,2024-08-03,Hybrid
+STU0564,Wridesh Sachdeva,Class 12,ICSE,JEE,Hindi,2025-07-25,Offline
+STU0565,Rohan Varkey,Class 11,CBSE,NEET,Tamil,2025-06-22,Offline
+STU0566,Indali Mital,Class 9,State Board,JEE,Hindi,2025-04-01,Online
+STU0567,Aashi Kale,Class 9,ICSE,Foundation,Hindi,2025-02-22,Hybrid
+STU0568,Zarna Tripathi,Class 12,ICSE,JEE,English,2025-12-22,Offline
+STU0569,Omya Shah,Class 10,ICSE,Foundation,English,2025-04-25,Offline
+STU0570,Saksham Kalla,Class 11,ICSE,NEET,Hindi,2025-08-29,Hybrid
+STU0571,Ijaya Lanka,Class 12,ICSE,JEE,Hindi,2026-06-22,Offline
+STU0572,Anthony Thakkar,Class 10,CBSE,Foundation,Hindi,2025-10-21,Offline
+STU0573,Henry Sunder,Class 10,State Board,Foundation,English,2025-01-29,Hybrid
+STU0574,Meera Srivastava,Class 9,CBSE,Foundation,English,2025-07-10,Online
+STU0575,Shravya Dani,Class 12,CBSE,Foundation,English,2024-08-29,Online
+STU0576,Vrinda Natt,Class 10,CBSE,JEE,Hindi,2025-04-15,Offline
+STU0577,Yutika Samra,Class 11,CBSE,Foundation,Hindi,2026-06-06,Hybrid
+STU0578,Neha Venkatesh,Class 12,State Board,NEET,English,2025-12-14,Online
+STU0579,Nitara Chada,Class 12,CBSE,JEE,Hindi,2025-03-02,Hybrid
+STU0580,Warjas Varghese,Class 11,State Board,NEET,English,2025-03-05,Hybrid
+STU0581,Pavani Patla,Class 12,CBSE,JEE,English,2025-09-08,Hybrid
+STU0582,Darpan Dash,Class 10,CBSE,JEE,Hindi,2024-08-19,Hybrid
+STU0583,Avi Shere,Class 11,ICSE,NEET,Tamil,2024-11-02,Online
+STU0584,Chanchal Yohannan,Class 11,ICSE,NEET,Hindi,2026-06-07,Online
+STU0585,Radha Sampath,Class 10,ICSE,Foundation,English,2025-07-02,Hybrid
+STU0586,Jhalak Bhatt,Class 9,CBSE,NEET,Tamil,2026-01-26,Offline
+STU0587,Ishanvi Solanki,Class 12,CBSE,Foundation,English,2024-09-13,Hybrid
+STU0588,Krish Raj,Class 10,CBSE,NEET,Tamil,2025-07-01,Hybrid
+STU0589,Ekalinga Minhas,Class 11,State Board,JEE,Hindi,2025-05-16,Online
+STU0590,Omkaar Mahal,Class 10,CBSE,Foundation,Hindi,2024-11-21,Offline
+STU0591,Lopa Deo,Class 11,CBSE,JEE,Hindi,2025-10-15,Offline
+STU0592,Gopal Tak,Class 9,CBSE,NEET,English,2026-05-02,Online
+STU0593,Teerth Prashad,Class 10,State Board,NEET,English,2026-05-01,Offline
+STU0594,Darpan Solanki,Class 10,State Board,JEE,Hindi,2025-01-13,Offline
+STU0595,Devika Deshpande,Class 11,ICSE,Foundation,English,2026-03-16,Hybrid
+STU0596,Bhavini Sahota,Class 9,State Board,Foundation,Tamil,2026-03-10,Online
+STU0597,Yutika Guha,Class 9,ICSE,JEE,English,2024-12-14,Offline
+STU0598,Fitan Chhabra,Class 12,ICSE,JEE,Hindi,2024-11-06,Offline
+STU0599,Oliver Rau,Class 12,ICSE,JEE,Tamil,2025-07-23,Hybrid
+STU0600,Oscar Bhatnagar,Class 12,ICSE,JEE,Hindi,2025-09-29,Hybrid
+STU0601,Ekiya Rai,Class 12,CBSE,Foundation,Tamil,2025-04-29,Online
+STU0602,Warjas Bahri,Class 9,CBSE,NEET,English,2026-03-11,Offline
+STU0603,Wriddhish Basak,Class 10,State Board,NEET,Tamil,2025-09-22,Offline
+STU0604,Matthew Lanka,Class 9,CBSE,JEE,Tamil,2025-08-31,Offline
+STU0605,Ishaan Bora,Class 11,ICSE,JEE,English,2026-04-23,Online
+STU0606,Osha Uppal,Class 10,ICSE,NEET,Hindi,2024-07-28,Hybrid
+STU0607,Shivansh Saha,Class 12,CBSE,JEE,English,2024-10-27,Offline
+STU0608,Ranbir Kalita,Class 9,State Board,Foundation,Tamil,2025-10-23,Offline
+STU0609,Kashvi Bhavsar,Class 9,ICSE,NEET,Tamil,2024-10-02,Online
+STU0610,Om Majumdar,Class 10,State Board,Foundation,English,2024-12-21,Hybrid
+STU0611,Naveen Nair,Class 12,CBSE,JEE,Tamil,2026-05-10,Offline
+STU0612,Priya Bhavsar,Class 11,ICSE,JEE,English,2025-06-04,Online
+STU0613,Chasmum Ray,Class 12,ICSE,NEET,Tamil,2025-11-14,Offline
+STU0614,Kritika Varghese,Class 9,ICSE,NEET,English,2025-04-27,Hybrid
+STU0615,Ijaya Balakrishnan,Class 12,State Board,Foundation,English,2024-12-02,Offline
+STU0616,Utkarsh Khosla,Class 9,CBSE,NEET,English,2024-12-10,Offline
+STU0617,Ati Ravel,Class 11,State Board,NEET,Tamil,2026-05-27,Offline
+STU0618,Isha Lad,Class 11,ICSE,Foundation,Hindi,2025-10-15,Online
+STU0619,Radhika Setty,Class 11,ICSE,Foundation,Hindi,2026-06-26,Online
+STU0620,Pavani Kanda,Class 12,ICSE,JEE,Tamil,2025-07-23,Offline
+STU0621,Theodore Modi,Class 11,State Board,Foundation,Hindi,2025-10-10,Offline
+STU0622,Ranveer Vala,Class 10,ICSE,NEET,Tamil,2025-03-15,Offline
+STU0623,Krisha Krish,Class 11,CBSE,Foundation,English,2025-08-25,Hybrid
+STU0624,Ishita Radhakrishnan,Class 10,State Board,Foundation,English,2024-12-06,Hybrid
+STU0625,Anay Viswanathan,Class 12,State Board,JEE,Tamil,2025-07-26,Offline
+STU0626,Aadhya Kulkarni,Class 9,ICSE,Foundation,Tamil,2025-12-25,Online
+STU0627,Ekiya Trivedi,Class 11,CBSE,NEET,Hindi,2025-06-24,Online
+STU0628,Meghana Gola,Class 12,ICSE,JEE,Tamil,2024-09-08,Hybrid
+STU0629,Zashil Lal,Class 12,State Board,NEET,Hindi,2025-05-27,Hybrid
+STU0630,Xalak Mand,Class 12,State Board,JEE,Tamil,2026-01-16,Hybrid
+STU0631,Inaya Krishnamurthy,Class 9,CBSE,JEE,Hindi,2025-06-29,Hybrid
+STU0632,Bishakha Deshpande,Class 11,CBSE,Foundation,Hindi,2025-02-27,Online
+STU0633,Aachal Parmer,Class 12,ICSE,NEET,English,2025-08-11,Online
+STU0634,Zinal Randhawa,Class 9,ICSE,JEE,Hindi,2025-09-17,Hybrid
+STU0635,Siya Kapur,Class 10,ICSE,NEET,Tamil,2026-06-22,Offline
+STU0636,Chakradhar Toor,Class 10,ICSE,JEE,Tamil,2025-09-11,Online
+STU0637,Triveni Raj,Class 11,ICSE,JEE,English,2025-01-18,Hybrid
+STU0638,Tanmayi Arora,Class 10,ICSE,NEET,Tamil,2024-11-12,Offline
+STU0639,Guneet Bawa,Class 10,State Board,NEET,Tamil,2025-06-01,Offline
+STU0640,Ira Amble,Class 9,ICSE,Foundation,Hindi,2024-10-14,Offline
+STU0641,Darpan Parmer,Class 11,CBSE,NEET,English,2025-12-30,Hybrid
+STU0642,Nisha Dixit,Class 9,CBSE,NEET,Hindi,2026-05-21,Online
+STU0643,Jeet Karnik,Class 10,State Board,JEE,Hindi,2026-03-24,Online
+STU0644,Janani Halder,Class 10,ICSE,Foundation,Tamil,2025-03-17,Offline
+STU0645,Zayyan Datta,Class 10,ICSE,Foundation,English,2025-12-30,Online
+STU0646,Idika Mani,Class 12,ICSE,JEE,Hindi,2025-10-26,Hybrid
+STU0647,Indira Sane,Class 10,ICSE,Foundation,Tamil,2025-08-04,Offline
+STU0648,Dipta Nath,Class 9,State Board,JEE,English,2024-09-13,Offline
+STU0649,Rajeshri Dasgupta,Class 9,State Board,JEE,Hindi,2026-02-05,Online
+STU0650,Chameli Sahni,Class 11,ICSE,JEE,Tamil,2025-01-29,Online
+STU0651,Wakeeta Varughese,Class 11,State Board,NEET,Hindi,2026-03-22,Hybrid
+STU0652,Arin Varma,Class 11,State Board,NEET,Hindi,2025-11-12,Offline
+STU0653,Hemang Mukhopadhyay,Class 9,ICSE,NEET,Tamil,2026-04-30,Hybrid
+STU0654,Janya Dhillon,Class 10,State Board,Foundation,Tamil,2025-09-13,Hybrid
+STU0655,Saksham Ranganathan,Class 9,State Board,JEE,Tamil,2026-02-19,Online
+STU0656,Yagnesh Butala,Class 10,ICSE,JEE,English,2025-01-01,Offline
+STU0657,Orinder Handa,Class 10,State Board,NEET,Tamil,2025-07-21,Hybrid
+STU0658,Xiti Gara,Class 10,State Board,NEET,Tamil,2024-12-14,Online
+STU0659,Gaurang Bajwa,Class 12,State Board,Foundation,Hindi,2024-09-26,Hybrid
+STU0660,Ikbal Bath,Class 10,State Board,JEE,Tamil,2026-07-19,Offline
+STU0661,Rajata Dass,Class 10,CBSE,NEET,Tamil,2025-04-24,Hybrid
+STU0662,Adweta Iyer,Class 9,ICSE,JEE,Tamil,2024-09-05,Online
+STU0663,Dhriti Gour,Class 10,ICSE,Foundation,Hindi,2026-05-06,Hybrid
+STU0664,Balveer Apte,Class 12,ICSE,Foundation,Tamil,2025-09-18,Offline
+STU0665,Umang Balan,Class 12,ICSE,JEE,English,2025-11-04,Hybrid
+STU0666,Vyanjana Kota,Class 9,CBSE,NEET,English,2025-11-23,Offline
+STU0667,Chatresh Krishnan,Class 10,State Board,NEET,English,2025-03-30,Offline
+STU0668,Warda Sengupta,Class 12,State Board,Foundation,English,2025-09-01,Hybrid
+STU0669,Arjun Mahajan,Class 9,ICSE,Foundation,Tamil,2026-05-21,Hybrid
+STU0670,Vyanjana Naidu,Class 9,State Board,NEET,Hindi,2024-11-28,Online
+STU0671,Michael Brar,Class 12,CBSE,Foundation,Hindi,2024-09-05,Online
+STU0672,Anirudh Wali,Class 11,CBSE,NEET,Tamil,2026-05-16,Offline
+STU0673,Onkar Barad,Class 9,ICSE,JEE,English,2025-08-14,Online
+STU0674,Devika Palla,Class 11,State Board,Foundation,Hindi,2025-02-25,Offline
+STU0675,Aayush Doshi,Class 10,State Board,JEE,English,2025-06-16,Online
+STU0676,Hema Raj,Class 9,State Board,NEET,Hindi,2025-11-12,Offline
+STU0677,Mugdha Sahni,Class 10,ICSE,Foundation,Tamil,2025-05-01,Offline
+STU0678,Hredhaan Chokshi,Class 11,State Board,Foundation,English,2024-10-08,Online
+STU0679,Nikita Arya,Class 12,CBSE,NEET,Hindi,2024-08-27,Online
+STU0680,Darika Ramakrishnan,Class 10,CBSE,JEE,Hindi,2026-07-09,Offline
+STU0681,Upasna Choudhry,Class 10,State Board,NEET,Tamil,2024-07-27,Online
+STU0682,Nathaniel Murthy,Class 11,State Board,NEET,Tamil,2025-02-09,Offline
+STU0683,Jeevika Varkey,Class 9,State Board,JEE,Tamil,2026-01-17,Hybrid
+STU0684,Aayush Ramaswamy,Class 11,State Board,NEET,Tamil,2026-06-29,Offline
+STU0685,Yashica Shroff,Class 11,State Board,JEE,Hindi,2025-12-11,Online
+STU0686,Orinder Sarin,Class 12,State Board,Foundation,Hindi,2026-03-30,Offline
+STU0687,Jalsa Kant,Class 9,State Board,NEET,English,2026-07-10,Offline
+STU0688,Upma Sem,Class 10,ICSE,NEET,Tamil,2025-11-18,Offline
+STU0689,Vyanjana Subramaniam,Class 11,State Board,Foundation,English,2026-03-10,Hybrid
+STU0690,Oni Kumar,Class 12,ICSE,Foundation,English,2026-05-27,Online
+STU0691,Deepa Sundaram,Class 9,State Board,NEET,English,2024-08-18,Online
+STU0692,Baghyawati Minhas,Class 10,ICSE,NEET,English,2025-09-29,Offline
+STU0693,Sai Mishra,Class 10,State Board,JEE,Hindi,2025-06-22,Offline
+STU0694,Mahika Ramaswamy,Class 10,ICSE,JEE,Hindi,2025-02-13,Offline
+STU0695,Quincy Raja,Class 11,CBSE,NEET,Hindi,2025-08-26,Hybrid
+STU0696,Varenya Shenoy,Class 10,CBSE,NEET,Hindi,2024-08-01,Offline
+STU0697,Alexander Bhasin,Class 10,ICSE,Foundation,English,2026-01-01,Hybrid
+STU0698,Alexander Modi,Class 9,CBSE,JEE,Tamil,2024-10-31,Online
+STU0699,Vaishnavi Taneja,Class 10,State Board,JEE,Hindi,2024-11-11,Hybrid
+STU0700,Forum Patel,Class 12,CBSE,JEE,Hindi,2025-10-20,Offline
+STU0701,Parth Bhat,Class 9,ICSE,Foundation,English,2025-03-04,Offline
+STU0702,Ekani Chaudry,Class 9,CBSE,NEET,English,2026-07-17,Hybrid
+STU0703,Orinder Malhotra,Class 9,CBSE,NEET,Tamil,2025-04-26,Offline
+STU0704,Dakshesh Pandit,Class 10,ICSE,JEE,Hindi,2025-09-29,Hybrid
+STU0705,Yashawini Datta,Class 10,CBSE,Foundation,Hindi,2026-06-05,Online
+STU0706,Ekanta Keer,Class 10,ICSE,NEET,Hindi,2024-12-02,Online
+STU0707,Ekalinga Nagy,Class 10,ICSE,Foundation,Hindi,2024-11-08,Offline
+STU0708,Warda Arora,Class 10,CBSE,JEE,English,2024-10-01,Online
+STU0709,Nidra Dugar,Class 12,ICSE,NEET,Tamil,2026-01-22,Online
+STU0710,Anvi Kara,Class 10,ICSE,Foundation,English,2026-03-15,Online
+STU0711,Manbir Chandra,Class 11,State Board,JEE,Hindi,2024-12-16,Offline
+STU0712,Upadhriti Anand,Class 10,State Board,Foundation,Hindi,2025-01-20,Online
+STU0713,Tejas Sathe,Class 12,ICSE,Foundation,English,2026-05-19,Online
+STU0714,Raagini Chaudhry,Class 12,ICSE,JEE,English,2025-05-05,Offline
+STU0715,Oviya Natt,Class 9,State Board,JEE,Tamil,2024-10-25,Offline
+STU0716,Gauri Chauhan,Class 10,ICSE,Foundation,Tamil,2025-12-04,Offline
+STU0717,Chavvi Rajagopal,Class 10,ICSE,JEE,English,2026-02-26,Hybrid
+STU0718,Gautam Walla,Class 9,CBSE,NEET,English,2026-05-20,Online
+STU0719,Caleb Sama,Class 9,ICSE,Foundation,Tamil,2025-10-15,Hybrid
+STU0720,Ojas Nayar,Class 12,ICSE,Foundation,Tamil,2026-05-27,Online
+STU0721,Ishani Sahni,Class 10,ICSE,JEE,Tamil,2026-04-16,Online
+STU0722,Darpan Gaba,Class 10,CBSE,Foundation,Tamil,2024-08-26,Offline
+STU0723,Utkarsh Bahri,Class 9,ICSE,Foundation,Tamil,2025-10-25,Hybrid
+STU0724,Isaiah Handa,Class 10,CBSE,JEE,English,2026-03-07,Offline
+STU0725,Lopa Chana,Class 9,ICSE,Foundation,Hindi,2025-04-16,Online
+STU0726,Sai Thakur,Class 11,State Board,Foundation,Hindi,2024-10-29,Hybrid
+STU0727,Manthan Dayal,Class 10,CBSE,JEE,Hindi,2025-01-05,Online
+STU0728,Chakradhar Behl,Class 9,CBSE,NEET,Tamil,2024-11-10,Hybrid
+STU0729,Charvi Sunder,Class 11,CBSE,NEET,English,2026-04-06,Hybrid
+STU0730,Sneha Chowdhury,Class 11,State Board,JEE,English,2026-01-27,Offline
+STU0731,Bhavika Uppal,Class 12,ICSE,Foundation,English,2025-05-09,Offline
+STU0732,Qushi Reddy,Class 9,ICSE,NEET,Hindi,2024-08-13,Offline
+STU0733,Dhriti Sawhney,Class 9,ICSE,Foundation,English,2025-05-16,Offline
+STU0734,Veer Dash,Class 10,ICSE,JEE,Hindi,2025-02-23,Hybrid
+STU0735,Dominic Bansal,Class 9,CBSE,Foundation,Hindi,2024-12-30,Online
+STU0736,Balendra Bobal,Class 9,CBSE,JEE,English,2025-02-02,Offline
+STU0737,Ikshita Bansal,Class 11,ICSE,JEE,English,2026-07-09,Online
+STU0738,Gaurika Krishna,Class 12,CBSE,NEET,English,2026-03-23,Offline
+STU0739,Ubika Pandit,Class 11,ICSE,JEE,Hindi,2025-10-06,Offline
+STU0740,Upma Nadig,Class 9,State Board,Foundation,English,2024-09-05,Online
+STU0741,Samaksh Kapoor,Class 10,State Board,JEE,Tamil,2024-09-03,Online
+STU0742,Vedika Bhatt,Class 12,ICSE,NEET,Tamil,2025-04-26,Online
+STU0743,Wyatt Chauhan,Class 12,CBSE,NEET,English,2025-02-20,Offline
+STU0744,Chanakya Anne,Class 11,State Board,Foundation,English,2025-01-13,Offline
+STU0745,Onkar Rege,Class 11,State Board,NEET,English,2025-02-19,Hybrid
+STU0746,Ikshita Khosla,Class 10,CBSE,JEE,Tamil,2026-06-16,Online
+STU0747,Arunima Koshy,Class 10,State Board,NEET,Hindi,2025-04-27,Hybrid
+STU0748,Baljiwan Sangha,Class 9,ICSE,JEE,Hindi,2025-04-13,Offline
+STU0749,Onkar Bakshi,Class 11,CBSE,JEE,Hindi,2025-01-21,Online
+STU0750,Bhanumati Tata,Class 12,ICSE,JEE,English,2025-08-15,Hybrid
+STU0751,Madhavi Jayaraman,Class 11,CBSE,JEE,English,2024-09-18,Hybrid
+STU0752,Patrick Jani,Class 12,State Board,NEET,Tamil,2026-03-28,Hybrid
+STU0753,Ikshita Balasubramanian,Class 9,State Board,JEE,Hindi,2026-03-08,Online
+STU0754,Dhruv Chad,Class 12,CBSE,Foundation,Hindi,2025-01-18,Online
+STU0755,Lopa Gill,Class 12,State Board,JEE,English,2026-01-29,Offline
+STU0756,Aayush Kaul,Class 11,ICSE,NEET,Hindi,2025-06-18,Hybrid
+STU0757,Reva Bir,Class 11,ICSE,NEET,Tamil,2024-11-07,Online
+STU0758,Falan Dar,Class 9,CBSE,JEE,Hindi,2025-01-01,Online
+STU0759,Falan Madan,Class 10,CBSE,JEE,Tamil,2024-11-07,Offline
+STU0760,Chatresh Sarraf,Class 11,ICSE,JEE,Hindi,2025-08-31,Offline
+STU0761,Ekalinga Naidu,Class 10,ICSE,NEET,Tamil,2026-07-16,Offline
+STU0762,Anita Bhargava,Class 9,CBSE,JEE,Hindi,2025-07-20,Offline
+STU0763,Hritik Sule,Class 9,CBSE,NEET,English,2025-08-23,Online
+STU0764,Upkaar Jani,Class 10,ICSE,NEET,Hindi,2025-12-03,Online
+STU0765,Banjeet Parikh,Class 11,ICSE,JEE,English,2025-03-17,Offline
+STU0766,Ekiya Bhandari,Class 12,State Board,Foundation,Hindi,2026-05-29,Online
+STU0767,Samaksh Loke,Class 9,ICSE,JEE,English,2025-05-03,Online
+STU0768,Pooja Murthy,Class 9,CBSE,JEE,English,2025-07-11,Online
+STU0769,Urishilla Kata,Class 12,ICSE,Foundation,Hindi,2025-05-08,Hybrid
+STU0770,Udant Borah,Class 9,State Board,Foundation,Tamil,2026-05-23,Online
+STU0771,Chaitanya Agrawal,Class 9,CBSE,JEE,Hindi,2026-03-04,Offline
+STU0772,Aayush Gade,Class 10,CBSE,NEET,English,2024-12-07,Online
+STU0773,Madhavi Rajagopal,Class 12,CBSE,JEE,Hindi,2024-09-25,Offline
+STU0774,Janani Bakshi,Class 12,ICSE,JEE,Tamil,2025-05-20,Hybrid
+STU0775,Harita Ravi,Class 12,CBSE,NEET,English,2026-06-08,Online
+STU0776,Yamini Parikh,Class 11,ICSE,NEET,English,2024-10-12,Online
+STU0777,Diya Dubey,Class 10,State Board,NEET,Tamil,2025-08-20,Offline
+STU0778,Udyati Kara,Class 12,CBSE,JEE,Tamil,2026-05-09,Offline
+STU0779,Gopal Dhaliwal,Class 10,ICSE,JEE,Hindi,2025-01-29,Hybrid
+STU0780,Maya Taneja,Class 10,State Board,Foundation,English,2024-09-25,Offline
+STU0781,Girik Chadha,Class 11,ICSE,Foundation,Tamil,2026-06-29,Offline
+STU0782,Balendra Upadhyay,Class 11,ICSE,NEET,English,2025-03-09,Online
+STU0783,Dhruv Badal,Class 11,State Board,JEE,English,2026-04-26,Offline
+STU0784,Vihaan Thaker,Class 9,ICSE,Foundation,Tamil,2024-09-23,Hybrid
+STU0785,Mohammed Bajaj,Class 10,CBSE,JEE,English,2026-05-29,Hybrid
+STU0786,Teerth Hora,Class 10,ICSE,Foundation,Hindi,2025-11-20,Online
+STU0787,Andrew Arora,Class 10,State Board,NEET,Tamil,2026-07-03,Online
+STU0788,Joshua Nagi,Class 10,CBSE,Foundation,Tamil,2024-11-18,Hybrid
+STU0789,Kabir Guha,Class 11,State Board,JEE,Hindi,2025-02-25,Hybrid
+STU0790,Ekani Tandon,Class 11,State Board,Foundation,English,2025-12-16,Hybrid
+STU0791,Elijah Sem,Class 10,ICSE,Foundation,Tamil,2026-02-12,Online
+STU0792,Harini Lalla,Class 12,CBSE,JEE,English,2024-09-02,Online
+STU0793,Wriddhish Iyengar,Class 10,CBSE,Foundation,Tamil,2025-02-13,Online
+STU0794,Amrita Raman,Class 11,State Board,JEE,English,2025-12-09,Offline
+STU0795,Osha Deshpande,Class 10,ICSE,JEE,English,2025-08-12,Online
+STU0796,Anita Kohli,Class 10,CBSE,Foundation,Tamil,2025-11-01,Online
+STU0797,Chandran Murthy,Class 11,State Board,Foundation,Tamil,2024-12-16,Hybrid
+STU0798,Nachiket Sarkar,Class 9,ICSE,NEET,Tamil,2025-03-27,Online
+STU0799,William Doshi,Class 10,State Board,NEET,Hindi,2024-09-14,Offline
+STU0800,Bhavya Chowdhury,Class 11,CBSE,Foundation,Hindi,2025-01-25,Hybrid
+STU0801,Zilmil Nadig,Class 11,CBSE,Foundation,Hindi,2025-10-06,Online
+STU0802,Kalpit Mander,Class 12,ICSE,Foundation,Hindi,2025-04-18,Offline
+STU0803,Kamala Randhawa,Class 10,CBSE,Foundation,English,2025-08-05,Hybrid
+STU0804,Udarsh Gulati,Class 12,State Board,JEE,English,2025-08-19,Hybrid
+STU0805,Ekanta Aurora,Class 11,State Board,JEE,Hindi,2025-01-02,Hybrid
+STU0806,Vidhi Rout,Class 9,ICSE,JEE,Tamil,2025-05-03,Hybrid
+STU0807,Hredhaan Butala,Class 9,CBSE,NEET,Tamil,2025-11-12,Online
+STU0808,Sneha Das,Class 9,State Board,Foundation,Hindi,2026-02-13,Hybrid
+STU0809,Vanya Palla,Class 11,ICSE,JEE,Tamil,2025-10-30,Online
+STU0810,Benjamin Deshpande,Class 10,State Board,JEE,Tamil,2024-10-08,Offline
+STU0811,Rudra Dara,Class 9,State Board,JEE,English,2024-11-17,Offline
+STU0812,George Sampath,Class 12,State Board,NEET,English,2025-07-30,Offline
+STU0813,Elijah Bansal,Class 12,ICSE,NEET,Hindi,2026-06-08,Offline
+STU0814,Robert Patel,Class 9,ICSE,Foundation,Hindi,2025-12-21,Hybrid
+STU0815,Chakradhar Kulkarni,Class 10,CBSE,NEET,English,2024-07-28,Online
+STU0816,Jai Aggarwal,Class 11,CBSE,NEET,Tamil,2025-04-11,Online
+STU0817,Amara Patla,Class 9,ICSE,JEE,Tamil,2025-01-22,Online
+STU0818,Oviya Morar,Class 9,State Board,JEE,Tamil,2024-10-26,Hybrid
+STU0819,Kalpit Solanki,Class 12,State Board,JEE,Tamil,2025-11-23,Hybrid
+STU0820,Xalak Mani,Class 10,State Board,NEET,English,2026-05-03,Online
+STU0821,Benjamin Nath,Class 9,ICSE,JEE,English,2026-03-04,Offline
+STU0822,Ekansh Bhandari,Class 11,State Board,NEET,Tamil,2025-10-04,Online
+STU0823,Yochana More,Class 9,CBSE,NEET,Hindi,2024-09-19,Hybrid
+STU0824,Nakul Chacko,Class 12,CBSE,JEE,Tamil,2025-01-15,Online
+STU0825,Jeevika Pai,Class 12,CBSE,NEET,Hindi,2025-01-04,Hybrid
+STU0826,Nicholas Chaudhari,Class 12,CBSE,JEE,English,2024-07-23,Online
+STU0827,Alka Kade,Class 10,State Board,NEET,English,2026-06-11,Offline
+STU0828,Hredhaan Grover,Class 9,ICSE,NEET,Tamil,2025-09-16,Offline
+STU0829,Radhika Rama,Class 11,CBSE,Foundation,Hindi,2025-07-08,Offline
+STU0830,Bina Murthy,Class 10,ICSE,NEET,Tamil,2026-01-05,Online
+STU0831,Onveer Zacharia,Class 12,CBSE,NEET,Tamil,2026-02-07,Offline
+STU0832,Tanay Edwin,Class 11,CBSE,NEET,Hindi,2024-11-07,Online
+STU0833,Chandani Sahni,Class 10,State Board,Foundation,English,2025-05-19,Online
+STU0834,Daniel Bhakta,Class 11,State Board,NEET,Hindi,2025-02-24,Online
+STU0835,Amrita Mukhopadhyay,Class 9,ICSE,Foundation,Tamil,2025-11-04,Hybrid
+STU0836,Nirja Anand,Class 12,State Board,JEE,Tamil,2025-05-09,Offline
+STU0837,Jairaj Shankar,Class 9,ICSE,Foundation,English,2024-12-08,Hybrid
+STU0838,Anirudh Soni,Class 10,CBSE,NEET,English,2026-06-26,Online
+STU0839,Utkarsh Jha,Class 10,CBSE,JEE,English,2026-05-07,Offline
+STU0840,Nidhi Ravi,Class 9,State Board,NEET,English,2026-07-04,Hybrid
+STU0841,Nikita Desai,Class 10,State Board,NEET,Tamil,2025-05-04,Hybrid
+STU0842,Meghana Hari,Class 9,CBSE,NEET,Hindi,2024-12-27,Offline
+STU0843,Shivani Wali,Class 11,ICSE,Foundation,Tamil,2026-06-05,Online
+STU0844,Falan Kannan,Class 12,CBSE,NEET,English,2024-08-27,Online
+STU0845,Wyatt Bobal,Class 9,CBSE,Foundation,English,2025-11-06,Offline
+STU0846,Charita Bansal,Class 11,ICSE,NEET,Tamil,2025-12-19,Hybrid
+STU0847,Urishilla Narayanan,Class 12,State Board,Foundation,Tamil,2025-09-26,Online
+STU0848,Jagvi Nori,Class 10,ICSE,NEET,English,2025-09-23,Hybrid
+STU0849,Baghyawati Gokhale,Class 12,CBSE,NEET,Tamil,2025-07-26,Hybrid
+STU0850,Janaki Sama,Class 10,CBSE,Foundation,Tamil,2026-07-06,Offline
+STU0851,Pallavi Deshpande,Class 11,CBSE,NEET,Tamil,2024-12-26,Offline
+STU0852,Luke Brar,Class 11,ICSE,Foundation,Hindi,2026-04-02,Online
+STU0853,Rehaan Bath,Class 10,CBSE,NEET,Hindi,2024-10-14,Offline
+STU0854,Nathan Gera,Class 11,ICSE,Foundation,Tamil,2025-01-06,Hybrid
+STU0855,Abhimanyu Raghavan,Class 9,CBSE,NEET,English,2025-01-08,Offline
+STU0856,Janya Bajwa,Class 12,State Board,NEET,English,2025-08-10,Hybrid
+STU0857,Anusha Toor,Class 10,CBSE,NEET,Hindi,2024-08-31,Hybrid
+STU0858,Benjamin Batra,Class 12,CBSE,Foundation,Hindi,2025-09-03,Online
+STU0859,Priya Palan,Class 10,CBSE,JEE,English,2025-01-11,Online
+STU0860,Jason Bhardwaj,Class 9,ICSE,JEE,Tamil,2025-05-29,Hybrid
+STU0861,Shivani Doshi,Class 10,ICSE,NEET,Tamil,2025-09-21,Hybrid
+STU0862,Aayush Baral,Class 12,State Board,JEE,Hindi,2025-08-11,Online
+STU0863,Eta Devan,Class 10,ICSE,NEET,Hindi,2026-07-09,Offline
+STU0864,Samuel Sachar,Class 10,ICSE,Foundation,Hindi,2025-08-29,Offline
+STU0865,Neelima Kalla,Class 11,CBSE,NEET,Hindi,2024-09-12,Hybrid
+STU0866,Nachiket Sheth,Class 9,ICSE,JEE,Tamil,2025-08-24,Online
+STU0867,Guneet Sheth,Class 10,State Board,JEE,English,2026-01-21,Hybrid
+STU0868,Harita Badal,Class 10,State Board,JEE,Tamil,2025-06-29,Hybrid
+STU0869,Jagdish Morar,Class 12,State Board,JEE,Hindi,2025-06-20,Online
+STU0870,Arjun Naik,Class 12,CBSE,Foundation,English,2024-09-11,Hybrid
+STU0871,Chakradhar Shanker,Class 9,CBSE,NEET,Hindi,2025-03-24,Offline
+STU0872,Yasti Gupta,Class 11,ICSE,NEET,Tamil,2026-07-11,Offline
+STU0873,Pooja Bhalla,Class 11,CBSE,NEET,Tamil,2025-06-09,Hybrid
+STU0874,Tanish Bobal,Class 12,State Board,JEE,English,2025-05-06,Hybrid
+STU0875,Gavin Ganguly,Class 11,State Board,Foundation,Hindi,2026-02-25,Hybrid
+STU0876,Lakshit Gulati,Class 11,ICSE,Foundation,English,2024-12-24,Offline
+STU0877,Nicholas Varma,Class 9,ICSE,NEET,Hindi,2025-04-20,Offline
+STU0878,Finn Chauhan,Class 11,ICSE,Foundation,Hindi,2025-02-11,Hybrid
+STU0879,Advik Arora,Class 11,CBSE,JEE,Hindi,2026-05-21,Online
+STU0880,Tanvi Kapoor,Class 9,State Board,NEET,Hindi,2024-08-26,Offline
+STU0881,Hemani Bala,Class 10,State Board,JEE,Hindi,2024-07-25,Offline
+STU0882,Chaaya Oza,Class 11,ICSE,NEET,Tamil,2026-07-23,Offline
+STU0883,Ati Korpal,Class 9,State Board,Foundation,Hindi,2024-09-24,Online
+STU0884,Udarsh Dara,Class 11,State Board,Foundation,English,2025-06-14,Hybrid
+STU0885,Jeet Kapur,Class 12,State Board,NEET,Hindi,2025-10-15,Offline
+STU0886,Darpan Ravi,Class 10,State Board,Foundation,English,2025-01-03,Offline
+STU0887,Aarush Ganesh,Class 9,ICSE,JEE,Hindi,2026-02-10,Offline
+STU0888,Zayan Sastry,Class 10,State Board,NEET,Hindi,2026-06-05,Online
+STU0889,Abeer Sani,Class 10,ICSE,JEE,Hindi,2025-04-23,Offline
+STU0890,George Sandal,Class 12,ICSE,NEET,Tamil,2026-04-07,Hybrid
+STU0891,Pranit Dhaliwal,Class 11,ICSE,JEE,Tamil,2025-07-17,Online
+STU0892,Teerth Panchal,Class 9,ICSE,JEE,Hindi,2026-03-03,Online
+STU0893,Jasmit Vora,Class 12,State Board,NEET,Tamil,2026-04-11,Online
+STU0894,Jalsa Sridhar,Class 10,CBSE,JEE,Tamil,2025-02-01,Offline
+STU0895,Oviya Hora,Class 12,CBSE,NEET,Hindi,2024-08-04,Online
+STU0896,Manthan Seth,Class 9,ICSE,NEET,Hindi,2024-10-16,Online
+STU0897,Kiaan Taneja,Class 11,State Board,JEE,English,2025-03-29,Offline
+STU0898,Joshua Dalal,Class 11,CBSE,JEE,Hindi,2026-05-11,Online
+STU0899,Frado Golla,Class 12,CBSE,JEE,Hindi,2025-05-12,Offline
+STU0900,Rajeshri Sani,Class 12,ICSE,NEET,Tamil,2026-04-12,Offline
+STU0901,Jasmit Pai,Class 9,CBSE,Foundation,English,2025-01-08,Hybrid
+STU0902,Ekta Behl,Class 11,CBSE,NEET,Hindi,2024-12-16,Online
+STU0903,Diya Gaba,Class 9,State Board,JEE,Hindi,2025-05-20,Hybrid
+STU0904,Avni Raman,Class 10,CBSE,Foundation,Tamil,2026-01-26,Offline
+STU0905,Leela Chakrabarti,Class 10,CBSE,NEET,Hindi,2026-05-27,Hybrid
+STU0906,William Ramaswamy,Class 11,CBSE,JEE,English,2026-02-26,Offline
+STU0907,Barkha Memon,Class 11,ICSE,Foundation,Hindi,2025-09-28,Hybrid
+STU0908,Kevin Patil,Class 11,ICSE,Foundation,English,2026-07-07,Offline
+STU0909,Indrajit Parmer,Class 12,ICSE,JEE,English,2026-05-02,Offline
+STU0910,Ekalinga Manda,Class 9,CBSE,JEE,Hindi,2026-03-11,Online
+STU0911,Ati Ratta,Class 10,State Board,JEE,Hindi,2026-02-02,Hybrid
+STU0912,Pooja Sibal,Class 10,CBSE,NEET,Hindi,2024-11-17,Hybrid
+STU0913,Orinder Dada,Class 9,ICSE,Foundation,Tamil,2026-02-11,Hybrid
+STU0914,Anvi Deep,Class 9,State Board,JEE,Hindi,2024-11-14,Online
+STU0915,Nihal Dhillon,Class 9,CBSE,Foundation,English,2026-06-07,Offline
+STU0916,Baljiwan Anand,Class 12,ICSE,JEE,Hindi,2025-08-10,Offline
+STU0917,Jagat Sen,Class 12,State Board,JEE,English,2026-01-20,Hybrid
+STU0918,Aashi Narang,Class 9,ICSE,NEET,Hindi,2024-12-28,Online
+STU0919,Eesha Minhas,Class 11,State Board,Foundation,Hindi,2025-09-19,Online
+STU0920,Jagrati Korpal,Class 12,CBSE,Foundation,Hindi,2025-12-29,Hybrid
+STU0921,Pooja Lala,Class 9,ICSE,JEE,English,2026-04-09,Offline
+STU0922,Fitan Anand,Class 10,State Board,JEE,Tamil,2024-11-01,Hybrid
+STU0923,Xiti Singhal,Class 10,ICSE,Foundation,Tamil,2025-10-12,Offline
+STU0924,Karan Murthy,Class 10,CBSE,Foundation,Tamil,2025-11-07,Online
+STU0925,Bachittar Sundaram,Class 12,ICSE,JEE,English,2025-08-20,Online
+STU0926,Advik Bhargava,Class 9,CBSE,Foundation,Hindi,2024-08-08,Offline
+STU0927,Yashawini Nazareth,Class 10,CBSE,Foundation,English,2026-04-11,Hybrid
+STU0928,Aashi Sahota,Class 9,ICSE,Foundation,English,2026-07-09,Offline
+STU0929,Jeet Mall,Class 11,ICSE,NEET,English,2025-04-14,Online
+STU0930,Shravya Wali,Class 10,CBSE,NEET,Tamil,2025-01-10,Hybrid
+STU0931,Yashica Tank,Class 11,ICSE,Foundation,English,2025-09-10,Online
+STU0932,Dominic Rai,Class 9,CBSE,JEE,Hindi,2025-12-30,Hybrid
+STU0933,Sai Pingle,Class 10,ICSE,NEET,Tamil,2025-04-16,Hybrid
+STU0934,Zarna Barad,Class 11,State Board,JEE,Tamil,2025-10-15,Offline
+STU0935,Tamanna Parikh,Class 10,CBSE,NEET,Tamil,2024-09-06,Offline
+STU0936,Joshua Keer,Class 11,ICSE,Foundation,Tamil,2026-03-12,Offline
+STU0937,Yatin Basak,Class 10,CBSE,JEE,Hindi,2026-04-28,Hybrid
+STU0938,Ishani Dhaliwal,Class 9,CBSE,JEE,Tamil,2026-06-23,Hybrid
+STU0939,Gavin Upadhyay,Class 12,State Board,Foundation,Tamil,2026-02-19,Online
+STU0940,Siddharth Bir,Class 12,ICSE,Foundation,English,2026-03-08,Hybrid
+STU0941,Dakshesh Bakshi,Class 10,ICSE,NEET,English,2025-01-14,Offline
+STU0942,Nidhi Vyas,Class 12,CBSE,JEE,Tamil,2025-03-26,Hybrid
+STU0943,Nathan Johal,Class 11,CBSE,Foundation,Hindi,2026-05-21,Hybrid
+STU0944,Pallavi Bora,Class 10,State Board,NEET,Hindi,2025-05-16,Hybrid
+STU0945,Kai Sundaram,Class 9,ICSE,Foundation,Hindi,2026-06-27,Online
+STU0946,Ikbal Lata,Class 12,ICSE,Foundation,Hindi,2026-02-25,Hybrid
+STU0947,Vritti Lal,Class 12,CBSE,Foundation,Hindi,2025-04-18,Online
+STU0948,Rajata Ratti,Class 9,State Board,JEE,Hindi,2025-08-16,Offline
+STU0949,Peter Oak,Class 12,CBSE,JEE,Tamil,2025-12-28,Offline
+STU0950,Ishani Sachar,Class 10,ICSE,NEET,English,2024-09-04,Hybrid
+STU0951,Nihal Murty,Class 10,State Board,Foundation,Tamil,2025-08-26,Offline
+STU0952,Utkarsh Chacko,Class 10,CBSE,NEET,Tamil,2026-06-28,Hybrid
+STU0953,Jagvi Cheema,Class 12,CBSE,NEET,Tamil,2025-10-24,Offline
+STU0954,Udyati Mitter,Class 9,ICSE,Foundation,Hindi,2025-10-26,Online
+STU0955,Nicholas Garde,Class 9,ICSE,NEET,English,2025-07-10,Hybrid
+STU0956,Ekantika Bhalla,Class 9,CBSE,Foundation,Hindi,2026-04-20,Hybrid
+STU0957,Rehaan Ghosh,Class 11,State Board,Foundation,English,2026-07-10,Hybrid
+STU0958,Farhan Bhattacharyya,Class 12,ICSE,NEET,English,2024-09-09,Online
+STU0959,Simon Sane,Class 12,ICSE,Foundation,Hindi,2024-10-29,Hybrid
+STU0960,Sachi Chander,Class 12,State Board,Foundation,Tamil,2025-03-12,Hybrid
+STU0961,Jalsa Pandey,Class 12,CBSE,JEE,Hindi,2026-04-24,Online
+STU0962,Gautam Gour,Class 9,ICSE,NEET,Hindi,2025-01-07,Offline
+STU0963,Yagnesh Patil,Class 11,State Board,JEE,English,2025-08-21,Online
+STU0964,Mahika Rai,Class 12,CBSE,Foundation,Hindi,2024-09-19,Hybrid
+STU0965,Riya Goswami,Class 12,CBSE,NEET,Hindi,2025-10-10,Online
+STU0966,Maanav Gandhi,Class 10,CBSE,NEET,English,2026-06-25,Offline
+STU0967,Upasna Sawhney,Class 10,State Board,NEET,English,2026-03-27,Offline
+STU0968,Omya Buch,Class 9,State Board,Foundation,Hindi,2024-11-07,Online
+STU0969,Jeremiah Chowdhury,Class 12,ICSE,Foundation,Hindi,2026-05-12,Hybrid
+STU0970,Odika Sodhi,Class 10,ICSE,JEE,Hindi,2025-08-23,Hybrid
+STU0971,Kalpit Sachdev,Class 9,State Board,NEET,Hindi,2024-12-06,Offline
+STU0972,Vamakshi Bhavsar,Class 10,State Board,Foundation,English,2025-05-01,Hybrid
+STU0973,Tanveer Madan,Class 10,CBSE,NEET,Hindi,2026-05-18,Hybrid
+STU0974,Wriddhish Kurian,Class 11,State Board,NEET,Tamil,2025-07-23,Hybrid
+STU0975,Ikbal Grover,Class 10,ICSE,NEET,Tamil,2025-05-06,Offline
+STU0976,Kavya Dutta,Class 12,CBSE,JEE,Tamil,2024-11-06,Hybrid
+STU0977,Manya Prabhu,Class 11,State Board,Foundation,Tamil,2026-01-20,Hybrid
+STU0978,Yachana Divan,Class 10,CBSE,JEE,Hindi,2025-08-04,Hybrid
+STU0979,Champak Dhar,Class 11,State Board,NEET,Hindi,2025-06-07,Online
+STU0980,Nilima Dugal,Class 10,State Board,Foundation,Hindi,2025-08-30,Hybrid
+STU0981,Ayushman Sunder,Class 11,State Board,JEE,Tamil,2026-02-07,Hybrid
+STU0982,Nakul Panchal,Class 12,State Board,Foundation,Hindi,2024-12-25,Hybrid
+STU0983,Umang Tella,Class 12,State Board,Foundation,Hindi,2024-12-17,Offline
+STU0984,Parth Batta,Class 12,CBSE,Foundation,English,2025-04-20,Online
+STU0985,Hardik Kala,Class 12,CBSE,JEE,Hindi,2024-10-31,Online
+STU0986,Damini Soman,Class 10,ICSE,JEE,Tamil,2025-12-07,Hybrid
+STU0987,Naveen Karnik,Class 11,CBSE,JEE,Hindi,2024-12-04,Offline
+STU0988,Elijah Sagar,Class 10,State Board,JEE,Tamil,2025-09-13,Offline
+STU0989,Karan Pai,Class 9,State Board,Foundation,Hindi,2025-07-05,Hybrid
+STU0990,Adweta Khosla,Class 10,State Board,Foundation,Hindi,2025-11-30,Offline
+STU0991,Upma Choudhary,Class 10,State Board,Foundation,Tamil,2024-08-29,Hybrid
+STU0992,Radhika Kulkarni,Class 9,ICSE,NEET,Tamil,2025-12-13,Hybrid
+STU0993,Ganga Keer,Class 11,State Board,JEE,English,2025-07-11,Hybrid
+STU0994,Reyansh Balakrishnan,Class 11,CBSE,Foundation,Tamil,2025-03-24,Online
+STU0995,Jairaj Dua,Class 11,State Board,Foundation,Hindi,2026-07-06,Hybrid
+STU0996,Omya Patla,Class 10,State Board,JEE,Tamil,2024-11-07,Offline
+STU0997,Benjamin Bora,Class 10,State Board,JEE,English,2024-11-29,Online
+STU0998,Wridesh Parekh,Class 9,ICSE,JEE,Tamil,2026-03-06,Offline
+STU0999,Anamika Parsa,Class 11,CBSE,JEE,Hindi,2025-10-23,Offline
+STU1000,Barkha Wagle,Class 9,ICSE,NEET,Hindi,2025-12-20,Online
+STU1001,Upasna Apte,Class 9,CBSE,NEET,Hindi,2026-05-16,Online
+STU1002,Dhruv Grover,Class 11,ICSE,Foundation,Hindi,2024-10-19,Offline
+STU1003,Qasim Vasa,Class 9,State Board,NEET,Hindi,2024-09-24,Online
+STU1004,Yamini Gera,Class 10,State Board,JEE,Hindi,2025-11-29,Online
+STU1005,Jack Sharaf,Class 12,State Board,Foundation,Tamil,2025-08-01,Online
+STU1006,Hemangini Kohli,Class 11,CBSE,JEE,Hindi,2025-01-24,Offline
+STU1007,Kala Subramaniam,Class 11,ICSE,NEET,English,2025-08-13,Hybrid
+STU1008,Gauri Shanker,Class 12,State Board,Foundation,English,2024-09-02,Online
+STU1009,Samar Sidhu,Class 11,ICSE,JEE,Hindi,2026-05-28,Hybrid
+STU1010,George Rao,Class 10,CBSE,Foundation,Tamil,2026-04-19,Offline
+STU1011,Advika Barad,Class 9,ICSE,NEET,Hindi,2025-04-27,Hybrid
+STU1012,Ikshita D’Alia,Class 11,CBSE,Foundation,Tamil,2026-02-12,Hybrid
+STU1013,Harrison Mital,Class 12,ICSE,JEE,Tamil,2025-02-08,Hybrid
+STU1014,Urishilla Mani,Class 10,ICSE,Foundation,English,2026-06-11,Online
+STU1015,Aishani Dhaliwal,Class 10,State Board,Foundation,English,2025-10-13,Hybrid
+STU1016,Gopal Bhat,Class 9,CBSE,Foundation,Hindi,2025-02-02,Online
+STU1017,Vihaan Dutt,Class 12,CBSE,JEE,Hindi,2024-12-07,Hybrid
+STU1018,Rushil Magar,Class 12,State Board,JEE,Hindi,2025-12-11,Hybrid
+STU1019,Girindra Dara,Class 10,CBSE,NEET,Hindi,2025-01-14,Offline
+STU1020,Janaki Choudhary,Class 9,CBSE,JEE,English,2025-01-22,Online
+STU1021,Urmi Behl,Class 11,State Board,JEE,Hindi,2025-08-26,Online
+STU1022,Anita Jayaraman,Class 11,ICSE,NEET,Tamil,2026-03-22,Hybrid
+STU1023,Maanav Sama,Class 12,ICSE,NEET,English,2024-10-17,Offline
+STU1024,Reva Sathe,Class 9,State Board,JEE,Hindi,2026-02-15,Hybrid
+STU1025,Nachiket Sandhu,Class 9,State Board,Foundation,English,2026-01-12,Hybrid
+STU1026,Dominic Saxena,Class 9,ICSE,Foundation,English,2025-07-24,Offline
+STU1027,Falguni Raghavan,Class 11,State Board,JEE,Tamil,2026-02-10,Offline
+STU1028,Falan Sankaran,Class 12,ICSE,Foundation,English,2025-12-25,Offline
+STU1029,Zaid Halder,Class 10,State Board,JEE,English,2025-01-24,Hybrid
+STU1030,Forum Bassi,Class 12,State Board,NEET,Hindi,2024-08-03,Online
+STU1031,Azad Mishra,Class 11,State Board,Foundation,Hindi,2024-10-29,Offline
+STU1032,Jason Madan,Class 9,State Board,Foundation,English,2025-06-09,Online
+STU1033,Vrishti Dhingra,Class 9,CBSE,Foundation,Hindi,2025-06-12,Offline
+STU1034,Yachana Mander,Class 9,ICSE,JEE,Hindi,2026-02-13,Hybrid
+STU1035,Samuel Verma,Class 11,CBSE,NEET,Hindi,2025-11-29,Hybrid
+STU1036,Jhalak Sangha,Class 10,CBSE,JEE,English,2025-06-24,Hybrid
+STU1037,Jack Bhatia,Class 11,CBSE,JEE,English,2024-12-04,Hybrid
+STU1038,Hemal Barad,Class 9,State Board,NEET,Hindi,2024-08-30,Hybrid
+STU1039,Zarna Sarna,Class 9,ICSE,Foundation,English,2024-09-22,Offline
+STU1040,Mahika Murthy,Class 9,CBSE,Foundation,Hindi,2024-08-04,Offline
+STU1041,Ishanvi Chacko,Class 11,ICSE,JEE,Hindi,2024-12-20,Hybrid
+STU1042,Yuvraj Cheema,Class 10,CBSE,NEET,Hindi,2025-09-01,Online
+STU1043,Praneel Hayer,Class 10,ICSE,NEET,Tamil,2025-05-24,Offline
+STU1044,Saanvi Boase,Class 11,State Board,Foundation,English,2025-07-31,Hybrid
+STU1045,Netra Mane,Class 11,ICSE,NEET,English,2026-02-01,Online
+STU1046,Maanav Patel,Class 11,CBSE,JEE,Hindi,2024-11-05,Hybrid
+STU1047,Avi Rao,Class 12,ICSE,NEET,English,2025-12-15,Hybrid
+STU1048,Joshua Gara,Class 11,ICSE,NEET,Tamil,2025-02-27,Offline
+STU1049,Chandresh Devan,Class 11,ICSE,Foundation,English,2024-11-28,Online
+STU1050,Advika Bhakta,Class 9,ICSE,JEE,Hindi,2024-12-03,Online
+STU1051,Divya Chakrabarti,Class 11,State Board,Foundation,English,2025-10-25,Hybrid
+STU1052,Xavier Bhargava,Class 9,CBSE,Foundation,Hindi,2024-07-25,Online
+STU1053,Bimala Mitra,Class 12,State Board,JEE,English,2025-06-30,Hybrid
+STU1054,Reva Issac,Class 11,State Board,Foundation,Tamil,2025-11-18,Hybrid
+STU1055,Aarna Khanna,Class 10,ICSE,NEET,English,2025-06-23,Hybrid
+STU1056,Leela Morar,Class 11,CBSE,NEET,Hindi,2026-02-11,Hybrid
+STU1057,Aahana Rastogi,Class 9,ICSE,NEET,Hindi,2026-05-02,Online
+STU1058,Rayaan Gupta,Class 10,State Board,Foundation,English,2026-06-03,Hybrid
+STU1059,Timothy Gara,Class 10,ICSE,JEE,English,2025-03-30,Hybrid
+STU1060,Garima Bath,Class 10,State Board,Foundation,Tamil,2026-03-14,Offline
+STU1061,Megha Mahal,Class 9,CBSE,NEET,English,2026-06-14,Online
+STU1062,Dayita Behl,Class 11,ICSE,JEE,English,2025-05-06,Hybrid
+STU1063,Aarna Shah,Class 10,State Board,NEET,Tamil,2024-11-09,Offline
+STU1064,Henry Sandhu,Class 12,CBSE,JEE,Hindi,2025-02-25,Offline
+STU1065,Girish Din,Class 9,State Board,Foundation,Hindi,2025-09-01,Offline
+STU1066,Dhriti Chana,Class 11,State Board,Foundation,Hindi,2024-10-13,Online
+STU1067,Lavanya Nagarajan,Class 12,State Board,NEET,Tamil,2026-06-05,Hybrid
+STU1068,Vihaan Sathe,Class 9,State Board,NEET,Tamil,2026-03-20,Online
+STU1069,Ijaya Gola,Class 12,ICSE,NEET,Tamil,2026-02-18,Offline
+STU1070,Mitali Khare,Class 9,State Board,JEE,Tamil,2024-09-06,Online
+STU1071,Logan Dugar,Class 10,CBSE,Foundation,Hindi,2025-10-03,Offline
+STU1072,Warda Mann,Class 10,CBSE,JEE,English,2026-03-20,Offline
+STU1073,Edhitha Kala,Class 9,State Board,JEE,Tamil,2025-05-18,Offline
+STU1074,Divya Taneja,Class 9,ICSE,Foundation,Tamil,2026-04-06,Offline
+STU1075,Nimrat Rai,Class 10,State Board,JEE,Hindi,2025-05-10,Offline
+STU1076,Qabil Pillai,Class 9,CBSE,JEE,English,2025-06-28,Hybrid
+STU1077,Eta Parikh,Class 10,CBSE,Foundation,Hindi,2025-04-13,Online
+STU1078,Yatan Sura,Class 10,CBSE,JEE,Tamil,2025-02-10,Online
+STU1079,Frederick Peri,Class 12,State Board,Foundation,Hindi,2026-02-06,Online
+STU1080,Matthew Saini,Class 11,CBSE,JEE,Tamil,2025-07-23,Hybrid
+STU1081,Mohammed Singhal,Class 12,ICSE,JEE,English,2026-05-22,Offline
+STU1082,Pranit Devi,Class 10,State Board,JEE,Hindi,2025-01-27,Hybrid
+STU1083,Urvi Chacko,Class 11,CBSE,Foundation,Hindi,2025-05-20,Offline
+STU1084,Mohini Dara,Class 12,State Board,Foundation,English,2024-07-31,Online
+STU1085,Indali Mannan,Class 12,ICSE,JEE,English,2025-11-03,Online
+STU1086,Jeet Chandran,Class 10,State Board,Foundation,Hindi,2025-05-09,Offline
+STU1087,Faraj Wali,Class 10,State Board,JEE,English,2026-02-14,Offline
+STU1088,Ansh Bhandari,Class 9,State Board,Foundation,English,2024-09-16,Online
+STU1089,Ikshita Anne,Class 12,State Board,JEE,Hindi,2024-10-26,Hybrid
+STU1090,Arin Ben,Class 9,State Board,Foundation,Tamil,2025-02-14,Hybrid
+STU1091,Balveer Sura,Class 12,ICSE,JEE,Hindi,2025-11-06,Hybrid
+STU1092,Guneet Sur,Class 12,CBSE,NEET,Tamil,2026-05-21,Offline
+STU1093,Saanvi Pau,Class 9,ICSE,JEE,Tamil,2025-11-09,Offline
+STU1094,Xiti Uppal,Class 10,CBSE,NEET,Hindi,2026-02-23,Hybrid
+STU1095,Yashica Chand,Class 12,ICSE,JEE,English,2026-05-23,Hybrid
+STU1096,Aryan Kant,Class 9,State Board,Foundation,English,2025-03-22,Hybrid
+STU1097,Nimrat Rastogi,Class 9,ICSE,Foundation,English,2025-01-14,Hybrid
+STU1098,Eta Chandra,Class 11,ICSE,NEET,English,2026-02-21,Online
+STU1099,Reyansh Nori,Class 12,State Board,Foundation,Tamil,2024-08-14,Offline
+STU1100,Charles Garde,Class 12,State Board,NEET,Hindi,2025-01-20,Offline
+STU1101,Yutika Krishnan,Class 12,CBSE,NEET,Hindi,2025-11-29,Hybrid
+STU1102,Yutika Tata,Class 12,CBSE,NEET,Hindi,2025-07-03,Hybrid
+STU1103,Qadim Badami,Class 12,ICSE,NEET,Hindi,2025-07-10,Offline
+STU1104,Ojas Sastry,Class 12,State Board,JEE,Hindi,2025-02-08,Online
+STU1105,Siddharth Dayal,Class 10,ICSE,Foundation,English,2024-12-30,Online
+STU1106,Daniel Kohli,Class 10,State Board,NEET,Tamil,2024-11-10,Hybrid
+STU1107,Anirudh Andra,Class 9,CBSE,NEET,Hindi,2025-12-29,Online
+STU1108,Ishita Chaudhry,Class 9,CBSE,NEET,Hindi,2024-12-04,Offline
+STU1109,Jeet More,Class 9,CBSE,NEET,English,2025-09-30,Offline
+STU1110,Henry Nagar,Class 9,State Board,JEE,Hindi,2024-07-30,Offline
+STU1111,Girish Lal,Class 12,State Board,Foundation,Hindi,2024-10-01,Offline
+STU1112,Rishi Mishra,Class 9,CBSE,Foundation,Tamil,2026-03-03,Offline
+STU1113,Unnati Kamdar,Class 9,CBSE,Foundation,Hindi,2025-10-21,Offline
+STU1114,Daksha Sinha,Class 10,CBSE,Foundation,Hindi,2026-06-05,Hybrid
+STU1115,Max Ramachandran,Class 10,State Board,JEE,Hindi,2026-01-27,Online
+STU1116,Maanav Chokshi,Class 11,CBSE,Foundation,English,2024-11-22,Online
+STU1117,Gayathri Nagy,Class 9,ICSE,NEET,Tamil,2025-08-05,Hybrid
+STU1118,Teerth Gala,Class 12,ICSE,Foundation,English,2025-03-07,Hybrid
+STU1119,Mekhala Sangha,Class 9,State Board,Foundation,English,2024-09-23,Online
+STU1120,Wahab Sahota,Class 11,State Board,Foundation,Hindi,2025-07-12,Offline
+STU1121,Yashawini Wali,Class 11,ICSE,JEE,Hindi,2024-08-02,Online
+STU1122,Ishaan Mannan,Class 12,ICSE,Foundation,English,2025-11-10,Offline
+STU1123,Fiyaz Sandal,Class 10,ICSE,Foundation,English,2026-07-15,Hybrid
+STU1124,Vidhi De,Class 9,State Board,NEET,Tamil,2024-11-08,Online
+STU1125,Fariq Natt,Class 11,State Board,Foundation,Tamil,2025-07-21,Hybrid
+STU1126,Januja Reddy,Class 12,ICSE,Foundation,Tamil,2025-07-12,Online
+STU1127,Suhani Bansal,Class 11,ICSE,Foundation,Tamil,2026-05-03,Hybrid
+STU1128,Tejas Arya,Class 9,ICSE,JEE,Tamil,2025-11-27,Online
+STU1129,Advik Wali,Class 12,State Board,JEE,Hindi,2026-06-08,Hybrid
+STU1130,Rajata Sachar,Class 10,ICSE,NEET,Tamil,2025-04-21,Hybrid
+STU1131,Fitan Sani,Class 9,State Board,NEET,English,2024-10-22,Offline
+STU1132,Mahika Patel,Class 9,ICSE,Foundation,Hindi,2025-01-20,Offline
+STU1133,Anvi Chadha,Class 9,State Board,JEE,Tamil,2026-07-09,Offline
+STU1134,Chavvi Tak,Class 11,CBSE,Foundation,Tamil,2025-12-14,Online
+STU1135,Veer Tandon,Class 10,ICSE,Foundation,English,2025-08-05,Online
+STU1136,Lipika Bhavsar,Class 10,ICSE,JEE,English,2025-10-03,Online
+STU1137,Yashawini Jha,Class 10,State Board,NEET,English,2026-07-04,Online
+STU1138,Jeevika Mallick,Class 9,CBSE,Foundation,Hindi,2024-10-02,Offline
+STU1139,Theodore Grewal,Class 9,State Board,JEE,Tamil,2026-03-08,Offline
+STU1140,Rajata Narayan,Class 11,ICSE,Foundation,Tamil,2025-03-30,Offline
+STU1141,Ojasvi Sani,Class 10,State Board,NEET,Tamil,2024-10-08,Online
+STU1142,Gunbir Tank,Class 10,CBSE,Foundation,Tamil,2025-06-18,Offline
+STU1143,Gaurav Venkataraman,Class 9,State Board,NEET,Tamil,2026-04-09,Hybrid
+STU1144,Oscar Kant,Class 10,ICSE,JEE,Hindi,2024-11-17,Hybrid
+STU1145,Vyanjana Devan,Class 12,ICSE,Foundation,English,2026-05-17,Online
+STU1146,Charan Kant,Class 10,ICSE,Foundation,English,2025-01-29,Offline
+STU1147,Onveer Oommen,Class 11,State Board,NEET,English,2025-06-14,Hybrid
+STU1148,Yahvi Borra,Class 11,CBSE,NEET,Tamil,2025-12-04,Hybrid
+STU1149,Azaan Jayaraman,Class 11,ICSE,JEE,Tamil,2025-12-19,Offline
+STU1150,Saumya Kala,Class 10,ICSE,Foundation,Tamil,2026-06-25,Offline
+STU1151,Ranveer Nori,Class 12,ICSE,NEET,English,2024-12-22,Hybrid
+STU1152,Gunbir Dara,Class 10,State Board,Foundation,English,2025-07-17,Online
+STU1153,Saumya Yadav,Class 11,CBSE,Foundation,Tamil,2024-08-05,Offline
+STU1154,Chasmum Apte,Class 10,CBSE,Foundation,English,2026-05-05,Offline
+STU1155,Jagvi Varkey,Class 9,CBSE,NEET,Tamil,2025-10-03,Online
+STU1156,Fiyaz Yohannan,Class 11,ICSE,NEET,Tamil,2025-11-01,Hybrid
+STU1157,Chaman Puri,Class 9,ICSE,JEE,Hindi,2025-08-27,Online
+STU1158,Christopher Chanda,Class 9,CBSE,NEET,Tamil,2026-06-22,Hybrid
+STU1159,Falan Baria,Class 9,ICSE,Foundation,Tamil,2025-04-04,Offline
+STU1160,Gagan Buch,Class 11,ICSE,Foundation,Hindi,2025-09-05,Offline
+STU1161,Udarsh Shroff,Class 11,CBSE,NEET,English,2026-01-18,Offline
+STU1162,Kevin Chandra,Class 10,State Board,Foundation,Hindi,2024-08-12,Hybrid
+STU1163,Rehaan Babu,Class 10,ICSE,NEET,Tamil,2025-06-03,Hybrid
+STU1164,Urvashi Dube,Class 12,State Board,NEET,English,2025-11-27,Offline
+STU1165,Akshay Babu,Class 11,ICSE,Foundation,English,2025-08-03,Online
+STU1166,Chaitaly Jhaveri,Class 11,ICSE,Foundation,Hindi,2025-12-19,Hybrid
+STU1167,Bhavya Mangat,Class 12,CBSE,JEE,English,2026-07-14,Offline
+STU1168,Oscar Aurora,Class 10,ICSE,NEET,Hindi,2026-06-03,Offline
+STU1169,Priya Andra,Class 11,State Board,Foundation,Tamil,2025-06-27,Offline
+STU1170,Jonathan Dhillon,Class 12,ICSE,Foundation,Hindi,2025-02-14,Hybrid
+STU1171,Harsh Sarkar,Class 12,ICSE,JEE,English,2024-12-03,Online
+STU1172,Upasna Sankar,Class 10,State Board,JEE,Hindi,2025-10-08,Offline
+STU1173,Robert Bumb,Class 9,CBSE,JEE,Tamil,2026-02-15,Online
+STU1174,Pallavi Bumb,Class 9,CBSE,NEET,Hindi,2025-08-14,Online
+STU1175,Aarna Bhatia,Class 9,ICSE,Foundation,English,2025-02-05,Online
+STU1176,Yagnesh Choudhary,Class 11,State Board,JEE,English,2024-10-03,Hybrid
+STU1177,Janani Chad,Class 12,ICSE,JEE,English,2025-05-10,Hybrid
+STU1178,Amara Dey,Class 11,ICSE,Foundation,English,2026-05-31,Online
+STU1179,Jatin More,Class 10,CBSE,JEE,Hindi,2025-09-17,Offline
+STU1180,Damyanti Murty,Class 11,ICSE,NEET,Hindi,2024-08-16,Offline
+STU1181,Damini Ganesh,Class 12,CBSE,Foundation,Hindi,2025-03-21,Online
+STU1182,Mahika Merchant,Class 12,State Board,Foundation,Hindi,2024-08-31,Hybrid
+STU1183,Faris Ratti,Class 12,State Board,Foundation,Hindi,2026-04-02,Hybrid
+STU1184,Baljiwan Sibal,Class 11,ICSE,NEET,Hindi,2026-06-28,Online
+STU1185,Laksh Apte,Class 9,ICSE,NEET,Tamil,2025-08-24,Offline
+STU1186,Turvi Sethi,Class 11,CBSE,NEET,English,2025-08-05,Online
+STU1187,Xiti Ahluwalia,Class 10,ICSE,NEET,Tamil,2024-08-03,Hybrid
+STU1188,Lavanya Sur,Class 9,State Board,NEET,Tamil,2026-04-06,Offline
+STU1189,Wakeeta Gopal,Class 9,ICSE,NEET,Hindi,2025-06-11,Online
+STU1190,Faris Dar,Class 9,State Board,NEET,English,2024-11-21,Offline
+STU1191,Omya Varghese,Class 12,ICSE,JEE,English,2024-12-05,Hybrid
+STU1192,Forum Mangat,Class 12,ICSE,JEE,Tamil,2024-09-09,Online
+STU1193,Luke Barad,Class 12,State Board,JEE,Hindi,2025-12-23,Hybrid
+STU1194,Jagrati Sampath,Class 11,ICSE,Foundation,Hindi,2025-04-03,Hybrid
+STU1195,Gaurika Shankar,Class 11,ICSE,JEE,English,2024-09-21,Online
+STU1196,Ayushman Baral,Class 10,ICSE,JEE,Hindi,2024-09-24,Offline
+STU1197,Pallavi Chaudhari,Class 12,ICSE,Foundation,Hindi,2025-05-04,Offline
+STU1198,Manthan Oak,Class 10,ICSE,JEE,English,2025-01-09,Online
+STU1199,Amara Narasimhan,Class 9,CBSE,JEE,Tamil,2026-03-11,Offline
+STU1200,Chaitanya Chowdhury,Class 10,State Board,NEET,Hindi,2025-06-15,Online
+STU1201,Oeshi Handa,Class 10,CBSE,JEE,English,2025-07-13,Offline
+STU1202,Oviya Wali,Class 10,ICSE,NEET,Tamil,2026-06-09,Offline
+STU1203,Darika Sethi,Class 11,ICSE,Foundation,English,2025-03-10,Offline
+STU1204,Tanveer Dyal,Class 9,CBSE,JEE,Tamil,2025-05-13,Offline
+STU1205,Pranav Karnik,Class 9,State Board,NEET,English,2025-09-30,Online
+STU1206,Jackson Chawla,Class 11,ICSE,JEE,English,2025-07-27,Hybrid
+STU1207,Shaurya Ahuja,Class 10,ICSE,NEET,English,2025-12-27,Hybrid
+STU1208,Lopa Rama,Class 9,CBSE,NEET,Hindi,2026-03-24,Online
+STU1209,Karan Bhakta,Class 10,ICSE,NEET,Hindi,2025-06-01,Offline
+STU1210,Chandani Sami,Class 11,CBSE,Foundation,Hindi,2025-02-15,Online
+STU1211,Kritika Sathe,Class 9,ICSE,NEET,Hindi,2024-10-24,Offline
+STU1212,Quincy Kothari,Class 10,ICSE,JEE,Hindi,2024-11-13,Online
+STU1213,Gaurangi Mane,Class 9,CBSE,Foundation,Tamil,2025-01-29,Offline
+STU1214,Faras Swaminathan,Class 9,CBSE,NEET,Hindi,2025-01-11,Online
+STU1215,Ekaja Dora,Class 12,CBSE,JEE,English,2025-06-23,Hybrid
+STU1216,Mitali Bahl,Class 12,State Board,Foundation,English,2026-06-12,Offline
+STU1217,Omya Andra,Class 9,CBSE,JEE,Tamil,2025-01-13,Online
+STU1218,Reva Soni,Class 11,State Board,JEE,English,2026-04-27,Offline
+STU1219,Champak Sarna,Class 10,State Board,Foundation,English,2025-11-28,Online
+STU1220,Ridhi Sant,Class 12,CBSE,NEET,Hindi,2026-06-13,Hybrid
+STU1221,Brinda Bains,Class 11,ICSE,Foundation,English,2026-06-25,Online
+STU1222,Umang De,Class 12,ICSE,Foundation,English,2024-08-31,Offline
+STU1223,Zehaan Handa,Class 9,ICSE,Foundation,Tamil,2025-04-18,Hybrid
+STU1224,Manya Sem,Class 11,State Board,Foundation,Tamil,2024-08-28,Online
+STU1225,Baghyawati Sarin,Class 10,State Board,NEET,Tamil,2024-12-17,Hybrid
+STU1226,Isaiah Kapur,Class 12,ICSE,Foundation,Hindi,2026-03-06,Online
+STU1227,Nirja Toor,Class 9,State Board,JEE,Tamil,2025-08-20,Offline
+STU1228,Mohini Devan,Class 11,State Board,NEET,Tamil,2025-12-12,Online
+STU1229,Daksha Memon,Class 12,State Board,JEE,English,2024-09-30,Hybrid
+STU1230,Meera Char,Class 11,State Board,JEE,Tamil,2025-09-29,Hybrid
+STU1231,Yagnesh Ratta,Class 9,State Board,Foundation,Tamil,2026-07-04,Online
+STU1232,Faris Kaul,Class 12,State Board,JEE,Hindi,2025-07-10,Offline
+STU1233,Nirja Sanghvi,Class 11,ICSE,Foundation,Tamil,2026-04-13,Online
+STU1234,Samesh Mand,Class 9,State Board,Foundation,English,2024-11-16,Online
+STU1235,Chakrika Lalla,Class 10,CBSE,JEE,English,2025-03-14,Online
+STU1236,Dhruv Ben,Class 12,CBSE,JEE,English,2026-05-08,Hybrid
+STU1237,Faras Shroff,Class 12,State Board,NEET,Hindi,2026-05-23,Hybrid
+STU1238,Balendra Ramachandran,Class 11,CBSE,NEET,English,2025-04-27,Hybrid
+STU1239,Ayushman Patla,Class 9,CBSE,JEE,Hindi,2025-01-02,Offline
+STU1240,Bakhshi Parmar,Class 9,ICSE,Foundation,English,2025-10-11,Offline
+STU1241,Imaran Oza,Class 12,ICSE,Foundation,English,2026-03-03,Hybrid
+STU1242,Farhan Keer,Class 11,State Board,JEE,Hindi,2026-03-16,Online
+STU1243,Patrick Shah,Class 11,CBSE,JEE,Hindi,2025-03-04,Online
+STU1244,Azaan Ganesh,Class 9,State Board,JEE,Hindi,2025-01-18,Offline
+STU1245,Warhi Patla,Class 10,CBSE,Foundation,Hindi,2025-06-22,Online
+STU1246,Watika Andra,Class 10,State Board,Foundation,Hindi,2025-06-02,Offline
+STU1247,Fariq Garg,Class 9,State Board,Foundation,Tamil,2024-10-02,Hybrid
+STU1248,Vivaan Trivedi,Class 12,State Board,Foundation,Tamil,2025-04-14,Online
+STU1249,Naveen Varma,Class 10,CBSE,Foundation,Tamil,2026-05-27,Hybrid
+STU1250,Yochana Pillay,Class 11,State Board,JEE,Hindi,2025-07-18,Hybrid
+STU1251,Nathaniel Chacko,Class 12,ICSE,NEET,Hindi,2026-07-10,Offline
+STU1252,Ekaja Baria,Class 11,ICSE,Foundation,Tamil,2025-06-13,Hybrid
+STU1253,Baghyawati Master,Class 11,State Board,JEE,Hindi,2025-07-15,Hybrid
+STU1254,Suhani Sabharwal,Class 10,ICSE,Foundation,Hindi,2026-07-08,Offline
+STU1255,Zayyan Mani,Class 11,ICSE,NEET,Tamil,2024-12-06,Online
+STU1256,Amruta Choudhry,Class 9,ICSE,Foundation,English,2025-11-03,Hybrid
+STU1257,Leela Khosla,Class 10,ICSE,JEE,Tamil,2024-11-21,Online
+STU1258,Nisha Rai,Class 10,ICSE,JEE,Hindi,2026-01-03,Offline
+STU1259,Ansh Tailor,Class 10,CBSE,JEE,Tamil,2025-09-09,Offline
+STU1260,Aadhya Dalal,Class 10,CBSE,NEET,Tamil,2026-04-23,Hybrid
+STU1261,Ikshita Vasa,Class 10,CBSE,NEET,Tamil,2024-08-09,Online
+STU1262,Vasana Kaur,Class 12,State Board,JEE,Hindi,2025-04-16,Online
+STU1263,Tristan Kamdar,Class 11,ICSE,JEE,Tamil,2025-04-25,Hybrid
+STU1264,Vrishti Kara,Class 9,State Board,Foundation,Tamil,2024-12-22,Online
+STU1265,Mason Parikh,Class 12,CBSE,JEE,Tamil,2025-12-29,Offline
+STU1266,Umang Kota,Class 12,ICSE,JEE,English,2026-02-11,Hybrid
+STU1267,Upasna Divan,Class 9,State Board,Foundation,Tamil,2025-02-06,Online
+STU1268,Siya Hayre,Class 11,State Board,JEE,Tamil,2026-05-18,Hybrid
+STU1269,Dominic Gole,Class 10,ICSE,Foundation,Hindi,2024-08-20,Online
+STU1270,Sathvik Jaggi,Class 10,CBSE,Foundation,Hindi,2026-06-06,Offline
+STU1271,Idika Om,Class 12,State Board,Foundation,Hindi,2025-02-10,Online
+STU1272,Frado Kannan,Class 10,ICSE,NEET,Tamil,2024-10-29,Online
+STU1273,Charvi Manda,Class 10,ICSE,JEE,Tamil,2025-07-16,Hybrid
+STU1274,Bhavini Narula,Class 9,State Board,NEET,Tamil,2025-03-06,Online
+STU1275,Janaki Chaudhuri,Class 12,State Board,NEET,Hindi,2025-12-16,Online
+STU1276,Jasmit Chana,Class 10,ICSE,Foundation,English,2025-06-03,Offline
+STU1277,Jagdish Garde,Class 12,State Board,Foundation,English,2026-05-18,Hybrid
+STU1278,Ijaya Dalal,Class 10,CBSE,JEE,Tamil,2025-05-28,Offline
+STU1279,Fariq Sangha,Class 11,State Board,Foundation,English,2026-05-29,Online
+STU1280,Victor Parmar,Class 12,ICSE,NEET,Tamil,2025-04-17,Online
+STU1281,Zayyan Gaba,Class 11,ICSE,Foundation,Hindi,2024-09-01,Online
+STU1282,Vanya Bhavsar,Class 11,CBSE,NEET,Hindi,2024-10-08,Offline
+STU1283,Pushti Sangha,Class 10,ICSE,JEE,English,2026-05-12,Online
+STU1284,Chasmum Srivastava,Class 11,CBSE,Foundation,English,2026-06-13,Online
+STU1285,Nilima Hegde,Class 9,CBSE,Foundation,English,2024-11-03,Offline
+STU1286,Arjun Natarajan,Class 9,ICSE,Foundation,English,2026-04-25,Offline
+STU1287,Udyati Salvi,Class 12,ICSE,JEE,Tamil,2025-12-05,Online
+STU1288,Harrison Madan,Class 10,CBSE,Foundation,Hindi,2026-02-23,Offline
+STU1289,Henry Vaidya,Class 12,State Board,Foundation,English,2024-10-16,Hybrid
+STU1290,Ishita Sem,Class 9,ICSE,Foundation,Hindi,2026-01-01,Hybrid
+STU1291,Gaurangi Dhingra,Class 9,ICSE,JEE,English,2025-05-21,Offline
+STU1292,Finn Chad,Class 10,State Board,Foundation,Tamil,2026-06-12,Online
+STU1293,Aachal Banerjee,Class 12,State Board,JEE,English,2025-09-02,Offline
+STU1294,Abdul Dugar,Class 11,State Board,Foundation,Tamil,2026-02-06,Online
+STU1295,Xiti Tailor,Class 9,ICSE,Foundation,Tamil,2025-04-29,Online
+STU1296,Fitan Hari,Class 12,State Board,Foundation,English,2024-10-04,Offline
+STU1297,Yachana Chauhan,Class 12,State Board,Foundation,English,2024-12-14,Online
+STU1298,Unni Bhatti,Class 10,State Board,NEET,Hindi,2026-04-12,Hybrid
+STU1299,Sanaya Barad,Class 9,CBSE,JEE,Hindi,2024-10-30,Offline
+STU1300,Sai Choudhary,Class 11,ICSE,NEET,Hindi,2024-08-07,Online
+STU1301,Yuvraj Lanka,Class 9,ICSE,Foundation,Tamil,2024-09-08,Offline
+STU1302,Isaiah Sarna,Class 11,CBSE,Foundation,Tamil,2024-08-10,Online
+STU1303,Falak Goda,Class 11,ICSE,JEE,Hindi,2025-09-02,Offline
+STU1304,Krishna Naidu,Class 10,CBSE,NEET,Tamil,2026-03-08,Hybrid
+STU1305,Wyatt Purohit,Class 10,CBSE,Foundation,Tamil,2025-12-28,Hybrid
+STU1306,Kashvi Nayar,Class 10,ICSE,JEE,Hindi,2025-07-29,Online
+STU1307,Yatin Bahri,Class 12,ICSE,Foundation,Tamil,2025-01-17,Offline
+STU1308,Bhanumati Brar,Class 10,CBSE,Foundation,English,2024-10-16,Hybrid
+STU1309,Alexander Upadhyay,Class 10,CBSE,NEET,Hindi,2025-05-28,Hybrid
+STU1310,Vincent Basu,Class 10,ICSE,JEE,Hindi,2025-01-22,Hybrid
+STU1311,Xalak Gara,Class 10,ICSE,JEE,Hindi,2025-07-04,Hybrid
+STU1312,Rishi Merchant,Class 9,CBSE,NEET,English,2025-10-18,Hybrid
+STU1313,Gautam Chada,Class 9,ICSE,NEET,Tamil,2025-02-04,Offline
+STU1314,Ishwar Kant,Class 12,State Board,Foundation,Hindi,2026-02-25,Offline
+STU1315,Gautam Basu,Class 10,CBSE,JEE,English,2025-12-08,Online
+STU1316,Laban Atwal,Class 9,State Board,Foundation,Tamil,2025-01-23,Hybrid
+STU1317,Aashi Dugar,Class 10,State Board,JEE,English,2025-06-14,Hybrid
+STU1318,Orinder Bhardwaj,Class 9,ICSE,JEE,Hindi,2026-02-11,Offline
+STU1319,Jagvi Goel,Class 10,State Board,Foundation,Tamil,2025-08-14,Hybrid
+STU1320,Pahal Behl,Class 11,CBSE,NEET,Tamil,2026-03-09,Offline
+STU1321,Jackson Patla,Class 10,CBSE,JEE,English,2024-12-15,Online
+STU1322,Vihaan Devi,Class 12,CBSE,NEET,Tamil,2024-12-18,Online
+STU1323,Aarnav Bath,Class 10,CBSE,JEE,English,2025-06-24,Offline
+STU1324,Nisha Loyal,Class 12,State Board,NEET,Tamil,2025-09-07,Online
+STU1325,Gaurangi Hari,Class 12,ICSE,JEE,Hindi,2025-09-21,Hybrid
+STU1326,Ganga Bhalla,Class 12,State Board,NEET,Tamil,2025-05-13,Hybrid
+STU1327,Ladli Chahal,Class 9,State Board,JEE,Tamil,2026-05-04,Offline
+STU1328,Kevin Sawhney,Class 9,CBSE,Foundation,Hindi,2026-05-06,Offline
+STU1329,Akshay Sridhar,Class 9,State Board,NEET,Hindi,2024-09-15,Hybrid
+STU1330,Christopher Baria,Class 9,CBSE,NEET,Tamil,2025-09-20,Offline
+STU1331,Jairaj Gupta,Class 11,ICSE,NEET,English,2025-11-02,Offline
+STU1332,Nirja Sehgal,Class 11,State Board,JEE,Hindi,2026-07-22,Hybrid
+STU1333,Nathan Walla,Class 10,ICSE,Foundation,Tamil,2025-04-15,Online
+STU1334,Aahana Nazareth,Class 9,CBSE,Foundation,Hindi,2026-07-17,Hybrid
+STU1335,Ethan Vala,Class 10,ICSE,NEET,Tamil,2026-05-28,Offline
+STU1336,Advik Ramaswamy,Class 9,CBSE,NEET,Hindi,2025-08-24,Hybrid
+STU1337,Rajeshri Baral,Class 10,ICSE,JEE,Tamil,2025-07-08,Offline
+STU1338,Vamakshi Nair,Class 10,State Board,Foundation,English,2025-08-31,Online
+STU1339,Udyati Ganesan,Class 9,State Board,NEET,Hindi,2025-04-16,Offline
+STU1340,Advaith Soman,Class 9,State Board,Foundation,Tamil,2025-01-27,Hybrid
+STU1341,Avi Lad,Class 10,ICSE,Foundation,Tamil,2025-09-05,Online
+STU1342,Sathvik Sengupta,Class 10,ICSE,Foundation,Hindi,2025-04-08,Online
+STU1343,Dhruv Wali,Class 10,CBSE,JEE,Hindi,2024-07-27,Online
+STU1344,Niharika Kapoor,Class 12,ICSE,NEET,Hindi,2025-11-28,Offline
+STU1345,Reva Behl,Class 11,State Board,JEE,English,2025-11-18,Online
+STU1346,Jagat Suresh,Class 10,CBSE,Foundation,Tamil,2024-08-21,Online
+STU1347,Bhavini Bahri,Class 12,ICSE,NEET,Hindi,2025-07-26,Online
+STU1348,Anusha Ramesh,Class 12,CBSE,JEE,Hindi,2025-04-20,Hybrid
+STU1349,Jagat Chowdhury,Class 12,ICSE,NEET,Tamil,2024-11-20,Online
+STU1350,Kashvi Sachdev,Class 9,CBSE,Foundation,Tamil,2025-08-25,Hybrid
+STU1351,Dalaja Saran,Class 10,CBSE,JEE,English,2025-02-08,Online
+STU1352,Samesh Rao,Class 11,CBSE,JEE,English,2025-08-26,Hybrid
+STU1353,Neel Pillai,Class 11,ICSE,JEE,English,2026-04-02,Online
+STU1354,Nathaniel Ramakrishnan,Class 12,CBSE,JEE,Hindi,2025-12-23,Offline
+STU1355,Harini Kant,Class 10,ICSE,Foundation,Hindi,2025-06-14,Offline
+STU1356,Siddharth Ram,Class 9,CBSE,NEET,Tamil,2025-03-19,Offline
+STU1357,Radhika Kale,Class 12,CBSE,NEET,Hindi,2026-03-30,Online
+STU1358,Yash Ghosh,Class 11,ICSE,JEE,English,2025-01-13,Hybrid
+STU1359,Dev Tandon,Class 11,ICSE,Foundation,Tamil,2024-12-26,Hybrid
+STU1360,Sathvik Manda,Class 10,State Board,JEE,Hindi,2024-09-11,Online
+STU1361,Yamini Gokhale,Class 9,State Board,Foundation,Hindi,2025-03-28,Hybrid
+STU1362,Saksham Dash,Class 9,ICSE,Foundation,Hindi,2026-04-28,Hybrid
+STU1363,Jeet Arora,Class 11,ICSE,Foundation,Tamil,2025-03-09,Offline
+STU1364,Ojas Bhandari,Class 11,CBSE,Foundation,Hindi,2025-09-06,Offline
+STU1365,Gopal Gopal,Class 12,ICSE,JEE,Hindi,2026-02-10,Online
+STU1366,Yasti Walia,Class 11,CBSE,JEE,English,2026-03-21,Online
+STU1367,Riya Mohanty,Class 12,State Board,JEE,Hindi,2025-05-01,Online
+STU1368,Adweta Handa,Class 12,ICSE,JEE,Tamil,2026-03-19,Offline
+STU1369,Charan Kaur,Class 10,CBSE,Foundation,English,2024-12-08,Hybrid
+STU1370,Yachana Wadhwa,Class 11,ICSE,JEE,Tamil,2026-01-11,Offline
+STU1371,Manthan Iyer,Class 11,CBSE,JEE,Hindi,2025-03-13,Offline
+STU1372,Pallavi Palla,Class 11,ICSE,Foundation,Hindi,2025-11-27,Hybrid
+STU1373,Yamini Dalal,Class 9,CBSE,JEE,Tamil,2026-02-08,Offline
+STU1374,Balveer Dhar,Class 12,ICSE,JEE,Hindi,2024-12-13,Online
+STU1375,Bhavani Venkataraman,Class 12,CBSE,Foundation,Tamil,2026-06-15,Hybrid
+STU1376,Ranbir Sharma,Class 11,ICSE,NEET,Hindi,2026-01-12,Online
+STU1377,Chaitanya Gala,Class 11,State Board,Foundation,Hindi,2025-01-13,Offline
+STU1378,Charita Lala,Class 9,CBSE,Foundation,Hindi,2024-12-17,Offline
+STU1379,Vansha Reddy,Class 11,CBSE,JEE,Tamil,2025-06-10,Online
+STU1380,Omkaar Roy,Class 11,ICSE,Foundation,Hindi,2025-06-13,Online
+STU1381,Hiral Sanghvi,Class 12,CBSE,Foundation,English,2026-06-03,Offline
+STU1382,Adweta Merchant,Class 11,State Board,JEE,Tamil,2024-11-15,Offline
+STU1383,Ishwar Dube,Class 9,ICSE,JEE,Tamil,2026-06-08,Offline
+STU1384,Amaira Deshpande,Class 11,CBSE,Foundation,Tamil,2026-01-30,Online
+STU1385,Zaitra Nagarajan,Class 9,ICSE,JEE,English,2026-03-30,Online
+STU1386,Vedant Samra,Class 12,State Board,JEE,Tamil,2025-02-18,Hybrid
+STU1387,Advaith Goda,Class 10,CBSE,NEET,Tamil,2025-07-15,Hybrid
+STU1388,Kiaan Nazareth,Class 11,ICSE,JEE,English,2025-08-22,Hybrid
+STU1389,Laban Reddy,Class 10,CBSE,Foundation,English,2024-12-10,Offline
+STU1390,Faraj Sen,Class 12,State Board,Foundation,English,2026-06-17,Online
+STU1391,Wyatt Banerjee,Class 11,CBSE,Foundation,Hindi,2025-09-20,Online
+STU1392,Ikbal Patla,Class 11,ICSE,JEE,English,2025-06-24,Hybrid
+STU1393,Yashvi Sarraf,Class 11,CBSE,Foundation,Tamil,2026-03-22,Hybrid
+STU1394,Girish Nadig,Class 10,ICSE,JEE,English,2026-04-03,Offline
+STU1395,Vasana Gandhi,Class 11,State Board,NEET,Tamil,2024-10-28,Hybrid
+STU1396,Rohan Borra,Class 9,ICSE,JEE,English,2026-02-20,Offline
+STU1397,Jhalak Jani,Class 9,CBSE,Foundation,Hindi,2025-12-08,Hybrid
+STU1398,Brijesh Radhakrishnan,Class 9,CBSE,Foundation,Tamil,2026-03-30,Hybrid
+STU1399,Oeshi Dewan,Class 11,ICSE,JEE,Hindi,2025-03-26,Offline
+STU1400,Nimrat Sekhon,Class 10,CBSE,JEE,Tamil,2024-11-09,Hybrid
+STU1401,Upadhriti Sarna,Class 11,State Board,NEET,English,2025-10-24,Online
+STU1402,Vrishti Tripathi,Class 9,ICSE,Foundation,English,2025-01-09,Online
+STU1403,Isha Bumb,Class 12,CBSE,JEE,Tamil,2024-08-26,Offline
+STU1404,Ekta Arya,Class 10,State Board,Foundation,Hindi,2025-05-12,Hybrid
+STU1405,Zaid Vora,Class 12,State Board,NEET,Tamil,2024-11-30,Offline
+STU1406,Krishna Buch,Class 10,State Board,Foundation,Hindi,2024-09-14,Online
+STU1407,Kashvi Krishna,Class 12,State Board,JEE,English,2026-02-23,Hybrid
+STU1408,Maanas Keer,Class 12,CBSE,NEET,Tamil,2024-08-06,Hybrid
+STU1409,Avi Agate,Class 12,ICSE,JEE,English,2024-11-28,Online
+STU1410,Dipta Bains,Class 11,ICSE,NEET,English,2025-09-01,Hybrid
+STU1411,Frado Varkey,Class 11,ICSE,NEET,Tamil,2024-09-14,Online
+STU1412,Pooja Venkatesh,Class 9,ICSE,JEE,Tamil,2025-10-17,Offline
+STU1413,Udyati Loyal,Class 12,CBSE,NEET,Tamil,2026-01-31,Hybrid
+STU1414,Udarsh Kalita,Class 10,State Board,JEE,Tamil,2025-07-07,Hybrid
+STU1415,Tanish Kapoor,Class 9,ICSE,Foundation,Hindi,2025-12-22,Online
+STU1416,Jhalak Om,Class 11,State Board,NEET,Tamil,2025-06-28,Hybrid
+STU1417,Harshil Deo,Class 12,CBSE,Foundation,English,2025-02-01,Hybrid
+STU1418,Radha Raja,Class 10,ICSE,NEET,English,2025-08-04,Offline
+STU1419,Pahal Kata,Class 10,State Board,Foundation,Tamil,2026-06-23,Offline
+STU1420,Harita Narayanan,Class 11,State Board,Foundation,English,2025-01-31,Online
+STU1421,Dalaja Nayar,Class 9,State Board,Foundation,Hindi,2024-10-08,Offline
+STU1422,Indali Bajaj,Class 9,State Board,Foundation,Tamil,2026-07-07,Offline
+STU1423,Ryan Shan,Class 9,ICSE,JEE,Tamil,2026-05-20,Offline
+STU1424,Devika Patla,Class 9,State Board,JEE,Hindi,2025-09-26,Hybrid
+STU1425,Hredhaan Mangat,Class 12,ICSE,NEET,Hindi,2025-11-16,Hybrid
+STU1426,Vasana Pant,Class 9,CBSE,JEE,English,2024-10-16,Hybrid
+STU1427,Tanmayi Manne,Class 9,CBSE,Foundation,English,2025-09-15,Offline
+STU1428,Lucky Tripathi,Class 11,ICSE,Foundation,Hindi,2025-05-21,Offline
+STU1429,Forum Venkataraman,Class 10,CBSE,Foundation,Tamil,2025-08-13,Offline
+STU1430,Vinaya Sani,Class 11,ICSE,Foundation,Tamil,2026-06-12,Online
+STU1431,Tarak Shan,Class 9,State Board,Foundation,Tamil,2025-04-22,Online
+STU1432,Oni Uppal,Class 11,CBSE,NEET,Hindi,2026-07-12,Online
+STU1433,Warda Kaur,Class 9,State Board,Foundation,Tamil,2026-05-22,Online
+STU1434,Aadhya Dara,Class 11,CBSE,JEE,Tamil,2025-12-23,Hybrid
+STU1435,Praneel Lad,Class 12,State Board,NEET,Hindi,2026-03-11,Offline
+STU1436,Chaitanya Thaker,Class 12,ICSE,NEET,Hindi,2026-07-05,Online
+STU1437,Kritika Gulati,Class 10,ICSE,JEE,English,2024-12-11,Hybrid
+STU1438,Rachana Rastogi,Class 12,ICSE,NEET,English,2026-01-18,Offline
+STU1439,Aadhya Bal,Class 10,CBSE,JEE,English,2024-07-29,Hybrid
+STU1440,Kamya Karpe,Class 9,CBSE,Foundation,Tamil,2026-04-08,Hybrid
+STU1441,Ikbal Mitra,Class 12,CBSE,JEE,English,2025-12-27,Hybrid
+STU1442,Bhanumati Sule,Class 12,ICSE,Foundation,Hindi,2024-07-31,Offline
+STU1443,Anirudh Bail,Class 10,ICSE,Foundation,Tamil,2025-01-29,Hybrid
+STU1444,Ubika Magar,Class 12,ICSE,NEET,English,2025-05-13,Online
+STU1445,Inaya Kumar,Class 12,State Board,JEE,Hindi,2025-07-21,Offline
+STU1446,Faris Patla,Class 10,State Board,Foundation,Tamil,2025-01-19,Offline
+STU1447,Harini Raj,Class 11,CBSE,JEE,Hindi,2026-01-04,Offline
+STU1448,Shivani Sood,Class 11,CBSE,Foundation,Tamil,2025-02-11,Hybrid
+STU1449,Raksha Samra,Class 9,CBSE,Foundation,Hindi,2025-10-30,Hybrid
+STU1450,Rayaan Palan,Class 11,ICSE,Foundation,English,2026-06-28,Hybrid
+STU1451,Gaurika Goda,Class 9,CBSE,NEET,Hindi,2025-01-26,Hybrid
+STU1452,Eiravati Tailor,Class 9,State Board,Foundation,Hindi,2024-12-08,Hybrid
+STU1453,Jackson Kalla,Class 11,State Board,JEE,Tamil,2025-02-07,Hybrid
+STU1454,Varenya Minhas,Class 9,ICSE,NEET,Hindi,2025-08-01,Offline
+STU1455,Jeevika Dugal,Class 11,ICSE,NEET,Tamil,2025-10-10,Offline
+STU1456,Idika Ramesh,Class 10,CBSE,Foundation,Hindi,2025-10-01,Hybrid
+STU1457,Imaran Chandran,Class 11,State Board,Foundation,Tamil,2026-01-26,Online
+STU1458,Tanay Chacko,Class 12,State Board,JEE,Hindi,2026-01-06,Online
+STU1459,Aachal D’Alia,Class 11,State Board,Foundation,English,2026-03-01,Offline
+STU1460,Jason Lall,Class 12,CBSE,JEE,Hindi,2025-02-15,Online
+STU1461,Dalbir Tank,Class 11,ICSE,JEE,Hindi,2024-12-10,Offline
+STU1462,Gabriel Choudhry,Class 11,ICSE,JEE,Hindi,2025-12-28,Online
+STU1463,Aarnav Dalal,Class 10,State Board,Foundation,English,2025-11-25,Hybrid
+STU1464,Adya Seth,Class 12,ICSE,JEE,Tamil,2025-05-03,Hybrid
+STU1465,Gautami Kakar,Class 10,ICSE,JEE,Hindi,2025-03-27,Online
+STU1466,Lakshit Dey,Class 11,CBSE,JEE,Hindi,2026-07-04,Online
+STU1467,Jacob Amble,Class 12,ICSE,NEET,English,2024-10-14,Hybrid
+STU1468,Nathaniel Thaker,Class 12,State Board,Foundation,English,2025-06-18,Online
+STU1469,Anika Mistry,Class 11,CBSE,Foundation,Tamil,2026-07-06,Online
+STU1470,Balhaar Balay,Class 9,CBSE,NEET,Tamil,2024-12-18,Offline
+STU1471,Jai Gola,Class 11,ICSE,Foundation,Hindi,2025-03-06,Online
+STU1472,Bachittar Lal,Class 12,State Board,Foundation,Tamil,2026-05-15,Offline
+STU1473,Saumya Rajagopalan,Class 11,CBSE,Foundation,Tamil,2024-10-23,Online
+STU1474,Lucky Sabharwal,Class 11,ICSE,NEET,Hindi,2025-07-06,Offline
+STU1475,Vasudha Desai,Class 9,CBSE,Foundation,Hindi,2024-11-01,Offline
+STU1476,Rajeshri Arora,Class 12,State Board,Foundation,Tamil,2025-01-13,Offline
+STU1477,Harsh Gade,Class 11,ICSE,JEE,Tamil,2025-08-24,Hybrid
+STU1478,Kala Banerjee,Class 12,ICSE,Foundation,Hindi,2025-06-01,Online
+STU1479,Amara Raj,Class 10,State Board,NEET,Hindi,2025-08-21,Hybrid
+STU1480,Aishani Sane,Class 10,ICSE,Foundation,English,2026-03-22,Hybrid
+STU1481,Rachita Lad,Class 9,CBSE,JEE,Tamil,2026-01-25,Online
+STU1482,Upasna Kalita,Class 9,State Board,NEET,Tamil,2025-11-26,Online
+STU1483,Kashish Som,Class 11,ICSE,JEE,English,2025-03-16,Online
+STU1484,Ishanvi Wadhwa,Class 9,CBSE,Foundation,Hindi,2026-03-14,Online
+STU1485,Urishilla Krishnan,Class 9,State Board,JEE,English,2024-07-29,Hybrid
+STU1486,Brijesh Dass,Class 10,ICSE,Foundation,Hindi,2025-07-15,Hybrid
+STU1487,Faqid Soni,Class 10,CBSE,Foundation,English,2026-07-12,Offline
+STU1488,Hitesh Murty,Class 11,ICSE,Foundation,English,2025-07-13,Hybrid
+STU1489,Saumya Goel,Class 12,ICSE,NEET,Hindi,2025-12-13,Hybrid
+STU1490,Priya Tella,Class 11,ICSE,JEE,English,2026-01-11,Offline
+STU1491,Yashasvi Shetty,Class 9,ICSE,NEET,Tamil,2025-12-31,Online
+STU1492,Ganga Kala,Class 11,ICSE,JEE,Tamil,2025-04-10,Online
+STU1493,Deepa Mukherjee,Class 12,CBSE,Foundation,Tamil,2025-04-14,Online
+STU1494,Udarsh Saini,Class 12,CBSE,JEE,Hindi,2024-09-10,Offline
+STU1495,Mahika Chatterjee,Class 10,State Board,Foundation,English,2025-11-18,Offline
+STU1496,Charles Mahal,Class 11,CBSE,JEE,English,2024-09-09,Online
+STU1497,Vasudha Jha,Class 11,ICSE,JEE,Tamil,2024-08-28,Online
+STU1498,Onkar Cheema,Class 9,CBSE,Foundation,Tamil,2024-08-14,Offline
+STU1499,Yashasvi Kapur,Class 10,State Board,NEET,Tamil,2025-06-27,Hybrid
+STU1500,Niharika Kalla,Class 9,State Board,Foundation,Tamil,2025-12-06,Offline
+STU1501,Oeshi Nayar,Class 12,ICSE,Foundation,English,2025-05-25,Hybrid
+STU1502,Devika Goel,Class 10,CBSE,NEET,Hindi,2026-05-29,Offline
+STU1503,Rachana Kaul,Class 9,State Board,Foundation,Tamil,2025-11-04,Offline
+STU1504,Zehaan Iyer,Class 11,ICSE,JEE,Hindi,2025-01-05,Hybrid
+STU1505,Nimrat Dixit,Class 9,ICSE,Foundation,Tamil,2026-06-27,Online
+STU1506,Kavya Purohit,Class 12,ICSE,Foundation,English,2026-01-27,Online
+STU1507,Yasti Pandit,Class 9,ICSE,Foundation,English,2024-11-07,Offline
+STU1508,Darika Viswanathan,Class 12,CBSE,Foundation,Hindi,2024-08-25,Offline
+STU1509,Isaiah Tara,Class 12,CBSE,Foundation,Tamil,2024-09-10,Hybrid
+STU1510,Krishna Kapur,Class 10,CBSE,JEE,English,2024-08-12,Online
+STU1511,Abdul Datta,Class 10,ICSE,NEET,English,2025-08-17,Hybrid
+STU1512,Yochana Mannan,Class 11,ICSE,Foundation,Tamil,2025-01-07,Online
+STU1513,Tamanna Saxena,Class 9,ICSE,JEE,Tamil,2024-11-10,Hybrid
+STU1514,Rajeshri Gour,Class 9,ICSE,JEE,English,2025-04-22,Hybrid
+STU1515,Ganga Ravel,Class 12,State Board,Foundation,English,2024-07-23,Hybrid
+STU1516,Tanish Chand,Class 10,CBSE,JEE,Hindi,2026-03-12,Online
+STU1517,Kiaan Khanna,Class 12,State Board,JEE,Tamil,2025-04-01,Hybrid
+STU1518,Bhavna Raj,Class 9,CBSE,Foundation,Hindi,2025-06-12,Online
+STU1519,Falan Mittal,Class 9,CBSE,Foundation,English,2026-03-04,Offline
+STU1520,Mahika Mane,Class 9,ICSE,Foundation,English,2025-08-23,Hybrid
+STU1521,Ansh Jaggi,Class 9,CBSE,JEE,Tamil,2025-12-23,Hybrid
+STU1522,Unni Cheema,Class 10,CBSE,JEE,Tamil,2026-04-14,Offline
+STU1523,Ekavir Apte,Class 12,ICSE,JEE,Hindi,2025-05-27,Hybrid
+STU1524,Lakshit Tank,Class 10,ICSE,JEE,English,2024-09-02,Hybrid
+STU1525,Vasatika Guha,Class 10,ICSE,JEE,English,2025-09-26,Offline
+STU1526,Urvi Lalla,Class 10,ICSE,JEE,Hindi,2024-10-06,Offline
+STU1527,Sanaya Kaur,Class 10,ICSE,JEE,Hindi,2025-06-27,Online
+STU1528,Balendra Rattan,Class 10,CBSE,Foundation,Hindi,2025-09-18,Offline
+STU1529,Charvi Kala,Class 10,CBSE,NEET,English,2025-12-02,Online
+STU1530,Harrison Kothari,Class 9,CBSE,JEE,Hindi,2025-10-05,Hybrid
+STU1531,Vihaan Lata,Class 11,ICSE,Foundation,Tamil,2025-12-22,Hybrid
+STU1532,Chaman Karnik,Class 10,CBSE,JEE,Hindi,2025-09-10,Offline
+STU1533,Manthan Solanki,Class 12,ICSE,JEE,English,2024-11-13,Hybrid
+STU1534,Vivaan Kapadia,Class 9,State Board,JEE,Hindi,2025-02-13,Offline
+STU1535,Wriddhish Mannan,Class 9,State Board,NEET,Tamil,2026-01-06,Offline
+STU1536,Sachi Sarraf,Class 9,State Board,JEE,English,2024-08-23,Online
+STU1537,Akshay Dhar,Class 9,State Board,NEET,Hindi,2024-11-27,Hybrid
+STU1538,Samar Rama,Class 10,ICSE,Foundation,Hindi,2024-11-29,Online
+STU1539,Ansh Solanki,Class 11,CBSE,JEE,English,2025-12-05,Online
+STU1540,Lekha Majumdar,Class 12,ICSE,JEE,English,2024-08-04,Hybrid
+STU1541,Garima Sheth,Class 9,CBSE,Foundation,Tamil,2026-01-27,Offline
+STU1542,Karan Vyas,Class 10,ICSE,NEET,Tamil,2025-12-26,Hybrid
+STU1543,Bishakha Arora,Class 12,CBSE,JEE,Hindi,2026-03-03,Online
+STU1544,Kabir Samra,Class 10,CBSE,JEE,Tamil,2026-06-06,Hybrid
+STU1545,Jagdish Borde,Class 9,CBSE,JEE,Hindi,2025-11-26,Offline
+STU1546,Anamika Pathak,Class 11,ICSE,JEE,Hindi,2024-10-11,Hybrid
+STU1547,Vyanjana Pingle,Class 11,CBSE,JEE,Tamil,2026-03-06,Online
+STU1548,Samuel Mander,Class 9,CBSE,Foundation,Tamil,2025-01-06,Online
+STU1549,Saumya Memon,Class 12,CBSE,JEE,Tamil,2026-02-18,Hybrid
+STU1550,Eiravati Kadakia,Class 12,CBSE,NEET,English,2024-07-27,Online
+STU1551,Vasudha Garg,Class 12,CBSE,NEET,Tamil,2025-12-09,Online
+STU1552,Jeet Vohra,Class 12,State Board,JEE,Hindi,2024-08-05,Offline
+STU1553,Jackson Sridhar,Class 11,CBSE,NEET,English,2024-11-12,Online
+STU1554,Yasti Talwar,Class 9,ICSE,JEE,English,2026-03-22,Offline
+STU1555,Onveer Yogi,Class 12,ICSE,JEE,Tamil,2026-04-16,Online
+STU1556,Janya Pradhan,Class 11,State Board,JEE,Hindi,2025-06-05,Hybrid
+STU1557,Tanish Nori,Class 10,State Board,Foundation,English,2024-09-11,Online
+STU1558,Zaid Vig,Class 12,State Board,NEET,English,2024-08-08,Hybrid
+STU1559,Balendra Nagar,Class 12,ICSE,NEET,English,2024-07-27,Hybrid
+STU1560,Simon Kadakia,Class 12,State Board,JEE,English,2024-12-06,Offline
+STU1561,Veda Boase,Class 12,State Board,JEE,Hindi,2024-12-30,Online
+STU1562,Garima Bhargava,Class 9,ICSE,JEE,English,2024-09-15,Offline
+STU1563,Ekavir Guha,Class 9,ICSE,Foundation,Tamil,2024-09-29,Offline
+STU1564,Gagan Sankaran,Class 9,ICSE,NEET,English,2024-11-17,Online
+STU1565,Eshana Som,Class 9,State Board,Foundation,Tamil,2025-01-16,Online
+STU1566,Caleb Chaudhary,Class 10,ICSE,NEET,English,2025-05-09,Hybrid
+STU1567,Chaitanya Korpal,Class 9,CBSE,NEET,Hindi,2026-01-15,Offline
+STU1568,Janya Aggarwal,Class 10,State Board,NEET,Hindi,2024-08-17,Hybrid
+STU1569,Tanish Naik,Class 9,ICSE,NEET,English,2026-06-21,Hybrid
+STU1570,Gavin Mitra,Class 12,CBSE,NEET,Hindi,2025-04-17,Offline
+STU1571,Rishi Walla,Class 9,State Board,JEE,Tamil,2025-10-20,Hybrid
+STU1572,Vedika Badal,Class 11,State Board,JEE,Tamil,2024-10-17,Offline
+STU1573,Agastya Bakshi,Class 11,State Board,Foundation,Hindi,2025-05-04,Hybrid
+STU1574,Veer Din,Class 10,State Board,JEE,Hindi,2025-04-08,Offline
+STU1575,Oeshi Varty,Class 9,State Board,Foundation,Tamil,2025-09-12,Online
+STU1576,Andrew Johal,Class 9,ICSE,NEET,Tamil,2024-11-24,Hybrid
+STU1577,Manthan Salvi,Class 9,ICSE,NEET,English,2025-11-14,Hybrid
+STU1578,Champak Sarma,Class 9,State Board,Foundation,English,2025-08-23,Online
+STU1579,Unni Dasgupta,Class 11,CBSE,Foundation,English,2025-09-25,Hybrid
+STU1580,Vansha Chacko,Class 12,State Board,Foundation,Hindi,2025-06-20,Online
+STU1581,Zansi Gara,Class 10,ICSE,NEET,Tamil,2026-02-04,Hybrid
+STU1582,Pahal Dua,Class 12,ICSE,JEE,English,2025-01-07,Offline
+STU1583,Chakradhar Rege,Class 11,ICSE,NEET,Hindi,2024-08-16,Hybrid
+STU1584,Bhavani Pau,Class 9,ICSE,Foundation,Hindi,2025-08-12,Hybrid
+STU1585,Ekansh Salvi,Class 11,ICSE,Foundation,Tamil,2026-01-07,Hybrid
+STU1586,Yamini Baria,Class 9,CBSE,NEET,English,2026-02-14,Online
+STU1587,Oeshi Garg,Class 12,CBSE,NEET,English,2026-02-13,Online
+STU1588,Vivaan Narang,Class 10,ICSE,JEE,Hindi,2024-11-11,Online
+STU1589,Krishna Ghose,Class 12,CBSE,JEE,Hindi,2026-02-16,Hybrid
+STU1590,Daksh Nigam,Class 9,ICSE,NEET,Hindi,2026-01-21,Hybrid
+STU1591,Rajeshri Sane,Class 10,ICSE,NEET,Tamil,2024-11-29,Offline
+STU1592,Harini Rout,Class 9,ICSE,JEE,English,2024-10-07,Online
+STU1593,Ria Sampath,Class 10,State Board,Foundation,Tamil,2025-03-28,Offline
+STU1594,Raghav Nath,Class 11,State Board,Foundation,Tamil,2025-02-06,Offline
+STU1595,Qadim Halder,Class 12,ICSE,NEET,Hindi,2026-01-11,Online
+STU1596,Ishita Parmer,Class 11,CBSE,NEET,English,2025-02-27,Offline
+STU1597,Triya Jhaveri,Class 11,ICSE,JEE,English,2025-05-02,Offline
+STU1598,Daksha Lal,Class 11,ICSE,JEE,Hindi,2026-06-04,Online
+STU1599,Yashodhara Seshadri,Class 11,CBSE,JEE,Hindi,2026-03-12,Hybrid
+STU1600,Sara Tata,Class 10,CBSE,JEE,English,2024-11-11,Online
+STU1601,Edhitha Gill,Class 11,State Board,JEE,Tamil,2025-06-30,Offline
+STU1602,Eshana Desai,Class 11,CBSE,JEE,Hindi,2026-06-25,Hybrid
+STU1603,Lohit Tata,Class 9,State Board,NEET,Tamil,2025-11-23,Online
+STU1604,Ishani Roy,Class 11,ICSE,Foundation,English,2025-07-31,Hybrid
+STU1605,Samuel Balay,Class 11,CBSE,JEE,Tamil,2025-05-26,Offline
+STU1606,Aarini Bhalla,Class 10,ICSE,NEET,English,2024-11-23,Online
+STU1607,Yuvraj Chada,Class 11,State Board,Foundation,Tamil,2025-09-19,Offline
+STU1608,Charvi Rattan,Class 11,State Board,Foundation,English,2025-12-24,Hybrid
+STU1609,Nakul Bhardwaj,Class 12,ICSE,Foundation,English,2026-07-13,Hybrid
+STU1610,Neha Kadakia,Class 12,CBSE,JEE,Hindi,2026-02-04,Hybrid
+STU1611,Yadavi Rai,Class 9,ICSE,JEE,Tamil,2025-02-01,Hybrid
+STU1612,Ekaraj Batra,Class 10,ICSE,NEET,English,2025-02-25,Offline
+STU1613,Yug Choudhry,Class 9,State Board,Foundation,English,2026-02-27,Hybrid
+STU1614,Anirudh Sidhu,Class 10,ICSE,JEE,English,2026-07-09,Online
+STU1615,Damyanti Vala,Class 12,State Board,Foundation,English,2025-07-26,Hybrid
+STU1616,Avi Lanka,Class 12,CBSE,NEET,Tamil,2024-12-16,Hybrid
+STU1617,Ishanvi Sahota,Class 9,State Board,NEET,Tamil,2025-09-07,Online
+STU1618,Lajita Sami,Class 12,ICSE,NEET,Tamil,2025-04-24,Online
+STU1619,Pranit Hari,Class 11,ICSE,NEET,Tamil,2024-10-20,Offline
+STU1620,Geetika Bhavsar,Class 9,CBSE,Foundation,Tamil,2024-10-23,Hybrid
+STU1621,Xavier Loke,Class 12,ICSE,NEET,English,2024-11-21,Hybrid
+STU1622,Kamya Biswas,Class 12,State Board,NEET,English,2024-11-19,Hybrid
+STU1623,Joshua Hayre,Class 9,CBSE,JEE,Tamil,2026-01-02,Offline
+STU1624,Arya Rai,Class 11,CBSE,Foundation,Tamil,2024-08-07,Online
+STU1625,Ranveer Pillay,Class 9,ICSE,Foundation,Tamil,2025-05-26,Offline
+STU1626,Sanya Lad,Class 10,State Board,NEET,Hindi,2026-03-19,Hybrid
+STU1627,Abeer Bhalla,Class 10,CBSE,JEE,Tamil,2025-09-02,Offline
+STU1628,Chatura Koshy,Class 12,CBSE,NEET,Hindi,2025-07-19,Offline
+STU1629,Aditya Patil,Class 12,State Board,Foundation,Tamil,2024-10-10,Online
+STU1630,Deepa Dasgupta,Class 9,CBSE,JEE,Tamil,2026-04-02,Offline
+STU1631,Benjamin Oza,Class 12,CBSE,Foundation,Hindi,2025-06-27,Offline
+STU1632,Eesha Korpal,Class 12,CBSE,NEET,Hindi,2025-07-31,Hybrid
+STU1633,Chakrika Manda,Class 10,CBSE,JEE,Tamil,2024-12-25,Offline
+STU1634,Harrison Menon,Class 9,State Board,Foundation,Tamil,2024-09-14,Hybrid
+STU1635,Sarthak Luthra,Class 12,State Board,NEET,Tamil,2026-01-18,Hybrid
+STU1636,Hema Narula,Class 12,State Board,JEE,Tamil,2025-07-01,Hybrid
+STU1637,Odika Mahajan,Class 9,ICSE,JEE,Hindi,2025-04-04,Online
+STU1638,Deepa Sagar,Class 10,ICSE,NEET,Hindi,2025-10-19,Online
+STU1639,Amol Goda,Class 11,CBSE,JEE,Tamil,2024-12-01,Offline
+STU1640,Zayan Mishra,Class 12,State Board,NEET,English,2026-02-06,Offline
+STU1641,Reyansh Khatri,Class 11,State Board,Foundation,English,2026-03-03,Hybrid
+STU1642,Omya Bir,Class 10,State Board,JEE,English,2025-05-29,Hybrid
+STU1643,Anmol Divan,Class 10,State Board,NEET,Tamil,2024-08-11,Hybrid
+STU1644,Kiaan Karan,Class 11,ICSE,Foundation,Hindi,2024-11-22,Hybrid
+STU1645,Leena Nagar,Class 11,CBSE,Foundation,Hindi,2025-02-01,Offline
+STU1646,Teerth Sura,Class 10,CBSE,JEE,Hindi,2024-08-11,Offline
+STU1647,Onkar Sinha,Class 11,ICSE,NEET,Tamil,2025-09-28,Online
+STU1648,Indira Mallick,Class 9,CBSE,JEE,Hindi,2024-10-04,Online
+STU1649,Manthan Dutta,Class 10,State Board,Foundation,Hindi,2025-02-19,Hybrid
+STU1650,Ansh Gour,Class 9,ICSE,NEET,English,2026-07-19,Online
+STU1651,Janaki Issac,Class 10,CBSE,NEET,Tamil,2025-10-27,Offline
+STU1652,Nathaniel Chakrabarti,Class 11,CBSE,NEET,Hindi,2024-07-27,Hybrid
+STU1653,Bishakha Garg,Class 11,CBSE,Foundation,Tamil,2026-02-21,Online
+STU1654,Wishi Shankar,Class 9,CBSE,JEE,Hindi,2025-02-15,Online
+STU1655,Tamanna Kapoor,Class 10,ICSE,JEE,English,2025-10-18,Online
+STU1656,Suhani Panchal,Class 9,ICSE,Foundation,English,2026-03-11,Online
+STU1657,Riya Raj,Class 9,ICSE,NEET,English,2024-08-08,Online
+STU1658,Hardik Sastry,Class 9,CBSE,Foundation,Hindi,2024-10-04,Hybrid
+STU1659,Ethan Nagi,Class 9,ICSE,JEE,Tamil,2025-04-08,Online
+STU1660,Neel Raghavan,Class 9,ICSE,Foundation,English,2025-06-18,Online
+STU1661,Anthony D’Alia,Class 9,State Board,JEE,Hindi,2025-01-06,Online
+STU1662,Rajata Nayar,Class 10,State Board,NEET,English,2025-07-04,Online
+STU1663,Bhanumati Ahuja,Class 10,State Board,NEET,Hindi,2024-11-29,Offline
+STU1664,Jeevika Lata,Class 11,CBSE,Foundation,Hindi,2026-01-03,Hybrid
+STU1665,Jason Tak,Class 10,State Board,Foundation,English,2024-10-22,Online
+STU1666,Mason Iyer,Class 9,State Board,JEE,Hindi,2025-05-01,Online
+STU1667,Mitesh Vala,Class 11,CBSE,Foundation,English,2026-02-02,Hybrid
+STU1668,Garima Trivedi,Class 9,CBSE,Foundation,Hindi,2026-03-10,Offline
+STU1669,Ranbir Doctor,Class 11,State Board,Foundation,English,2025-08-10,Offline
+STU1670,Alexander More,Class 9,CBSE,NEET,Tamil,2026-07-05,Offline
+STU1671,Nachiket Chauhan,Class 10,State Board,JEE,Tamil,2024-07-29,Online
+STU1672,Ayaan Ahluwalia,Class 11,CBSE,NEET,English,2025-01-01,Hybrid
+STU1673,Imaran Dani,Class 10,ICSE,NEET,Hindi,2026-06-24,Offline
+STU1674,Damini Rastogi,Class 9,CBSE,NEET,Tamil,2026-07-08,Online
+STU1675,Advaith Srinivasan,Class 12,ICSE,NEET,Hindi,2024-08-21,Hybrid
+STU1676,Om Bir,Class 11,State Board,NEET,English,2025-06-27,Hybrid
+STU1677,Turvi Baral,Class 12,ICSE,NEET,English,2025-07-09,Online
+STU1678,Raagini Mammen,Class 12,State Board,NEET,English,2026-05-16,Online
+STU1679,Ganga Krishna,Class 12,State Board,JEE,Tamil,2024-12-04,Offline
+STU1680,Madhav Basu,Class 9,CBSE,JEE,Tamil,2024-12-08,Offline
+STU1681,Radhika Dixit,Class 9,State Board,JEE,English,2025-04-15,Offline
+STU1682,Ira Lad,Class 10,ICSE,JEE,Hindi,2025-11-09,Offline
+STU1683,Sai Mody,Class 9,CBSE,NEET,Hindi,2024-09-23,Offline
+STU1684,Nachiket Bhardwaj,Class 11,State Board,Foundation,Hindi,2024-10-20,Offline
+STU1685,Shravya Saraf,Class 12,ICSE,NEET,Hindi,2025-12-11,Hybrid
+STU1686,Aarav Char,Class 12,ICSE,Foundation,Tamil,2026-02-26,Online
+STU1687,Qadim Chaudhary,Class 12,CBSE,JEE,Tamil,2025-05-09,Offline
+STU1688,Amaira Garg,Class 12,CBSE,Foundation,English,2026-01-23,Online
+STU1689,Max Dugal,Class 9,State Board,JEE,English,2026-02-26,Offline
+STU1690,Amaira Bobal,Class 9,CBSE,NEET,Hindi,2025-11-07,Hybrid
+STU1691,Simon Pingle,Class 11,CBSE,NEET,Hindi,2025-09-11,Hybrid
+STU1692,Rudra Nori,Class 9,CBSE,Foundation,Hindi,2025-03-12,Offline
+STU1693,Aryan Nagi,Class 12,CBSE,NEET,Hindi,2026-03-24,Offline
+STU1694,Gabriel Chad,Class 12,State Board,NEET,Hindi,2025-04-12,Offline
+STU1695,Devansh Parikh,Class 9,CBSE,NEET,English,2024-12-18,Offline
+STU1696,Onkar Bhalla,Class 12,ICSE,NEET,Tamil,2026-07-05,Offline
+STU1697,Yatan Rajagopalan,Class 9,CBSE,JEE,Hindi,2025-01-06,Hybrid
+STU1698,Yadavi Setty,Class 11,State Board,JEE,Tamil,2025-01-04,Offline
+STU1699,Gauri Sampath,Class 10,ICSE,Foundation,Tamil,2026-03-01,Offline
+STU1700,Tejas Sarraf,Class 9,State Board,Foundation,Tamil,2024-11-14,Hybrid
+STU1701,Mohammed Hayer,Class 12,ICSE,Foundation,English,2025-04-17,Hybrid
+STU1702,Dayita Bakshi,Class 9,ICSE,NEET,Tamil,2026-04-18,Hybrid
+STU1703,Yashasvi Parikh,Class 12,State Board,Foundation,Tamil,2025-12-14,Offline
+STU1704,Advaith Basu,Class 11,CBSE,JEE,Hindi,2026-01-18,Online
+STU1705,Eshana Nagi,Class 10,ICSE,NEET,Hindi,2026-05-22,Hybrid
+STU1706,Irya Dara,Class 9,State Board,NEET,Tamil,2025-10-03,Online
+STU1707,Zehaan Buch,Class 12,ICSE,NEET,Tamil,2026-01-06,Offline
+STU1708,Yamini Minhas,Class 9,State Board,JEE,English,2025-07-14,Online
+STU1709,Krishna Gokhale,Class 11,State Board,JEE,Hindi,2025-10-22,Online
+STU1710,Hiral Nori,Class 11,CBSE,NEET,English,2025-11-05,Online
+STU1711,Ayaan Hari,Class 11,CBSE,NEET,Hindi,2026-04-09,Offline
+STU1712,Saksham Gokhale,Class 12,ICSE,JEE,Hindi,2025-02-03,Offline
+STU1713,Yagnesh Tiwari,Class 9,ICSE,NEET,Hindi,2026-01-11,Offline
+STU1714,Anirudh Shetty,Class 11,State Board,JEE,Tamil,2025-08-01,Online
+STU1715,Abhiram Hayer,Class 10,ICSE,NEET,Hindi,2024-08-02,Hybrid
+STU1716,Hemani Wali,Class 11,CBSE,Foundation,Tamil,2025-07-25,Offline
+STU1717,Thomas Naik,Class 12,CBSE,NEET,Hindi,2026-04-20,Online
+STU1718,Hardik Pathak,Class 10,ICSE,NEET,English,2026-03-21,Offline
+STU1719,Finn Gera,Class 12,CBSE,Foundation,Hindi,2026-03-12,Online
+STU1720,Unnati Khatri,Class 9,State Board,NEET,Tamil,2024-11-12,Online
+STU1721,Dayamai Batra,Class 12,ICSE,JEE,Tamil,2024-11-13,Online
+STU1722,Christopher Dugal,Class 11,State Board,NEET,Tamil,2025-02-14,Hybrid
+STU1723,Amol Palla,Class 11,CBSE,NEET,Tamil,2024-09-28,Offline
+STU1724,Raagini Maharaj,Class 12,State Board,Foundation,English,2026-07-04,Online
+STU1725,Gayathri Sarkar,Class 10,State Board,NEET,English,2026-04-16,Hybrid
+STU1726,Madhav Vora,Class 12,ICSE,Foundation,Hindi,2026-06-26,Hybrid
+STU1727,Tanvi Arya,Class 12,State Board,Foundation,Hindi,2026-06-24,Online
+STU1728,Ishwar Lalla,Class 10,ICSE,NEET,English,2024-09-09,Online
+STU1729,Anvi Dasgupta,Class 10,State Board,Foundation,Tamil,2026-04-03,Offline
+STU1730,Abha Dhar,Class 12,ICSE,JEE,Hindi,2025-12-24,Online
+STU1731,Mohini Misra,Class 12,ICSE,NEET,Hindi,2026-05-21,Online
+STU1732,Rajata Mannan,Class 11,State Board,Foundation,English,2025-07-18,Offline
+STU1733,Meera Cheema,Class 10,CBSE,JEE,English,2026-06-16,Online
+STU1734,Dhriti Modi,Class 10,ICSE,NEET,Tamil,2024-09-23,Hybrid
+STU1735,Rehaan Rajan,Class 12,ICSE,Foundation,English,2026-06-22,Online
+STU1736,Agastya Borde,Class 10,ICSE,JEE,English,2026-07-12,Offline
+STU1737,Neelima Pillai,Class 11,State Board,Foundation,English,2026-07-11,Hybrid
+STU1738,Charvi Palla,Class 9,State Board,NEET,English,2026-06-26,Online
+STU1739,Ronith Morar,Class 9,ICSE,Foundation,Tamil,2025-12-23,Online
+STU1740,Caleb Sarma,Class 12,ICSE,Foundation,Hindi,2025-10-10,Online
+STU1741,Eta Oza,Class 12,State Board,JEE,English,2025-10-11,Online
+STU1742,Kashish Chowdhury,Class 9,State Board,Foundation,Hindi,2025-11-25,Hybrid
+STU1743,Urvi Pathak,Class 11,ICSE,JEE,English,2026-03-21,Hybrid
+STU1744,Onveer Jayaraman,Class 9,ICSE,NEET,Hindi,2025-10-18,Hybrid
+STU1745,Anjali Dara,Class 12,State Board,Foundation,English,2026-01-23,Offline
+STU1746,Laban Sibal,Class 10,CBSE,JEE,English,2026-04-19,Online
+STU1747,Yutika More,Class 11,ICSE,NEET,Tamil,2026-07-13,Hybrid
+STU1748,Vanya Khare,Class 9,ICSE,Foundation,Tamil,2026-05-26,Hybrid
+STU1749,Manan Patel,Class 9,ICSE,Foundation,Tamil,2026-07-03,Offline
+STU1750,Hema Rao,Class 10,ICSE,JEE,Tamil,2025-10-08,Offline
+STU1751,Ekiya Bera,Class 11,ICSE,JEE,Hindi,2025-01-11,Hybrid
+STU1752,Ekanta Jaggi,Class 9,State Board,Foundation,English,2024-12-31,Hybrid
+STU1753,Yashasvi Chander,Class 10,ICSE,Foundation,Tamil,2025-04-25,Offline
+STU1754,Luke Wali,Class 11,State Board,JEE,Hindi,2026-07-22,Online
+STU1755,Veda Anand,Class 12,ICSE,JEE,Tamil,2024-11-14,Offline
+STU1756,Amara Pandey,Class 11,CBSE,JEE,Tamil,2025-06-27,Online
+STU1757,Urvashi Tata,Class 10,ICSE,Foundation,Tamil,2026-01-18,Hybrid
+STU1758,Kai Sekhon,Class 12,CBSE,NEET,English,2025-03-21,Offline
+STU1759,Harish Morar,Class 12,State Board,NEET,Tamil,2025-07-30,Hybrid
+STU1760,Max Mall,Class 12,CBSE,JEE,Hindi,2024-08-22,Offline
+STU1761,Zansi Dixit,Class 9,ICSE,NEET,Hindi,2025-12-31,Hybrid
+STU1762,Brinda Kadakia,Class 11,ICSE,Foundation,English,2025-04-27,Online
+STU1763,Girish Parikh,Class 10,State Board,NEET,Hindi,2025-01-10,Online
+STU1764,Girindra Mistry,Class 9,ICSE,JEE,Hindi,2025-06-13,Offline
+STU1765,Edhitha Chakrabarti,Class 11,State Board,JEE,English,2025-11-26,Online
+STU1766,Gaurang Mody,Class 10,State Board,Foundation,Hindi,2026-05-26,Online
+STU1767,Nidhi Raghavan,Class 12,ICSE,NEET,Tamil,2025-02-28,Hybrid
+STU1768,Madhav Nagarajan,Class 10,ICSE,JEE,Hindi,2025-02-05,Hybrid
+STU1769,Jagat Vasa,Class 11,ICSE,JEE,English,2024-10-01,Offline
+STU1770,Vihaan Konda,Class 11,CBSE,NEET,Tamil,2024-10-17,Hybrid
+STU1771,Ojas Tara,Class 10,CBSE,JEE,Hindi,2026-04-17,Hybrid
+STU1772,Anay Behl,Class 10,CBSE,NEET,English,2026-03-07,Offline
+STU1773,Oviya Vyas,Class 10,CBSE,NEET,Hindi,2026-05-02,Offline
+STU1774,Champak Nigam,Class 11,CBSE,JEE,Tamil,2024-10-18,Online
+STU1775,Gayathri Mangal,Class 9,CBSE,Foundation,Hindi,2024-12-05,Offline
+STU1776,Shravya Narasimhan,Class 12,State Board,NEET,English,2024-11-20,Online
+STU1777,Jatin Balasubramanian,Class 10,CBSE,NEET,Tamil,2025-05-09,Hybrid
+STU1778,Faris Keer,Class 12,ICSE,JEE,Tamil,2025-05-05,Online
+STU1779,Ekalinga Acharya,Class 10,ICSE,Foundation,Hindi,2026-04-08,Online
+STU1780,Manya Mitter,Class 12,CBSE,NEET,English,2025-10-08,Online
+STU1781,Forum Aurora,Class 11,ICSE,JEE,Hindi,2026-02-23,Offline
+STU1782,Garima Hora,Class 10,ICSE,Foundation,Hindi,2025-09-22,Hybrid
+STU1783,Saanvi Mandal,Class 12,CBSE,JEE,Tamil,2025-11-04,Online
+STU1784,Yadavi Din,Class 11,State Board,NEET,Hindi,2024-09-14,Online
+STU1785,Ethan Muni,Class 12,State Board,NEET,Hindi,2025-10-14,Hybrid
+STU1786,Tanish Rajagopal,Class 11,CBSE,JEE,Hindi,2024-10-12,Online
+STU1787,Aashi Bhagat,Class 9,ICSE,JEE,Tamil,2026-02-06,Offline
+STU1788,Kabir Bhargava,Class 9,CBSE,NEET,Hindi,2025-10-13,Hybrid
+STU1789,Pallavi Setty,Class 12,ICSE,NEET,Hindi,2025-05-28,Offline
+STU1790,Neelima D’Alia,Class 10,State Board,JEE,Hindi,2025-06-23,Online
+STU1791,Januja Dhar,Class 11,CBSE,Foundation,Tamil,2025-11-29,Offline
+STU1792,Divya Loke,Class 12,CBSE,JEE,Tamil,2025-09-08,Hybrid
+STU1793,Ira Handa,Class 12,CBSE,NEET,English,2025-04-10,Offline
+STU1794,Imaran Radhakrishnan,Class 9,CBSE,NEET,Tamil,2025-05-21,Hybrid
+STU1795,Brijesh Kurian,Class 11,ICSE,NEET,Tamil,2025-12-27,Hybrid
+STU1796,Krish Chandra,Class 11,State Board,NEET,Tamil,2026-04-19,Online
+STU1797,Yashawini Kaul,Class 11,State Board,NEET,English,2026-01-21,Hybrid
+STU1798,Ekani Bhavsar,Class 12,CBSE,JEE,English,2024-10-04,Online
+STU1799,Urvi Mangat,Class 10,CBSE,JEE,Tamil,2025-08-28,Offline
+STU1800,Omisha Goel,Class 10,State Board,NEET,Tamil,2025-12-12,Online
+STU1801,Praneel Sem,Class 12,CBSE,NEET,Tamil,2024-08-04,Hybrid
+STU1802,Arya Sawhney,Class 12,ICSE,NEET,English,2026-05-09,Hybrid
+STU1803,Qarin Sharma,Class 10,CBSE,NEET,English,2025-04-08,Online
+STU1804,Anmol Balakrishnan,Class 11,CBSE,JEE,Hindi,2026-04-04,Hybrid
+STU1805,Gunbir Sinha,Class 11,State Board,Foundation,Hindi,2026-07-21,Online
+STU1806,Janani Modi,Class 9,State Board,Foundation,English,2026-06-10,Offline
+STU1807,Bahadurjit Chokshi,Class 9,CBSE,NEET,Hindi,2024-09-09,Online
+STU1808,Anjali Issac,Class 11,CBSE,NEET,Hindi,2025-11-02,Hybrid
+STU1809,Nisha Dutt,Class 9,ICSE,NEET,Hindi,2025-12-12,Online
+STU1810,Eshana Lata,Class 11,CBSE,JEE,English,2025-05-31,Offline
+STU1811,Sai Bobal,Class 12,ICSE,Foundation,Tamil,2025-02-13,Hybrid
+STU1812,Dhriti Bawa,Class 9,ICSE,JEE,Hindi,2025-08-03,Hybrid
+STU1813,Samaksh Sastry,Class 12,ICSE,Foundation,Hindi,2025-10-31,Hybrid
+STU1814,Tanish Mane,Class 10,CBSE,JEE,Hindi,2025-09-02,Offline
+STU1815,Upadhriti Johal,Class 11,CBSE,Foundation,English,2025-11-26,Hybrid
+STU1816,Hiral Batra,Class 12,CBSE,NEET,Tamil,2025-09-23,Online
+STU1817,Jack Garde,Class 10,ICSE,JEE,English,2026-05-25,Online
+STU1818,Timothy Divan,Class 10,ICSE,NEET,Tamil,2026-05-08,Hybrid
+STU1819,Darpan Panchal,Class 10,CBSE,NEET,Tamil,2025-06-04,Offline
+STU1820,Vrinda Khatri,Class 11,State Board,Foundation,English,2026-07-22,Offline
+STU1821,Sudiksha Anand,Class 9,ICSE,Foundation,English,2025-03-18,Offline
+STU1822,Tanmayi Biswas,Class 12,ICSE,NEET,Tamil,2026-01-15,Hybrid
+STU1823,Ekiya Subramaniam,Class 12,CBSE,NEET,Tamil,2025-09-16,Hybrid
+STU1824,Utkarsh Kumar,Class 10,ICSE,Foundation,Tamil,2025-02-27,Online
+STU1825,Gabriel Sridhar,Class 9,State Board,NEET,Tamil,2024-08-29,Hybrid
+STU1826,Ganga Lad,Class 10,State Board,Foundation,Hindi,2026-06-22,Online
+STU1827,Oeshi Bhatti,Class 12,State Board,Foundation,Hindi,2026-06-08,Hybrid
+STU1828,Siya Vohra,Class 9,ICSE,NEET,Tamil,2025-01-14,Online
+STU1829,Arin Rau,Class 12,ICSE,JEE,English,2025-05-05,Hybrid
+STU1830,Yashodhara Sachar,Class 11,CBSE,Foundation,Tamil,2026-06-02,Offline
+STU1831,Bhanumati Khanna,Class 9,State Board,JEE,English,2025-03-15,Hybrid
+STU1832,Tejas Manne,Class 9,State Board,NEET,Tamil,2024-12-31,Online
+STU1833,Zayyan Gandhi,Class 12,State Board,Foundation,Hindi,2025-05-30,Offline
+STU1834,Rudra Boase,Class 11,ICSE,Foundation,English,2024-11-26,Hybrid
+STU1835,Charita Iyer,Class 9,CBSE,Foundation,Hindi,2024-07-24,Offline
+STU1836,Harsh Pillai,Class 10,CBSE,NEET,English,2024-10-30,Online
+STU1837,Bahadurjit Pant,Class 12,State Board,NEET,Tamil,2025-04-11,Hybrid
+STU1838,Gabriel Handa,Class 12,State Board,NEET,Hindi,2024-10-10,Offline
+STU1839,Rudra Grover,Class 11,CBSE,JEE,English,2024-08-17,Online
+STU1840,Rohan Narayan,Class 11,State Board,JEE,Tamil,2026-07-22,Hybrid
+STU1841,Aishani Balakrishnan,Class 9,CBSE,NEET,English,2024-09-28,Online
+STU1842,Bhavani Borde,Class 10,State Board,NEET,Tamil,2025-03-18,Hybrid
+STU1843,Pranit Chatterjee,Class 12,State Board,Foundation,Hindi,2026-03-30,Hybrid
+STU1844,Raksha Chaudhary,Class 12,ICSE,Foundation,Hindi,2025-12-01,Offline
+STU1845,Diya Gokhale,Class 12,ICSE,JEE,English,2025-07-22,Online
+STU1846,Charita Shroff,Class 9,CBSE,JEE,English,2025-08-09,Hybrid
+STU1847,Laban Din,Class 10,CBSE,JEE,Tamil,2025-01-08,Hybrid
+STU1848,Vinaya Khare,Class 10,State Board,JEE,Tamil,2025-07-29,Hybrid
+STU1849,Anirudh Kar,Class 10,CBSE,NEET,Tamil,2026-07-09,Online
+STU1850,Yashasvi Mishra,Class 12,ICSE,JEE,English,2026-07-05,Online
+STU1851,Ikbal Vala,Class 10,State Board,Foundation,Tamil,2024-09-17,Offline
+STU1852,Jalsa Sen,Class 12,CBSE,NEET,Hindi,2025-01-19,Online
+STU1853,Tarak Agrawal,Class 10,ICSE,Foundation,Tamil,2025-06-27,Online
+STU1854,Mitesh Tak,Class 11,CBSE,JEE,Hindi,2025-11-28,Hybrid
+STU1855,Krishna Purohit,Class 12,ICSE,NEET,Hindi,2026-01-16,Hybrid
+STU1856,Nitara Ahuja,Class 11,CBSE,NEET,Tamil,2025-01-07,Offline
+STU1857,Kiaan Kara,Class 12,CBSE,Foundation,English,2026-07-20,Hybrid
+STU1858,Nitesh Desai,Class 9,ICSE,Foundation,Tamil,2025-10-06,Hybrid
+STU1859,Rachit Nagarajan,Class 9,ICSE,Foundation,Tamil,2025-02-26,Offline
+STU1860,Bhavna Kibe,Class 9,ICSE,Foundation,Hindi,2025-05-18,Offline
+STU1861,Abhiram Kapadia,Class 12,State Board,NEET,English,2024-09-08,Online
+STU1862,Nimrat Aggarwal,Class 11,State Board,JEE,Tamil,2026-07-02,Offline
+STU1863,Edhitha Koshy,Class 12,CBSE,Foundation,English,2024-10-05,Hybrid
+STU1864,Gautam Gala,Class 11,State Board,Foundation,Hindi,2025-10-15,Offline
+STU1865,Sanya Bhatnagar,Class 10,ICSE,Foundation,Hindi,2025-06-12,Offline
+STU1866,Warinder Baral,Class 12,State Board,Foundation,Hindi,2025-01-03,Offline
+STU1867,Dominic Badami,Class 12,CBSE,Foundation,English,2025-08-03,Offline
+STU1868,Reyansh Wali,Class 9,State Board,NEET,English,2026-01-17,Online
+STU1869,Vansha Chokshi,Class 10,CBSE,Foundation,Tamil,2025-03-15,Online
+STU1870,Chavvi Bal,Class 12,ICSE,NEET,English,2024-12-11,Online
+STU1871,Xalak Krishnamurthy,Class 9,CBSE,NEET,Tamil,2024-09-10,Offline
+STU1872,Faraj Pal,Class 10,CBSE,Foundation,English,2026-02-13,Online
+STU1873,Priya Rattan,Class 11,ICSE,JEE,Hindi,2025-04-25,Online
+STU1874,Devansh Date,Class 9,State Board,JEE,Tamil,2025-03-27,Offline
+STU1875,Harita Shere,Class 11,ICSE,JEE,Hindi,2024-09-18,Offline
+STU1876,Jeet Oza,Class 10,State Board,Foundation,Hindi,2026-06-26,Hybrid
+STU1877,Diya Aggarwal,Class 9,State Board,JEE,Tamil,2026-06-13,Offline
+STU1878,Robert Bava,Class 9,CBSE,Foundation,Hindi,2026-04-05,Online
+STU1879,Banjeet Chana,Class 9,State Board,JEE,English,2025-11-27,Hybrid
+STU1880,Harinakshi Rajagopal,Class 9,CBSE,NEET,English,2025-06-22,Hybrid
+STU1881,Yadavi Kannan,Class 11,State Board,NEET,Hindi,2026-02-27,Offline
+STU1882,Anusha Buch,Class 9,CBSE,Foundation,Tamil,2025-10-27,Offline
+STU1883,Chameli Subramanian,Class 10,CBSE,JEE,Tamil,2024-10-09,Offline
+STU1884,Nikita Char,Class 9,CBSE,NEET,Tamil,2025-05-24,Offline
+STU1885,Saksham Mutti,Class 10,CBSE,NEET,Tamil,2024-11-03,Hybrid
+STU1886,Zinal Bhatti,Class 12,ICSE,Foundation,Hindi,2025-06-28,Online
+STU1887,Isha Vala,Class 10,State Board,NEET,English,2025-08-22,Online
+STU1888,Wishi Shere,Class 12,ICSE,NEET,Tamil,2024-09-13,Hybrid
+STU1889,Ekavir Suri,Class 11,CBSE,NEET,English,2026-06-27,Online
+STU1890,Tripti Rege,Class 9,CBSE,NEET,Tamil,2025-01-15,Offline
+STU1891,Frederick Barad,Class 10,ICSE,JEE,Tamil,2025-12-26,Online
+STU1892,Chakrika Chaudry,Class 10,State Board,JEE,Hindi,2025-07-20,Hybrid
+STU1893,Rehaan Yogi,Class 11,ICSE,NEET,Hindi,2025-04-18,Hybrid
+STU1894,Urishilla Chaudry,Class 11,State Board,Foundation,Tamil,2026-01-27,Offline
+STU1895,Lucky Shankar,Class 9,ICSE,Foundation,Hindi,2025-05-31,Online
+STU1896,Hemang Ahluwalia,Class 12,ICSE,Foundation,English,2025-04-20,Hybrid
+STU1897,Harsh Munshi,Class 12,State Board,NEET,Hindi,2026-04-16,Offline
+STU1898,Nihal Hayre,Class 10,ICSE,JEE,English,2025-09-27,Hybrid
+STU1899,Divya Banerjee,Class 11,ICSE,Foundation,Hindi,2024-11-11,Hybrid
+STU1900,Jagdish Talwar,Class 10,State Board,Foundation,Tamil,2025-08-10,Online
+STU1901,Wyatt Rattan,Class 9,State Board,Foundation,Tamil,2025-06-23,Hybrid
+STU1902,Jonathan Sura,Class 11,State Board,JEE,English,2025-04-04,Online
+STU1903,Niharika Dora,Class 11,CBSE,NEET,Hindi,2026-04-09,Offline
+STU1904,Aarna Agate,Class 9,State Board,JEE,Tamil,2024-10-15,Offline
+STU1905,Shaurya Pal,Class 11,CBSE,JEE,Hindi,2024-11-10,Online
+STU1906,Harrison Nayar,Class 12,ICSE,Foundation,Hindi,2026-03-24,Online
+STU1907,Girish Dora,Class 12,ICSE,JEE,Hindi,2025-08-02,Hybrid
+STU1908,Mohini Bhardwaj,Class 10,ICSE,NEET,Tamil,2024-12-16,Hybrid
+STU1909,Ekalinga Hora,Class 10,State Board,NEET,Hindi,2025-08-06,Hybrid
+STU1910,Keya Sangha,Class 10,CBSE,NEET,Hindi,2025-03-21,Hybrid
+STU1911,Owen Om,Class 10,ICSE,NEET,English,2024-09-28,Online
+STU1912,Dalbir Sundaram,Class 12,ICSE,JEE,English,2024-08-23,Online
+STU1913,Kamya Bandi,Class 12,CBSE,NEET,English,2026-04-01,Offline
+STU1914,Faqid Ahluwalia,Class 9,ICSE,Foundation,Hindi,2026-01-08,Offline
+STU1915,Madhavi Chaudhuri,Class 12,ICSE,Foundation,Tamil,2024-10-26,Hybrid
+STU1916,Om Gulati,Class 12,ICSE,Foundation,Tamil,2024-12-12,Hybrid
+STU1917,Brijesh Brar,Class 12,CBSE,JEE,Hindi,2026-03-29,Online
+STU1918,Hemangini Malhotra,Class 12,State Board,NEET,English,2026-03-29,Hybrid
+STU1919,Gautami Sengupta,Class 9,State Board,JEE,Tamil,2026-07-15,Offline
+STU1920,Varenya Memon,Class 9,State Board,JEE,Hindi,2026-07-13,Offline
+STU1921,Chasmum Lal,Class 9,State Board,NEET,English,2025-02-20,Online
+STU1922,Balendra Palla,Class 11,State Board,NEET,English,2025-02-05,Hybrid
+STU1923,Teerth Loyal,Class 10,CBSE,NEET,Tamil,2025-05-11,Offline
+STU1924,Viraj Devi,Class 11,ICSE,NEET,English,2025-08-30,Online
+STU1925,Gautami Dhillon,Class 10,State Board,NEET,English,2025-04-02,Offline
+STU1926,Gautami Kalita,Class 11,CBSE,JEE,Hindi,2026-07-09,Offline
+STU1927,Ranveer Seth,Class 9,CBSE,Foundation,Tamil,2026-01-03,Online
+STU1928,Pooja Mand,Class 9,ICSE,NEET,Hindi,2025-10-30,Offline
+STU1929,Garima Nath,Class 12,ICSE,NEET,Tamil,2026-06-02,Hybrid
+STU1930,Yuvraj Oommen,Class 10,CBSE,Foundation,Hindi,2025-09-05,Offline
+STU1931,Akshay Dass,Class 12,State Board,NEET,English,2025-01-04,Hybrid
+STU1932,Gayathri Sinha,Class 11,CBSE,Foundation,Hindi,2025-08-22,Hybrid
+STU1933,Reyansh Raman,Class 12,ICSE,JEE,Tamil,2024-10-07,Offline
+STU1934,Timothy Badami,Class 9,State Board,NEET,Hindi,2025-11-26,Offline
+STU1935,Lavanya Barad,Class 9,CBSE,Foundation,English,2026-03-08,Hybrid
+STU1936,Vincent Lata,Class 11,State Board,Foundation,English,2026-04-30,Hybrid
+STU1937,Nakul Bala,Class 9,CBSE,Foundation,Hindi,2025-03-08,Hybrid
+STU1938,Baljiwan Palan,Class 9,State Board,Foundation,English,2024-12-14,Offline
+STU1939,Kashvi Banerjee,Class 9,CBSE,Foundation,Hindi,2026-01-07,Online
+STU1940,Pranit Ahuja,Class 9,ICSE,JEE,English,2026-01-06,Hybrid
+STU1941,Vyanjana Varma,Class 12,CBSE,Foundation,Hindi,2025-11-22,Offline
+STU1942,Aradhana Chatterjee,Class 12,State Board,JEE,Tamil,2025-09-29,Online
+STU1943,Aahana Subramanian,Class 11,ICSE,JEE,Tamil,2026-06-30,Online
+STU1944,Dev Guha,Class 11,ICSE,NEET,English,2025-05-29,Online
+STU1945,Ethan Choudhry,Class 9,State Board,JEE,Tamil,2026-03-16,Online
+STU1946,Hritik Jha,Class 10,ICSE,JEE,English,2025-03-05,Offline
+STU1947,Shaurya Memon,Class 12,State Board,JEE,English,2025-05-19,Hybrid
+STU1948,Lopa Natt,Class 11,CBSE,JEE,Hindi,2025-01-28,Online
+STU1949,Aahana Boase,Class 11,ICSE,JEE,Tamil,2025-08-14,Online
+STU1950,Upma Rai,Class 12,ICSE,NEET,Tamil,2025-05-30,Online
+STU1951,Zansi Ramanathan,Class 9,CBSE,JEE,Hindi,2024-09-10,Hybrid
+STU1952,Ijaya Muni,Class 10,ICSE,Foundation,Hindi,2026-07-09,Offline
+STU1953,Madhav Vora,Class 9,ICSE,JEE,Tamil,2024-09-09,Offline
+STU1954,Umang Sibal,Class 12,CBSE,NEET,English,2025-12-24,Offline
+STU1955,Aahana Korpal,Class 10,CBSE,NEET,Hindi,2026-05-09,Hybrid
+STU1956,Noah Naik,Class 9,CBSE,Foundation,Hindi,2024-12-03,Online
+STU1957,Tristan Chokshi,Class 11,State Board,NEET,Tamil,2024-09-17,Online
+STU1958,Rajata Bhavsar,Class 10,CBSE,NEET,Hindi,2025-08-22,Online
+STU1959,Vincent Mann,Class 10,State Board,NEET,Hindi,2025-09-29,Offline
+STU1960,Yashawini Rao,Class 9,CBSE,NEET,Hindi,2024-08-12,Offline
+STU1961,Advik Hans,Class 10,CBSE,JEE,Tamil,2024-07-24,Offline
+STU1962,Abhiram Arya,Class 11,State Board,NEET,Tamil,2025-03-28,Hybrid
+STU1963,Nihal Muni,Class 10,State Board,Foundation,Tamil,2026-01-24,Online
+STU1964,Victor Goel,Class 10,State Board,Foundation,Hindi,2025-04-04,Online
+STU1965,Falak Bhakta,Class 11,CBSE,NEET,Hindi,2024-10-26,Online
+STU1966,Falan Toor,Class 10,State Board,Foundation,Tamil,2025-05-01,Offline
+STU1967,Kashish Mangat,Class 10,State Board,Foundation,Tamil,2025-05-02,Hybrid
+STU1968,Qushi Talwar,Class 11,State Board,NEET,Hindi,2026-03-21,Offline
+STU1969,Varenya Srinivasan,Class 11,CBSE,Foundation,Tamil,2024-10-07,Offline
+STU1970,Laban Wali,Class 10,ICSE,Foundation,Tamil,2025-12-11,Online
+STU1971,Wakeeta Tailor,Class 10,State Board,JEE,Hindi,2026-03-21,Offline
+STU1972,Triveni Dyal,Class 9,CBSE,Foundation,English,2026-06-14,Offline
+STU1973,Gaurika Pradhan,Class 12,ICSE,Foundation,English,2026-03-10,Hybrid
+STU1974,Benjamin Bakshi,Class 9,State Board,JEE,Hindi,2025-04-17,Offline
+STU1975,Kritika Kadakia,Class 9,ICSE,NEET,Hindi,2025-10-08,Offline
+STU1976,Faraj Talwar,Class 12,CBSE,Foundation,English,2025-01-17,Online
+STU1977,Azaan Sankar,Class 12,ICSE,JEE,Tamil,2026-04-21,Online
+STU1978,Lavanya Barman,Class 10,State Board,JEE,Tamil,2024-11-23,Hybrid
+STU1979,Kashvi Kale,Class 11,CBSE,JEE,Hindi,2024-10-06,Hybrid
+STU1980,Ayaan Padmanabhan,Class 11,State Board,JEE,English,2026-02-19,Offline
+STU1981,Sneha Patil,Class 11,CBSE,NEET,Tamil,2025-11-07,Hybrid
+STU1982,Ekantika Chandran,Class 10,CBSE,JEE,Hindi,2026-01-04,Offline
+STU1983,Vamakshi Rama,Class 9,ICSE,Foundation,Hindi,2024-10-27,Offline
+STU1984,Alexander Rama,Class 10,State Board,JEE,Hindi,2025-07-06,Hybrid
+STU1985,Aayush Dada,Class 10,CBSE,Foundation,English,2025-03-25,Hybrid
+STU1986,Balvan Hora,Class 9,CBSE,NEET,Hindi,2025-08-20,Online
+STU1987,Vedant Saha,Class 11,CBSE,Foundation,English,2024-07-28,Hybrid
+STU1988,Siya Sangha,Class 11,State Board,Foundation,Tamil,2025-07-14,Online
+STU1989,Andrew Kakar,Class 12,State Board,Foundation,Hindi,2026-06-28,Online
+STU1990,Vaishnavi Sheth,Class 11,ICSE,NEET,Tamil,2026-03-12,Online
+STU1991,Quincy Pillay,Class 12,ICSE,NEET,Hindi,2025-09-23,Online
+STU1992,Nicholas Nazareth,Class 10,CBSE,NEET,Tamil,2025-11-17,Hybrid
+STU1993,Zayan Sani,Class 12,ICSE,JEE,Tamil,2025-06-22,Online
+STU1994,Chanchal Mannan,Class 11,CBSE,Foundation,English,2024-09-22,Hybrid
+STU1995,Caleb Oak,Class 10,State Board,NEET,English,2024-09-19,Online
+STU1996,Anya Ratti,Class 10,CBSE,NEET,Tamil,2026-04-04,Online
+STU1997,Champak Gole,Class 9,CBSE,NEET,Tamil,2026-01-09,Online
+STU1998,Jagrati Sami,Class 11,ICSE,JEE,English,2025-03-13,Offline
+STU1999,Kala Ganesh,Class 10,ICSE,JEE,Tamil,2025-02-07,Hybrid
+STU2000,Oscar Anne,Class 10,CBSE,Foundation,Hindi,2025-09-20,Offline

@@ -1,0 +1,8 @@
+venv/
+anaconda_projects/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+cells_dump*.txt
+add_markdown_cells.py
+add_more_markdowns.py
