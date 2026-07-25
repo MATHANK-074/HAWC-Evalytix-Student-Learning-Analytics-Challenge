@@ -177,12 +177,21 @@ Student-Learning-Analytics
 │   └── video_logs.csv
 │
 ├── docs/
-│   ├── INSTALLATION_GUIDE.md
-│   ├── USER_GUIDE.md
-│   ├── DEVELOPER_GUIDE.md
-│   ├── API_DOCUMENTATION.md
-│   ├── PROJECT_REPORT.md
-│   └── DEMO_VIDEO_SCRIPT.md
+│   ├── 01_Project_Overview.md
+│   ├── 02_Installation_Guide.md
+│   ├── 03_System_Architecture.md
+│   ├── 04_Dataset_Documentation.md
+│   ├── 05_Data_Preprocessing.md
+│   ├── 06_Exploratory_Data_Analysis.md
+│   ├── 07_Learning_Gap_Analysis.md
+│   ├── 08_Model_Documentation.md
+│   ├── 09_Recommendation_Engine.md
+│   ├── 10_Dashboard_Guide.md
+│   ├── 11_API_Documentation.md
+│   ├── 12_User_Guide.md
+│   ├── 13_Developer_Guide.md
+│   ├── 14_Project_Report.md
+│   └── 15_Demo_Video_Script.md
 │
 ├── images/
 │
@@ -237,51 +246,31 @@ Interactive Streamlit Dashboard
 
 ## Dataset Preview
 
-> Add image here
-
-```
-images/dataset_preview.png
-```
+![Dataset Preview](images/dataset_preview.png)
 
 ---
 
 ## Attendance Distribution
 
-> Add image here
-
-```
-images/attendance_distribution.png
-```
+![Attendance Distribution](images/attendance_distribution.png)
 
 ---
 
 ## Correlation Heatmap
 
-> Add image here
-
-```
-images/correlation_heatmap.png
-```
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
 ## Model Evaluation
 
-> Add image here
-
-```
-images/model_evaluation.png
-```
+![Model Evaluation](images/model_evaluation.png)
 
 ---
 
 ## Dashboard
 
-> Add image here
-
-```
-images/dashboard_home.png
-```
+![Dashboard](images/streamlit_dashboard.png)
 
 ---
 
