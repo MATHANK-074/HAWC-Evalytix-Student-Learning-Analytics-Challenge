@@ -187,11 +187,9 @@ Student-Learning-Analytics
 │   ├── 08_Model_Documentation.md
 │   ├── 09_Recommendation_Engine.md
 │   ├── 10_Dashboard_Guide.md
-│   ├── 11_API_Documentation.md
-│   ├── 12_User_Guide.md
-│   ├── 13_Developer_Guide.md
-│   ├── 14_Project_Report.md
-│   └── 15_Demo_Video_Script.md
+│   ├── 11_User_Guide.md
+│   ├── 12_Developer_Guide.md
+│   ├── 13_Project_Report.md
 │
 ├── images/
 │
