@@ -1,186 +1,372 @@
-# HAWC-Evalytix-Student-Learning-Analytics-Challenge
+# 🎓 HAWC Evalytix – Student Learning Analytics Challenge
 
+> AI & Data Science Internship Challenge Submission
 
-
-# 📚 Student Learning Analytics System
-
-> **An AI-powered Student Learning Analytics and Performance Prediction System** that generates synthetic educational datasets, analyzes student learning behavior, predicts academic performance using Machine Learning, and visualizes insights through an interactive Streamlit dashboard.
-
----
-
-## 📖 Table of Contents
-
-- Overview
-- Problem Statement
-- Objectives
-- Features
-- Technology Stack
-- Project Architecture
-- Folder Structure
-- Installation
-- Project Workflow
-- Dataset Description
-- Data Preprocessing
-- Exploratory Data Analysis
-- Machine Learning Model
-- Dashboard
-- Results
-- Future Enhancements
-- Author
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
-# 📌 Overview
+# 📖 Project Overview
 
-The **Student Learning Analytics System** is a data-driven educational analytics platform developed using **Python, Jupyter Notebook, Machine Learning, and Streamlit**.
+This project was developed as part of the **HAWC Evalytix – Student Learning Analytics Challenge**.
 
-The system simulates educational data, analyzes student learning patterns, predicts student performance, and provides meaningful insights that help educators identify students requiring academic support.
+The objective is to build an **AI-powered Student Learning Analytics System** capable of generating realistic educational datasets, analyzing student learning behaviour, identifying students who require academic intervention, predicting student performance using Machine Learning, and providing personalized learning recommendations through an interactive Streamlit dashboard.
 
-The project demonstrates a complete Machine Learning pipeline, starting from synthetic dataset generation to deployment through an interactive dashboard.
-
----
-
-# ❓ Problem Statement
-
-Educational institutions collect large amounts of student data such as attendance, quiz scores, mock tests, assignments, and learning engagement.
-
-However, this information is usually scattered across multiple sources, making it difficult to:
-
-- Monitor student progress
-- Identify academically weak students
-- Analyze learning behavior
-- Predict future performance
-- Provide personalized recommendations
-
-This project solves these challenges by integrating all learning data into one intelligent analytics system.
+Since no real educational dataset was available, realistic synthetic datasets were generated to simulate the learning activities of students preparing for competitive examinations such as **JEE, NEET, CBSE, ICSE, and Foundation**.
 
 ---
 
 # 🎯 Objectives
 
-- Generate realistic educational datasets.
-- Analyze student learning behavior.
-- Perform exploratory data analysis.
-- Build a Machine Learning prediction model.
-- Predict student academic performance.
-- Identify at-risk students.
-- Display insights using an interactive dashboard.
+The project focuses on the following objectives:
+
+- Generate realistic synthetic educational datasets
+- Perform data cleaning and preprocessing
+- Conduct Exploratory Data Analysis (EDA)
+- Identify learning gaps among students
+- Build a Machine Learning prediction model
+- Evaluate model performance
+- Develop an interactive Streamlit dashboard
+- Generate personalized learning recommendations
 
 ---
 
-# ✨ Features
+# 🚀 Features
 
-- Synthetic student data generation
-- Attendance analytics
-- Quiz performance analysis
-- Mock test analysis
-- Assignment performance tracking
-- Student engagement analytics
-- Performance prediction using Machine Learning
-- Interactive Streamlit dashboard
-- Personalized recommendations
+### 📂 Synthetic Dataset Generation
+
+- Generated data for 2000+ students
+- Multiple educational datasets
+- Realistic relationships between variables
+
+Datasets include:
+
+- students.csv
+- attendance.csv
+- assignments.csv
+- engagement.csv
+- quiz_attempts.csv
+- mock_tests.csv
+- video_logs.csv
+
+---
+
+### 📊 Exploratory Data Analysis
+
+The project performs detailed data analysis including:
+
+- Student statistics
+- Attendance analysis
+- Assignment performance
+- Quiz analysis
+- Engagement analysis
+- Correlation analysis
+- Distribution analysis
+
+---
+
+### 🤖 Machine Learning
+
+Implemented a supervised Machine Learning model to classify student performance.
+
+Tasks include:
+
+- Feature Engineering
+- Train/Test Split
+- Model Training
+- Prediction
+- Model Evaluation
+
+Evaluation metrics:
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- Classification Report
+
+---
+
+### ⚠ Learning Gap Analysis
+
+The project identifies students requiring additional academic support based on:
+
+- Attendance
+- Assignment scores
+- Quiz performance
+- Mock tests
+- Student engagement
+
+---
+
+### 💡 Recommendation Engine
+
+Personalized recommendations are generated based on student performance.
+
+Examples:
+
+- Improve lecture attendance
+- Complete pending assignments
+- Increase study hours
+- Practice chapter quizzes
+- Revise weak subjects
+
+---
+
+### 📈 Interactive Dashboard
+
+Developed using Streamlit.
+
+Dashboard features include:
+
+- Home
+- Dataset Overview
+- Learning Analytics
+- Student Performance Prediction
+- At-Risk Students
+- Recommendations
+- About Project
 
 ---
 
 # 🛠 Technology Stack
 
-| Category | Technology |
-|----------|------------|
-| Programming Language | Python |
-| Development Environment | Jupyter Notebook |
-| Data Analysis | Pandas |
-| Numerical Computing | NumPy |
-| Data Generation | Faker |
-| Visualization | Matplotlib, Plotly |
-| Machine Learning | Scikit-learn |
-| Model | Random Forest Classifier |
-| Dashboard | Streamlit |
-| Model Storage | Joblib |
+## Programming Language
 
----
+- Python
 
-# 🏗 Project Architecture
+## Development Environment
 
-```
+- Jupyter Notebook
+- VS Code
 
-Synthetic Data Generation
-│
-▼
-CSV Dataset Creation
-│
-▼
-Data Preprocessing
-│
-▼
-Exploratory Data Analysis
-│
-▼
-Feature Engineering
-│
-▼
-Machine Learning Model
-│
-▼
-Performance Prediction
-│
-▼
-Streamlit Dashboard
-│
-▼
-Student Recommendations
+## Libraries
 
-```
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Joblib
+- Streamlit
 
 ---
 
 # 📂 Project Structure
 
 ```
-
-Student-Learning-Analytics/
-│
-├── data/
-│   ├── students.csv
-│   ├── attendance.csv
-│   ├── video_logs.csv
-│   ├── quiz_attempts.csv
-│   ├── mock_tests.csv
-│   ├── assignments.csv
-│   └── engagement.csv
-│
-├── notebooks/
-│   ├── 01_Data_Generation.ipynb
-│   ├── 02_EDA.ipynb
-│   └── 03_Model.ipynb
+Student-Learning-Analytics
 │
 ├── dashboard/
-│   └── app.py
+│   ├── app.py
+│   └── requirements.txt
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   ├── students.csv
+│   ├── attendance.csv
+│   ├── assignments.csv
+│   ├── engagement.csv
+│   ├── mock_tests.csv
+│   ├── quiz_attempts.csv
+│   └── video_logs.csv
+│
+├── docs/
+│   ├── INSTALLATION_GUIDE.md
+│   ├── USER_GUIDE.md
+│   ├── DEVELOPER_GUIDE.md
+│   ├── API_DOCUMENTATION.md
+│   ├── PROJECT_REPORT.md
+│   └── DEMO_VIDEO_SCRIPT.md
+│
+├── images/
 │
 ├── models/
 │   └── student_model.pkl
 │
+├── notebooks/
+│   ├── 01_Data_Generation.ipynb
+│   ├── 02_EDA.ipynb
+│   ├── 03_Model.ipynb
+│   ├── 04_Model_Evaluation.ipynb
+│   └── 05_Final_Insights.ipynb
+│
 ├── README.md
-└── requirements.txt
-
+├── requirements.txt
+├── LICENSE
+└── .gitignore
 ```
 
 ---
 
-# ⚙ Installation
+# ⚙ Workflow
 
-## 1. Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Student-Learning-Analytics.git
+```
+Synthetic Dataset Generation
+            │
+            ▼
+Data Cleaning & Preprocessing
+            │
+            ▼
+Exploratory Data Analysis
+            │
+            ▼
+Learning Gap Analysis
+            │
+            ▼
+Machine Learning Model
+            │
+            ▼
+Model Evaluation
+            │
+            ▼
+Recommendation Engine
+            │
+            ▼
+Interactive Streamlit Dashboard
 ```
 
-## 2. Navigate to Project
+---
 
-```bash
-cd Student-Learning-Analytics
+# 📸 Project Screenshots
+
+## Dataset Preview
+
+> Add image here
+
+```
+images/dataset_preview.png
 ```
 
-## 3. Install Dependencies
+---
+
+## Attendance Distribution
+
+> Add image here
+
+```
+images/attendance_distribution.png
+```
+
+---
+
+## Correlation Heatmap
+
+> Add image here
+
+```
+images/correlation_heatmap.png
+```
+
+---
+
+## Model Evaluation
+
+> Add image here
+
+```
+images/model_evaluation.png
+```
+
+---
+
+## Dashboard
+
+> Add image here
+
+```
+images/dashboard_home.png
+```
+
+---
+
+# 📈 Machine Learning Workflow
+
+1. Load processed dataset
+
+2. Data preprocessing
+
+3. Feature selection
+
+4. Train-Test split
+
+5. Model training
+
+6. Prediction
+
+7. Model evaluation
+
+8. Save trained model
+
+9. Deploy in Streamlit dashboard
+
+---
+
+# 📊 Results
+
+The developed system successfully:
+
+- Generated realistic educational datasets
+- Identified learning behaviour patterns
+- Detected students requiring intervention
+- Predicted student performance
+- Produced meaningful educational insights
+- Provided personalized recommendations
+- Displayed results through an interactive dashboard
+
+---
+
+# 🎯 Future Enhancements
+
+Future improvements may include:
+
+- Integration with a real Learning Management System (LMS)
+- Real-time student performance monitoring
+- Deep Learning-based prediction models
+- Automated email notifications
+- Personalized study plans
+- Cloud deployment
+- Faculty analytics dashboard
+
+---
+
+# 📚 Documentation
+
+Detailed documentation is available in the **docs/** folder.
+
+- Installation Guide
+- User Guide
+- Developer Guide
+- API Documentation
+- Project Report
+- Demo Video Script
+
+---
+
+# ▶ Running the Project
+
+## 1 Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/HAWC-Evalytix-Student-Learning-Analytics-Challenge.git
+```
+
+---
+
+## 2 Navigate to Project Folder
+
+```bash
+cd HAWC-Evalytix-Student-Learning-Analytics-Challenge
+```
+
+---
+
+## 3 Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -188,288 +374,23 @@ pip install -r requirements.txt
 
 ---
 
-# 🚀 Project Workflow
+## 4 Launch Jupyter Notebook
 
-## Step 1 – Data Generation
-
-The project starts by generating realistic educational datasets using the **Faker** library.
-
-The notebook:
-
+```bash
+jupyter notebook
 ```
 
-01_Data_Generation.ipynb
+Run the notebooks in order:
 
-```
-
-creates multiple CSV files containing student learning information.
-
-Generated datasets include:
-
-- students.csv
-- attendance.csv
-- video_logs.csv
-- quiz_attempts.csv
-- mock_tests.csv
-- assignments.csv
-- engagement.csv
+- 01_Data_Generation.ipynb
+- 02_EDA.ipynb
+- 03_Model.ipynb
+- 04_Model_Evaluation.ipynb
+- 05_Final_Insights.ipynb
 
 ---
 
-## Step 2 – Data Preprocessing
-
-All datasets are loaded using **Pandas**.
-
-The preprocessing stage includes:
-
-- Loading CSV files
-- Checking data types
-- Handling missing values
-- Removing duplicate records
-- Data validation
-- Preparing data for analysis
-
----
-
-## Step 3 – Exploratory Data Analysis (EDA)
-
-EDA is performed using **Matplotlib** and **Plotly** to understand student learning behavior.
-
-Visualizations include:
-
-- Attendance Distribution
-- Quiz Accuracy Distribution
-- Mock Test Marks Distribution
-- Assignment Scores
-- Weekly Study Hours
-- Login Frequency
-- Student Engagement
-
-EDA helps identify trends and learning gaps.
-
----
-
-## Step 4 – Feature Engineering
-
-Relevant features from different datasets are merged into one dataset.
-
-Features used for prediction include:
-
-- Attendance Percentage
-- Quiz Accuracy
-- Mock Test Marks
-- Assignment Score
-- Weekly Study Hours
-- Login Frequency
-- Average Session Duration
-- Sessions Per Week
-
-The target variable is student performance categorized as:
-
-- High Performer
-- Average
-- At Risk
-
----
-
-## Step 5 – Machine Learning Model
-
-The project uses the **Random Forest Classifier**.
-
-The model training process consists of:
-
-1. Loading processed data.
-2. Splitting data into training and testing sets.
-3. Training the Random Forest model.
-4. Evaluating prediction accuracy.
-5. Saving the trained model using Joblib.
-
-The trained model is stored as:
-
-```
-
-models/student_model.pkl
-
-```
-
----
-
-## Step 6 – Interactive Dashboard
-
-The dashboard is developed using **Streamlit**.
-
-It provides an interactive interface to visualize student analytics.
-
-Dashboard features include:
-
-- Total Students
-- High Performers
-- Average Students
-- At-Risk Students
-- Attendance Distribution
-- Quiz Accuracy
-- Mock Test Analysis
-- Student Search
-- Performance Prediction
-- Personalized Recommendations
-
----
-
-# 📊 Dataset Description
-
-## students.csv
-
-Contains basic student information.
-
-Columns:
-
-- Student_ID
-- Student_Name
-- Class
-- Board
-- Target_Exam
-- Medium
-- Admission_Date
-- Study_Mode
-
----
-
-## attendance.csv
-
-Stores attendance information.
-
-Columns:
-
-- Student_ID
-- Subject
-- Attendance_Percentage
-
----
-
-## video_logs.csv
-
-Stores online learning activity.
-
-Columns:
-
-- Student_ID
-- Video_Length
-- Watch_Time
-- Completion_Percentage
-
----
-
-## quiz_attempts.csv
-
-Contains quiz results.
-
-Columns:
-
-- Student_ID
-- Accuracy
-- Correct
-- Incorrect
-
----
-
-## mock_tests.csv
-
-Contains mock examination performance.
-
-Columns:
-
-- Student_ID
-- Marks
-- Rank
-- Time_Utilization
-
----
-
-## assignments.csv
-
-Stores assignment information.
-
-Columns:
-
-- Student_ID
-- Submitted
-- Submission_Delay
-- Score
-
----
-
-## engagement.csv
-
-Contains learning engagement statistics.
-
-Columns:
-
-- Student_ID
-- Weekly_Study_Hours
-- Login_Frequency
-- Average_Session_Duration
-- Sessions_Per_Week
-
----
-
-# 📈 Exploratory Data Analysis
-
-The following analyses are performed:
-
-- Attendance Distribution
-- Quiz Accuracy Distribution
-- Mock Test Score Distribution
-- Assignment Score Distribution
-- Weekly Study Hours Analysis
-- Student Engagement Analysis
-- Performance Category Distribution
-
----
-
-# 🤖 Machine Learning
-
-Algorithm Used:
-
-**Random Forest Classifier**
-
-Input Features:
-
-- Attendance Percentage
-- Quiz Accuracy
-- Mock Test Marks
-- Assignment Score
-- Weekly Study Hours
-- Login Frequency
-- Average Session Duration
-- Sessions Per Week
-
-Target Classes:
-
-- High Performer
-- Average
-- At Risk
-
-Evaluation Metrics:
-
-- Accuracy Score
-- Confusion Matrix
-- Classification Report
-
----
-
-# 📱 Dashboard
-
-The Streamlit dashboard displays:
-
-- Student Performance Summary
-- Attendance Analytics
-- Quiz Analytics
-- Mock Test Analytics
-- Student Search
-- Performance Prediction
-- Personalized Recommendations
-
-Run the dashboard using:
+## 5 Launch Streamlit Dashboard
 
 ```bash
 cd dashboard
@@ -478,50 +399,23 @@ streamlit run app.py
 
 ---
 
-# 📊 Results
-
-The system successfully:
-
-- Generated realistic educational datasets.
-- Performed comprehensive exploratory data analysis.
-- Trained a Machine Learning model for performance prediction.
-- Classified students into performance categories.
-- Built an interactive dashboard for visualization.
-- Provided personalized academic recommendations.
-
----
-
-# 🚀 Future Enhancements
-
-- Real student database integration
-- Deep Learning models
-- XGBoost implementation
-- Student login authentication
-- Parent dashboard
-- Faculty dashboard
-- Cloud deployment
-- Mobile application
-- Real-time analytics
-- Automatic report generation
-
----
-
 # 👨‍💻 Author
 
 **Mathankumar**
 
-**B.Tech – Artificial Intelligence and Data Science**
+B.Tech – Artificial Intelligence and Data Science
 
-**Kongu Engineering College**
+Kongu Engineering College
 
 ---
 
 # 📄 License
 
-This project is developed for educational and learning purposes. It may be freely used for academic demonstrations, research, and skill development.
+This project is licensed under the MIT License.
 
 ---
 
-# ⭐ Conclusion
 
-The **Student Learning Analytics System** demonstrates a complete end-to-end Machine Learning workflow, including synthetic data generation, preprocessing, exploratory data analysis, predictive modeling, and dashboard development. By combining data analytics with machine learning, the system helps educators monitor student performance, identify at-risk learners, and make informed academic decisions through an intuitive and interactive interface.
+This project was developed as part of the **HAWC Evalytix – Student Learning Analytics Challenge** for the **AI & Data Science Internship**.
+
+Special thanks to HAWC Evalytix for providing the challenge statement and learning opportunity.
